@@ -1,0 +1,16 @@
+model,split,comet_mean,n
+idiom_only_v1,ALL,0.8073043298721313,50
+lora_r16_stage2,ALL,0.7897628903388977,50
+lora_r8_stage2,ALL,0.78716463804245,50
+baseline,ALL,0.7828588354587555,50
+lora_r4_stage2,ALL,0.7800731706619263,50
+idiom_only_v1,idioms_test,0.7627165651321411,25
+lora_r16_stage2,idioms_test,0.73265065908432,25
+baseline,idioms_test,0.7325510811805725,25
+lora_r8_stage2,idioms_test,0.7320342862606048,25
+lora_r4_stage2,idioms_test,0.7278750371932984,25
+idiom_only_v1,wmt_test,0.8518921089172363,25
+lora_r16_stage2,wmt_test,0.846875102519989,25
+lora_r8_stage2,wmt_test,0.8422949981689453,25
+baseline,wmt_test,0.8331666493415832,25
+lora_r4_stage2,wmt_test,0.8322713184356689,25
