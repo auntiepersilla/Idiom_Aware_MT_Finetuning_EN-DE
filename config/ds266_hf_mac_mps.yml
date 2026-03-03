@@ -1,0 +1,44 @@
+name: ds266-hf-mac
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+
+  # Core numeric stack (avoid ABI pain)
+  - numpy<2
+  - pandas
+  - scipy
+  - scikit-learn
+
+  # Hugging Face stack
+  - transformers>=4.40
+  - datasets>=2.18
+  - tokenizers>=0.15
+  - accelerate>=0.27
+  - evaluate>=0.4
+
+  # Data + metrics
+  - pyarrow>=15
+  - sentencepiece
+  - sacrebleu
+  - sacremoses
+
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+
+  # PyTorch (Apple Silicon build; MPS support comes with it)
+  - pytorch>=2.2
+
+  # Utilities
+  - tqdm
+  - regex
+  - requests
+  - matplotlib
+
+  # Pip-only extras (safe ones)
+  - pip:
+      - safetensors
+      - peft
+      - trl
