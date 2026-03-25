@@ -1,0 +1,3901 @@
+src,tgt,prompt,pred,model_name,n_shots
+Not a word of all this to anyone!,Kein Wort von all dem zu irgendjemandem!,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Don't discount any job, see it as an opportunity to get a foot in the door.
+
+German: Schlagen Sie keine Stelle aus, sondern sehen Sie sie als Chance, einen Fuß in die Tür zu bekommen.
+
+Translate the English sentence into natural German.
+
+English: Because I'm in the same boat.
+
+German: Ich sitze nämlich im selben Boot.
+
+Translate the English sentence into natural German.
+
+English: Are you not biting off more than you can chew with this project?
+
+German: Übernimmst du dich nicht mit diesem Projekt?
+
+Translate the English sentence into natural German.
+
+English: I have let the cat out of the bag, there is no point pretending that this job is working out for me.
+
+German: Ich habe die Katze aus dem Sack gelassen, es hat keinen Sinn, so zu tun, als ob dieser Job gut für mich wäre.
+
+Translate the English sentence into natural German.
+
+English: Every once in a while you see a temper flare up in the office, you wouldn't want to be on the end of that.
+
+German: Hin und wieder erhitzen sich im Büro die Gemüter, und da möchte man nicht die Zielscheibe sein.
+
+Now translate the next sentence.
+
+English: Not a word of all this to anyone!
+
+German:",Nicht ein Wortes zu jemanden!,google/flan-t5-small,5
+I don't want to be the blind leading the blind.,"Ich möchte nicht der Blinde sein, der die Blinden anführt.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: By trying to re-direct the flows of gas towards its territory in a major way, Moscow hopes to nip in the bud the competing projects supported by the Western countries which are seeking greater energy independence.
+
+German: Indem Moskau versucht, die Gasströme in großem Stil auf sein Territorium umzulenken, hofft es, die konkurrierenden Projekte der westlichen Länder, die eine größere Energieunabhängigkeit anstreben, im Keim zu ersticken.
+
+Translate the English sentence into natural German.
+
+English: Forgive me, but the very name of love is an apple of discord between us.
+
+German: Verzeiht mir, aber allein der Name der Liebe ist ein Zankapfel zwischen uns.
+
+Translate the English sentence into natural German.
+
+English: Although Ben saw the girl cheating he did not want to cast the first stone.
+
+German: Obwohl Ben sah, dass das Mädchen ihn betrog, wollte er nicht den ersten Stein werfen.
+
+Translate the English sentence into natural German.
+
+English: A very extensive research and development program ensures that we're ahead of the game.
+
+German: Ein sehr umfangreiches Forschungs- und Entwicklungsprogramm sorgt dafür, dass wir immer einen Schritt voraus sind.
+
+Translate the English sentence into natural German.
+
+English: In business negotiations, it's important that you don't show your cards right away.
+
+German: Bei Geschäftsverhandlungen ist es wichtig, dass Sie Ihre Karten nicht gleich auf den Tisch legen.
+
+Now translate the next sentence.
+
+English: I don't want to be the blind leading the blind.
+
+German:","Ich hoffe nicht, daß ich die Augen führen.",google/flan-t5-small,5
+"Listen, Barbara Kopetski, we could play cat and mouse all night long, but I have more important things on my mind.","Hören Sie, Barbara Kopetski, wir könnten die ganze Nacht lang Katz und Maus spielen, aber ich habe wichtigere Dinge im Kopf.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: No, we won't lose touch.
+
+German: Nein, wir werden uns nicht aus den Augen verlieren.
+
+Translate the English sentence into natural German.
+
+English: ""Any parent who permits their daughter or son to wear the modern immodest styles are subject to the condemnation of scripture - """"it would be better that they tie a millstone around their neck and cast themselves into the sea.""""""
+
+German: ""Alle Eltern, die ihren Töchtern oder Söhnen erlauben, die modernen unbescheidenen Stile zu tragen, werden von der Heiligen Schrift verurteilt - """"es wäre besser, sie würden sich einen Mühlstein um den Hals binden und sich ins Meer werfen"""".""
+
+Translate the English sentence into natural German.
+
+English: If you're single, there are tantalizing choices to make when two people who look alike but have very different characters take a shine to you.
+
+German: Wenn Sie Single sind, haben Sie die Qual der Wahl, wenn zwei Menschen, die sich ähnlich sehen, aber sehr unterschiedliche Charaktere haben, auf Sie abfahren.
+
+Translate the English sentence into natural German.
+
+English: I do not see a great deal of experience there, so it is a question of the blind leading the blind.
+
+German: Ich sehe da keine große Erfahrung, also ist es so eine Frage der Blinden, die die Blinden führen.
+
+Translate the English sentence into natural German.
+
+English: He's always been a fighter, but even he had to throw in the towel eventually.
+
+German: Er war immer ein Kämpfer, aber auch er musste irgendwann das Handtuch werfen.
+
+Now translate the next sentence.
+
+English: Listen, Barbara Kopetski, we could play cat and mouse all night long, but I have more important things on my mind.
+
+German:","Wie ich, Barbara Kopetski, können wir es es es es es es es es es es es es es es es es es e",google/flan-t5-small,5
+"I don't want to alarm you, but I just heard from the horse's mouth that there's been an outbreak of the flu.","Ich möchte Sie nicht beunruhigen, aber ich habe gerade aus erster Hand erfahren, dass eine Grippewelle ausgebrochen ist.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: However, the fear of being attacked by a shark is a horse of a different color.
+
+German: Die Angst, von einem Hai angegriffen zu werden, ist jedoch ein ganz anderes Kaliber.
+
+Translate the English sentence into natural German.
+
+English: I've been stuck in this same office for almost two years now and I'm bored stiff. I've really got itchy feet and need to go somewhere new.
+
+German: Ich sitze jetzt seit fast zwei Jahren in demselben Büro fest und langweile mich zu Tode. Mich juckt es in den Füßen und ich brauche etwas Neues.
+
+Translate the English sentence into natural German.
+
+English: I struggle with homesickness a lot but talking to my family back home gives me a lift.
+
+German: Ich habe oft mit Heimweh zu kämpfen, aber wenn ich mit meiner Familie in der Heimat spreche, muntert es mich auf.
+
+Translate the English sentence into natural German.
+
+English: They tighten the screws on him until he paid up.
+
+German: Sie haben ihm den Boden unter den Füßen heiß gemacht, bis er bezahlte.
+
+Translate the English sentence into natural German.
+
+English: Fighting them means finding creative ways to bridge the gap between security sector reform and development assistance.
+
+German: Sie zu bekämpfen bedeutet, sie zu finden kreative Wege zur Überbrückung der Kluft zwischen der Reform des Sicherheitssektors und der Entwicklungshilfe.
+
+Now translate the next sentence.
+
+English: I don't want to alarm you, but I just heard from the horse's mouth that there's been an outbreak of the flu.
+
+German:","Ich möchte Sie nicht alarmieren, aber ich hörte es aus dem Kopf, daß es schon eine Flussung geschehen ist.",google/flan-t5-small,5
+"I don't mean to rain on your parade, but I have some bad news.","Ich möchte Ihnen nicht in die Suppe spucken, aber ich habe schlechte Nachrichten.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I can't come to the meeting. I'm up to my neck in these reports.
+
+German: Ich kann nicht zu dem Treffen kommen. Ich stecke bis zum Hals in diesen Berichten.
+
+Translate the English sentence into natural German.
+
+English: I have worked my ass off to get them in a room with us and you keep them waiting 45 minutes!
+
+German: Ich habe mir den Arsch aufgerissen, um sie in einen Raum mit uns zu bekommen, und Sie lassen sie 45 Minuten warten!
+
+Translate the English sentence into natural German.
+
+English: I like activities like running, hiking, cycling, and the like - all kinds of outdoorsy stuff.
+
+German: Ich mag Aktivitäten wie Laufen, Wandern, Radfahren und dergleichen - alles, was mit der Natur zu tun hat.
+
+Translate the English sentence into natural German.
+
+English: It will be OK so stop being the harbinger of doom about it.
+
+German: Es wird alles gut werden, also hören Sie auf mit Ihrer Schwarzmalerei.
+
+Translate the English sentence into natural German.
+
+English: I cannot believe my friend stabbed me in the back by telling my teacher I wasn't really sick when I stayed home yesterday
+
+German: Ich kann nicht glauben, dass mein Freund mir in den Rücken gefallen ist, indem er meinem Lehrer gesagt hat, dass ich nicht wirklich krank war, als ich gestern zu Hause blieb.
+
+Now translate the next sentence.
+
+English: I don't mean to rain on your parade, but I have some bad news.
+
+German:","Ich weiß nicht, dass Sie auf Ihrer Feiertag fahren, aber ich haben einige schlechte Nachrichten.",google/flan-t5-small,5
+"A whippersnapper is someone who is younger than you are but also irritatingly overconfident and impertinent, like your little smart aleck cousin.","Ein Grünschnabel ist jemand, der jünger ist als du, aber auch nervtötend überheblich und frech, wie dein kleiner, klugscheißender Cousin.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Instead of supporting the enthusiastic masses, they pour cold water on them.
+
+German: Anstatt die begeisterten Massen zu unterstützen, haben Sie ihnen einen Dämpfer aufgesetzt
+
+Translate the English sentence into natural German.
+
+English: Why do you tell such fibs? Go tell it to the marines!
+
+German: Warum erzählst du solche Schwindeleien? Die kannst du deiner Großmutter erzählen!
+
+Translate the English sentence into natural German.
+
+English: He's got an ace up his sleeve. He knows who killed Judge Fawcett, and he knows why.
+
+German: Er hat ein Ass im Ärmel. Er weiß, wer Richter Fawcett umgebracht hat, und er weiß auch warum.
+
+Translate the English sentence into natural German.
+
+English: During an analysis of the news, he went out on a limb and expressed an opinion opposite to that held by the general public.
+
+German: Bei der Analyse der Nachrichten lehnte er sich aus dem Fenster und äußerte eine Meinung, die im Gegensatz zu der der Allgemeinheit stand.
+
+Translate the English sentence into natural German.
+
+English: There are 34 U.S. Senate seats up for grabs in the regular 2022 election.
+
+German: Bei den regulären Wahlen im Jahr 2022 sind 34 Sitze im US-Senat zu haben.
+
+Now translate the next sentence.
+
+English: A whippersnapper is someone who is younger than you are but also irritatingly overconfident and impertinent, like your little smart aleck cousin.
+
+German:","Ein Whippersnapper ist ein Person, die sich jünger als Sie sind, aber auch stärkt und stärkt, wie Ihre kleine Smart Aleck.",google/flan-t5-small,5
+He was like a kid in a candy store when he saw the new video game.,"Er war wie ein Kind in einem Süßwarenladen, als er das neue Videospiel sah.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I've hardly slept because my infant has been crying at the top of her voice all night.
+
+German: Ich habe kaum geschlafen, weil mein Kleinkind die ganze Nacht aus vollem Hals geschrien hat.
+
+Translate the English sentence into natural German.
+
+English: If you think that this game will be like taking candy from a baby, you're seriously underestimating your opponents.
+
+German: Wenn du glaubst, dass dieses Spiel eine leichte Übung ist, unterschätzt du deine Gegner gewaltig.
+
+Translate the English sentence into natural German.
+
+English: He was at the coalface of the problem, trying to figure out what went wrong.
+
+German: Er befand sich an vorderster Front des Problems und versuchte herauszufinden, was schiefgelaufen war.
+
+Translate the English sentence into natural German.
+
+English: You should raise the bar and ask for more.
+
+German: Sie sollten die Messlatte höher legen und mehr verlangen.
+
+Translate the English sentence into natural German.
+
+English: Going out at night in a neighborhood like that is playing with fire.
+
+German: Wer nachts in einer solchen Gegend unterwegs ist, spielt mit dem Feuer.
+
+Now translate the next sentence.
+
+English: He was like a kid in a candy store when he saw the new video game.
+
+German:","Er war wie ein Kinder in einem Candy-Store, wenn er das neue Video-Spiel sehen wollte.",google/flan-t5-small,5
+"I thought I could understand the theories, but it is all Greek to me.","Ich dachte, ich könnte die Theorien verstehen, aber ich verstehe nur Bahnhof.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I'll never make this shot with you breathing down my neck!
+
+German: Wenn du mir im Nacken sitzt, schaffe ich diese Aufnahme nie!
+
+Translate the English sentence into natural German.
+
+English: His tangential questions are clearly trying the professor's patience, who asked that all questions be held until the end of the lecture.
+
+German: Seine tangentialen Fragen strapazieren eindeutig die Geduld des Professors, der darum bittet, dass alle Fragen bis zum Ende der Vorlesung zurückgehalten werden.
+
+Translate the English sentence into natural German.
+
+English: Are you going to pay an arm and a leg for your new car?
+
+German: Wirst du für dein neues Auto viel Geld verprassen?
+
+Translate the English sentence into natural German.
+
+English: I implore all of my colleagues on all sides of the House, let us get down to business, let us get Pearson over with as fast as we can, let us get on with making Pearson a world class airport that we can all be proud of.
+
+German: Ich beschwöre alle meine Kollegen auf allen Seiten des Hauses, lassen Sie uns zur Sache kommen, lassen Sie uns Pearson so schnell wie möglich fertigstellen, lassen Sie uns damit fortfahren, Pearson zu einem Flughafen von Weltklasse zu machen, auf den wir alle stolz sein können.
+
+Translate the English sentence into natural German.
+
+English: Going back to the drawing board is the best way to fix this problem.
+
+German: Noch einmal bei null anfangen, ist die beste Lösung für dieses Problem.
+
+Now translate the next sentence.
+
+English: I thought I could understand the theories, but it is all Greek to me.
+
+German:","Ich dachte, ich zu verstehen die Theorien, aber es ist es ganz Greek zu me.",google/flan-t5-small,5
+All part of the plan - to wear us down.,Alles Teil des Plans - um uns zu zermürben.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I had been catching him with his pants down for months before I said anything.
+
+German: Ich hatte ihn schon seit Monaten auf frischer Tat ertappt, bevor ich etwas sagte.
+
+Translate the English sentence into natural German.
+
+English: I have bent over backwards for you and I deserve some appreciation.
+
+German: Ich habe mir für Sie ein Bein ausgerissen und verdiene Anerkennung.
+
+Translate the English sentence into natural German.
+
+English: We started well, top of the table, but it all went pear-shaped and we lost five matches in a row.
+
+German: Wir hatten einen guten Start, standen an der Spitze der Tabelle, aber dann ging alles den Bach runter und wir haben fünf Spiele in Folge verloren.
+
+Translate the English sentence into natural German.
+
+English: It's perfectly fine to agree to disagree.
+
+German: Es ist völlig in Ordnung, sich uneinig zu sein - Zwei Menschen, zwei Meinungen.
+
+Translate the English sentence into natural German.
+
+English: They responded right off the bat.
+
+German: Sie haben auf Anhieb reagiert.
+
+Now translate the next sentence.
+
+English: All part of the plan - to wear us down.
+
+German:",Alle Teil des Planes - die wir uns fahren.,google/flan-t5-small,5
+He's been working late with her every night this week - I smell a rat.,Er hat diese Woche jeden Abend mit ihr lange gearbeitet - da ist etwas faul!,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: After a few introductory comments, we cut to the chase and began negotiating.
+
+German: Nach ein paar einleitenden Worten kamen wir zur Sache und begannen zu verhandeln.
+
+Translate the English sentence into natural German.
+
+English: I can't imagine why a dynamic young woman like her is marrying a shrinking violet like him.
+
+German: Ich kann mir nicht vorstellen, warum eine dynamische junge Frau wie sie eine Mimose wie ihn heiratet.
+
+Translate the English sentence into natural German.
+
+English: Economic analysts appear to have been too pessimistic in August, suggesting that perhaps too much doom and gloom has been priced into the UK rates market.
+
+German: Die Wirtschaftsanalysten scheinen im August zu pessimistisch gewesen zu sein, was darauf hindeutet, dass auf dem britischen Zinsmarkt vielleicht zu viel Schwarzmalerei eingepreist wurde.
+
+Translate the English sentence into natural German.
+
+English: I don't do well under pressure, so being down to the wire is not my favorite.
+
+German: Ich stehe nicht gerne unter Druck, daher schätze ich es nicht, bis zur letzten Sekunde unter Druck zu stehen.
+
+Translate the English sentence into natural German.
+
+English: As long as you toe the line, you can stay.
+
+German: Solange du spurst, kannst du bleiben.
+
+Now translate the next sentence.
+
+English: He's been working late with her every night this week - I smell a rat.
+
+German:",Er hat er mit er jedes Nacht dieses Wochenende - Ich muß ein Rat.,google/flan-t5-small,5
+"New bank competitors have struggled to get off the ground, not helped by the caution of regulators.","Neue Bankkonkurrenten hatten es schwer, auf die Beine zu kommen, wozu auch die Vorsicht der Regulierungsbehörden beitrug.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He sends Greg to his room to hit the books.
+
+German: ""Er schickt Greg in sein Zimmer, damit er """"büffelt"""".""
+
+Translate the English sentence into natural German.
+
+English: I might be sick as a dog if I eat something that I'm allergic to.
+
+German: Wenn ich etwas esse, auf das ich allergisch reagiere, könnte mir hundeelend werden.
+
+Translate the English sentence into natural German.
+
+English: Gina, you know I appreciate you but you have to admit, we're not exactly cut from the same cloth.
+
+German: Gina, du weißt, dass ich dich schätze, aber du musst zugeben, dass wir nicht gerade aus demselben Holz geschnitzt sind.
+
+Translate the English sentence into natural German.
+
+English: In the end, they won so easily, it was like taking candy from a baby.
+
+German: Am Ende haben sie so leicht gewonnen, es war ein Kinderspiel.
+
+Translate the English sentence into natural German.
+
+English: Music, music to my ears.
+
+German: Musik, Musik in meinen Ohren.
+
+Now translate the next sentence.
+
+English: New bank competitors have struggled to get off the ground, not helped by the caution of regulators.
+
+German:","Die neuen Bankern trugen, die sich auf den Boden zu erreichen, nicht durch die Berücksichtigung der Regulierungsbehörden zu erreichen.",google/flan-t5-small,5
+Lend an ear to what I am saying; you might need to know all this when you start working on your project.,"Spitze die Ohren zu dem, was ich sage, denn all das musst du wissen, wenn du mit der Arbeit an deinem Projekt beginnst.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Every time that cannon goes off, it's music to my ears.
+
+German: Jedes Mal, wenn die Kanone losgeht, ist das Musik in meinen Ohren.
+
+Translate the English sentence into natural German.
+
+English: And in my view, and in the view of the PPE, this is a different kettle of fish.
+
+German: Meiner Ansicht nach und nach Ansicht der EVP steht das auf einem anderen Blatt
+
+Translate the English sentence into natural German.
+
+English: Major governmental policies cannot be decided on a whim; they have to be carefully and rationally thought through.
+
+German: Wichtige Regierungsmaßnahmen können nicht aus einer Laune heraus beschlossen werden, sondern müssen sorgfältig und rational durchdacht sein.
+
+Translate the English sentence into natural German.
+
+English: Admittedly, the work done in our hospitals is merely a drop in the ocean, but it will serve as a working model to show how it
+
+German: Zugegeben, die Arbeit in unseren Krankenhäusern ist nur ein Tropfen auf den heißen Stein, aber sie soll als Arbeitsmodell dienen, um zu zeigen, wie es geht
+
+Translate the English sentence into natural German.
+
+English: Do you mind if we put date night on ice for a few weeks until we get done with this project at work?
+
+German: Macht es dir etwas aus, wenn wir unsere Verabredung für ein paar Wochen auf Eis legen, bis wir mit diesem Projekt auf der Arbeit fertig sind?
+
+Now translate the next sentence.
+
+English: Lend an ear to what I am saying; you might need to know all this when you start working on your project.
+
+German:","Ein ear zu what ich am Worten; Sie können Sie wissen, wenn Sie auf Ihrem Projekt arbeiten.",google/flan-t5-small,5
+Truly there are other fish in the sea and you'll only meet them if you come out with us tonight.,"Andere Mütter haben auch schöne Töchter, und du wirst sie nur kennenlernen, wenn du heute Abend mit uns ausgehst.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Did you see that tacky dress she had on? Yikes, all her taste is in her mouth.
+
+German: Hast du das schäbige Kleid gesehen, das sie anhatte? Igitt, sie hat einen schlechten Geschmack.
+
+Translate the English sentence into natural German.
+
+English: I have been saving for a rainy day in case I lose my job.
+
+German: Ich habe etwas auf die hohe Kante gelegt, falls ich meinen Job verliere.
+
+Translate the English sentence into natural German.
+
+English: Ann spends most of her time building castles in Spain. I really like to sit on the porch in the evening, just building castles in the air.
+
+German: Ann verbringt die meiste Zeit damit, in Spanien Schlösser zu bauen. Ich mag es sehr, abends auf der Veranda zu sitzen und Luftschlösser zu bauen.
+
+Translate the English sentence into natural German.
+
+English: Ella and Red should be at each other's throats.
+
+German: Ella und Red sollten sich gegenseitig an die Gurgel gehen.
+
+Translate the English sentence into natural German.
+
+English: 1000 Words - 2 Disc SetStudio: Kelly Madison Productions Words Are Not Enough They say a picture is worth a thousand words.
+
+German: 1000 Words - 2 Disc SetStudio: Kelly Madison Productions Words Are Not Enough Man sagt, ein Bild sagt mehr als tausend Worte.
+
+Now translate the next sentence.
+
+English: Truly there are other fish in the sea and you'll only meet them if you come out with us tonight.
+
+German:","Zudem gibt es auch andere Fisch in der Meer, und Sie können nur mit uns, wenn Sie sich mit uns noch einnehmen.",google/flan-t5-small,5
+I recommend you take a powder before things start getting dangerous.,"Ich empfehle Ihnen, sich aus dem Staub zu machen, bevor es gefährlich wird.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I ran the table last night and won all my games.
+
+German: Ich habe gestern Abend abgeräumt und alle meine Spiele gewonnen.
+
+Translate the English sentence into natural German.
+
+English: I don't do well under pressure, so being down to the wire is not my favorite.
+
+German: Ich stehe nicht gerne unter Druck, daher schätze ich es nicht, bis zur letzten Sekunde unter Druck zu stehen.
+
+Translate the English sentence into natural German.
+
+English: I'm in a bit of a jam - I accidentally made plans with two different men tonight!
+
+German: Ich ich stecke ein wenig in der Klemme - ich habe versehentlich Pläne mit zwei verschiedenen Männern für heute Abend gemacht!
+
+Translate the English sentence into natural German.
+
+English: He won't act his age no matter how many times I tell him to.
+
+German: Er wird sich nicht seinem Alter entsprechend verhalten, egal wie oft ich es ihm sage.
+
+Translate the English sentence into natural German.
+
+English: Before my assistant had anger management therapy, she used to jump down everyone's throat for even the slightest problem.
+
+German: Bevor meine Assistentin eine Aggressionsbewältigungstherapie machte, ging sie jedem beim kleinsten Problem an die Gurgel.
+
+Now translate the next sentence.
+
+English: I recommend you take a powder before things start getting dangerous.
+
+German:","Ich recommande Sie einen Powder vor, bevor die Dingen zu gefährlichern.",google/flan-t5-small,5
+At the heart of all of the basic questions about normality we shall find we are spinning our wheels.,"Bei allen grundlegenden Fragen zur Normalität werden wir feststellen, dass wir uns im Kreise drehen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I am going to pay my local library a visit to pick up some books.
+
+German: Ich werde meiner örtlichen Bibliothek einen Besuch abstatten und einige Bücher mitnehmen.
+
+Translate the English sentence into natural German.
+
+English: I ought to put her in her place for the way she's been acting.
+
+German: Ich sollte sie in die Schranken weisen, so wie sie sich benommen hat.
+
+Translate the English sentence into natural German.
+
+English: He reads between the lines and can tell when people are lying.
+
+German: Er liest zwischen den Zeilen und kann erkennen, wenn jemand lügt.
+
+Translate the English sentence into natural German.
+
+English: He added fuel to the fire by revealing her secrets to their friends.
+
+German: Er goss noch mehr Öl ins Feuer, indem er ihre Geheimnisse vor ihren Freunden verriet.
+
+Translate the English sentence into natural German.
+
+English: He was speeding home as if it was a race against time.
+
+German: Er raste nach Hause, als ob es ein Wettlauf mit der Zeit wäre.
+
+Now translate the next sentence.
+
+English: At the heart of all of the basic questions about normality we shall find we are spinning our wheels.
+
+German:","In den Mittelpunkt der grundlegenden Fragen über normalität finden wir uns, dass wir unsere Schwanke stören.",google/flan-t5-small,5
+I need to finish my MBA to find a better job. It's like a millstone around my neck.,"Ich muss meinen MBA abschließen, um einen besseren Job zu finden. Das ist wie ein Mühlstein um meinen Hals.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Although one of the publishers- Elsevier - has now restored access, some poor countries are beginning to feel they have been given the keys to little more than a castle in the air, built on a non-binding agreement that can be withdrawn with little notice.
+
+German: Obwohl einer der Verlage - Elsevier - den Zugang inzwischen wiederhergestellt hat, haben einige arme Länder das Gefühl, dass man ihnen die Schlüssel zu kaum mehr als einem Luftschloss gegeben hat, das auf einer unverbindlichen Vereinbarung beruht, die ohne Vorankündigung zurückgezogen werden kann.
+
+Translate the English sentence into natural German.
+
+English: The press is going to have a field day if this story gets out.
+
+German: Das wird für die Presse ein gefundenes Fressen sein, wenn diese Geschichte bekannt wird.
+
+Translate the English sentence into natural German.
+
+English: All three singers gave impressive performances but it was Domingo who stole the show.
+
+German: Alle drei Sänger zeigten beeindruckende Leistungen, aber es war Domingo, der die Schau stahl.
+
+Translate the English sentence into natural German.
+
+English: As you can see the SE version is a sight for sore eyes too.
+
+German: Wie Sie sehen können, ist auch die SE-Version eine Augenweide.
+
+Translate the English sentence into natural German.
+
+English: I don't do well under pressure, so being down to the wire is not my favorite.
+
+German: Ich stehe nicht gerne unter Druck, daher schätze ich es nicht, bis zur letzten Sekunde unter Druck zu stehen.
+
+Now translate the next sentence.
+
+English: I need to finish my MBA to find a better job. It's like a millstone around my neck.
+
+German:","Ich muß meine MBA abgeschlossen, um ein besseres Job zu finden.",google/flan-t5-small,5
+Are you getting wind of what I am saying?,"Schnallen Sie jetzt, was ich sage?","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: They'll be singing a different tune after they see what we've come up with.
+
+German: Sie werden eine andere Tonart anschlagen, wenn sie sehen, was wir uns ausgedacht haben.
+
+Translate the English sentence into natural German.
+
+English: He queers the pitch when he argues with the boss.
+
+German: Er macht (uns) einen Strich durch die Rechnung, wenn er sich mit dem Chef streitet.
+
+Translate the English sentence into natural German.
+
+English: It's this only city that's made me laugh, cry and sing all in the same breath.
+
+German: Es ist die einzige Stadt, die mich in einem Atemzug zum Lachen, Weinen und Singen gebracht hat.
+
+Translate the English sentence into natural German.
+
+English: He can show Nia the ups and downs and give the Archives Master a good report of her when he returns.
+
+German: Er kann Nia die Höhen und Tiefen zeigen und dem Archivmeister einen guten Bericht über sie geben, wenn er zurückkehrt.
+
+Translate the English sentence into natural German.
+
+English: And it'll work this time too, if only because he'll eventually wear you down.
+
+German: Und es wird auch dieses Mal klappen, und sei es nur, weil er dich irgendwann zermürben wird.
+
+Now translate the next sentence.
+
+English: Are you getting wind of what I am saying?
+
+German:",Können Sie die Wind von What I am Saying?,google/flan-t5-small,5
+"Jesus Christ! I will kill myself if I continue like this, I don't have a penny to my name!","Mein Gott! Ich bringe mich um, wenn ich so weitermache, ich bin völlig abgebrannt!","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Losing that job was a blessing in disguise really.
+
+German: Der Verlust dieses Jobs war eigentlich Glück im Unglück.
+
+Translate the English sentence into natural German.
+
+English: The most vulnerable animals are those that are not used to urea supplements, those with weak livers, and those taking in urea on an empty stomach.
+
+German: Am anfälligsten sind Tiere, die nicht an Harnstoffergänzungen gewöhnt sind, Tiere mit schwacher Leber und solche, die Harnstoff auf nüchternen Magen zu sich nehmen.
+
+Translate the English sentence into natural German.
+
+English: Sara has certainly not looked like a fish out of water in the mathematics lecture, since she is taking some online classes to improve her concepts.
+
+German: Sara hat sich in der Mathematikvorlesung sicher nicht wie ein Fisch auf dem Trockenen gefühlt, da sie einige Online-Kurse besucht, um ihre Konzepte zu verbessern.
+
+Translate the English sentence into natural German.
+
+English: He is keeping his word and helping me.
+
+German: Er hält sein Wort und hilft mir.
+
+Translate the English sentence into natural German.
+
+English: As long as you toe the line, you can stay.
+
+German: Solange du spurst, kannst du bleiben.
+
+Now translate the next sentence.
+
+English: Jesus Christ! I will kill myself if I continue like this, I don't have a penny to my name!
+
+German:","Jesucristo! Ich werde ich dies, wenn ich weiterhin auf dieses, ich es nicht ein Stück zu meinem Namen!",google/flan-t5-small,5
+Over-the-knee boots were all the rage last winter.,Overknee-Stiefel waren im letzten Winter der letzte Schrei.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: But once he understood the question he demonstrated that he is still as sharp as a tack.
+
+German: Aber als er die Frage verstanden hatte, bewies er, dass er immer noch so schlau wie ein Fuchs ist.
+
+Translate the English sentence into natural German.
+
+English: I will be dead tired when the kids finally go to bed.
+
+German: Ich werde todmüde sein, wenn die Kinder endlich ins Bett gehen.
+
+Translate the English sentence into natural German.
+
+English: I told her that I wasn't interested in her proposal, and she showed me the door in no uncertain terms.
+
+German: Ich sagte ihr, dass ich an ihrem Vorschlag nicht interessiert sei, und sie wies mir unmissverständlich die Tür.
+
+Translate the English sentence into natural German.
+
+English: I can't come to the meeting. I'm up to my neck in these reports.
+
+German: Ich kann nicht zu dem Treffen kommen. Ich stecke bis zum Hals in diesen Berichten.
+
+Translate the English sentence into natural German.
+
+English: I had lit a fire under her and she finally decided to finish her dissertation.
+
+German: Ich hatte ein Feuer in ihr entfacht, und sie beschloss schließlich, ihre Dissertation zu beenden.
+
+Now translate the next sentence.
+
+English: Over-the-knee boots were all the rage last winter.
+
+German:",Over-the-knee Booten waren alle die ragen letzten Winter.,google/flan-t5-small,5
+"Don't play innocent, Benjamin.","Tun Sie nicht so unschuldig, Benjamin.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I couldn't make head or tail of it at all, but I thought it sounded pretty good.
+
+German: Ich konnte mir zwar keinen Reim darauf machen, aber ich fand, es klang ziemlich gut.
+
+Translate the English sentence into natural German.
+
+English: I'm still buzzing from head to toe.
+
+German: Ich bin immer noch von Kopf bis Fuß aufgeregt.
+
+Translate the English sentence into natural German.
+
+English: We were tickled pink with the whole notion of winning so much money.
+
+German: Bei der Vorstellung, so viel Geld zu gewinnen, haben wir uns gefreut wie ein Schneekönig.
+
+Translate the English sentence into natural German.
+
+English: Let's just agree to disagree. We're never going to see eye to eye on politics!
+
+German: Zwei Menschen, zwei Meinungen. Wir werden in der Politik nie einer Meinung sein!
+
+Translate the English sentence into natural German.
+
+English: I could give you a lift to the game, but I don't have a car.
+
+German: Ich könnte dich zum Spiel mitnehmen, aber ich habe kein Auto.
+
+Now translate the next sentence.
+
+English: Don't play innocent, Benjamin.
+
+German:","Don't play innocent, Benjamin.",google/flan-t5-small,5
+I hate my job but cannot quit owing to my economic condition. I'm stuck between a rock and a hard place,"Ich hasse meinen Job, kann aber aufgrund meiner wirtschaftlichen Lage nicht kündigen. Ich stecke in einer Zwickmühle.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I tried to get him to change his mind, but he dug his heels in.
+
+German: Ich habe versucht, ihn umzustimmen, aber er beharrte auf seinem Standpunkt.
+
+Translate the English sentence into natural German.
+
+English: He sends Greg to his room to hit the books.
+
+German: ""Er schickt Greg in sein Zimmer, damit er """"büffelt"""".""
+
+Translate the English sentence into natural German.
+
+English: ""Just long enough to allow """"all the dust to settle"""" and to provide an opportunity for """"a clear-eyed view"""" of the way ahead.""
+
+German: ""Gerade lange genug, damit sich """"die Wogen glätten"""" können und die Möglichkeit besteht, """"einen klaren Blick"""" auf den weiteren Weg zu werfen.""
+
+Translate the English sentence into natural German.
+
+English: I have to break my back to prove myself to my boss.
+
+German: Ich muss mir den Arsch aufreißen, um mich bei meinem Chef zu beweisen.
+
+Translate the English sentence into natural German.
+
+English: Fighting them means finding creative ways to bridge the gap between security sector reform and development assistance.
+
+German: Sie zu bekämpfen bedeutet, sie zu finden kreative Wege zur Überbrückung der Kluft zwischen der Reform des Sicherheitssektors und der Entwicklungshilfe.
+
+Now translate the next sentence.
+
+English: I hate my job but cannot quit owing to my economic condition. I'm stuck between a rock and a hard place
+
+German:","Ich hat meine Arbeit, aber kann es nicht vergessen, weil ich meine wirtschaftlichen Lage sein kann. Ich muß zwischen einer Rock und einer anspruchsvollen Ort stärkt.",google/flan-t5-small,5
+"For the young Canadian servicemen, the order to ship out to battle on a moment's notice was expected daily.","Die jungen kanadischen Soldaten erwarteten täglich den Befehl, kurzfristig in den Kampf zu ziehen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He had always been alone, it was suspicious and there is no smoke without fire.
+
+German: Er war immer allein gewesen, das war verdächtig, und wo Rauch ist, ist auch Feuer.
+
+Translate the English sentence into natural German.
+
+English: I'm very tired of being yelled at, pushed around, and the like.
+
+German: Ich habe es satt, angeschrien, herumgeschubst zu werden und dergleichen.
+
+Translate the English sentence into natural German.
+
+English: I am starting my new job tomorrow, it feels like I am turning over a new leaf.
+
+German: Ich fange morgen meinen neuen Job an, es fühlt sich an, als würde ich ein neues Kapitel aufschlagen.
+
+Translate the English sentence into natural German.
+
+English: There are 34 U.S. Senate seats up for grabs in the regular 2022 election.
+
+German: Bei den regulären Wahlen im Jahr 2022 sind 34 Sitze im US-Senat zu haben.
+
+Translate the English sentence into natural German.
+
+English: My parents had a back and forth over my education when I was a child.
+
+German: Als ich ein Kind war, stritten meine Eltern hin und her über meine Ausbildung.
+
+Now translate the next sentence.
+
+English: For the young Canadian servicemen, the order to ship out to battle on a moment's notice was expected daily.
+
+German:","Für die jungen Canadian-Servermen, es wäre es es es es es es es es es es es es es es es es e",google/flan-t5-small,5
+"He really shot himself in the foot, telling the interviewer all about the others who were applying for the job he wanted","Er hat sich selbst ins Knie geschossen, als er dem Interviewer alles über die anderen Bewerber für die Stelle, die er haben wollte, erzählte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: A growing amount of evidence lends weight/credence/credibility to their theory.
+
+German: Eine wachsende Zahl von Beweisen untermauert ihre Theorie.
+
+Translate the English sentence into natural German.
+
+English: He had always been alone, it was suspicious and there is no smoke without fire.
+
+German: Er war immer allein gewesen, das war verdächtig, und wo Rauch ist, ist auch Feuer.
+
+Translate the English sentence into natural German.
+
+English: However, when a library provides a significant unique capability, like GNU Readline, that's a horse of a different color.
+
+German: Wenn jedoch eine Bibliothek eine signifikante, einzigartige Fähigkeit bietet, wie GNU Readline, dann ist das ein ganz anderes Kaliber.
+
+Translate the English sentence into natural German.
+
+English: She had wanted to be a ballet dancer when she grew up, but as she got older, she realized it was nothing but a pipe dream.
+
+German: Als sie aufwuchs, wollte sie Balletttänzerin werden, aber als sie älter wurde, merkte sie, dass dies nur ein Hirngespinst war.
+
+Translate the English sentence into natural German.
+
+English: Let's just agree to disagree. We're never going to see eye to eye on politics!
+
+German: Zwei Menschen, zwei Meinungen. Wir werden in der Politik nie einer Meinung sein!
+
+Now translate the next sentence.
+
+English: He really shot himself in the foot, telling the interviewer all about the others who were applying for the job he wanted
+
+German:","He hat sich selbst in der Kopf, telling den Interviewer all über diejenigen, die für das Job he wollte, he wollte.",google/flan-t5-small,5
+"One should never let sleeping dogs lie, especially those who left the fireside hearth with a grudge.","Man sollte keine schlafenden Hunde wecken, vor allem nicht solche, die den Kamin mit einem Groll verlassen haben.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: After days of fighting, they finally kissed and made up.
+
+German: Nach tagelangem Streit haben sie sich schließlich wieder versöhnt.
+
+Translate the English sentence into natural German.
+
+English: And being a fit family doesn't have to add stress or break the bank.
+
+German: Und eine fitte Familie zu sein, muss weder Stress verursachen noch einen ruinieren.
+
+Translate the English sentence into natural German.
+
+English: Major governmental policies cannot be decided on a whim; they have to be carefully and rationally thought through.
+
+German: Wichtige Regierungsmaßnahmen können nicht aus einer Laune heraus beschlossen werden, sondern müssen sorgfältig und rational durchdacht sein.
+
+Translate the English sentence into natural German.
+
+English: Chloe, please, don't borrow trouble.
+
+German: Chloe, bitte, mach Dir bitte keinen Ärger.
+
+Translate the English sentence into natural German.
+
+English: After two long, ultimately painful relationships, I'm just looking to find a friend with benefits these days.
+
+German: Nach zwei langen, letztlich schmerzhaften Beziehungen suche ich jetzt nur noch eine Freundschaft Plus.
+
+Now translate the next sentence.
+
+English: One should never let sleeping dogs lie, especially those who left the fireside hearth with a grudge.
+
+German:","One sollte nun es nicht schlafen, insbesondere diejenigen, die das Feuerschaber mit einem Grudge zu fahren.",google/flan-t5-small,5
+"Gloger also spends four hours with every new staff person, conducting the orientation herself, where she discusses mission values, the history of the organization, and the strategic plan; ensuring that everyone is on the same page and clear about expectations","Gloger verbringt auch vier Stunden mit jedem neuen Mitarbeiter, indem sie die Einweisung selbst durchführt. Dabei bespricht sie die Auftragswerte, die Geschichte der Organisation und den Strategieplan und stellt sicher, dass alle auf der selben Wellenlänge sind und sich über die Erwartungen im Klaren sind.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I was curious to see if I could use the form to express more serious themes. On a lark, I decided to acrostic one of Dickinson's first lines, just to see what would happen
+
+German: Ich war neugierig, ob ich die Form nutzen könnte, um ernstere Themen auszudrücken. Aus einer Laune heraus beschloss ich, eine der ersten Zeilen von Dickinson als Akrostichon zu verwenden, um zu sehen, was passieren würde
+
+Translate the English sentence into natural German.
+
+English: After a few introductory comments, we cut to the chase and began negotiating.
+
+German: Nach ein paar einleitenden Worten kamen wir zur Sache und begannen zu verhandeln.
+
+Translate the English sentence into natural German.
+
+English: Every time that cannon goes off, it's music to my ears.
+
+German: Jedes Mal, wenn die Kanone losgeht, ist das Musik in meinen Ohren.
+
+Translate the English sentence into natural German.
+
+English: The art of transformation is a double-edged sword.
+
+German: Die Kunst der Transformation ist ein zweischneidiges Schwert.
+
+Translate the English sentence into natural German.
+
+English: The sheer number of books inside will take your breath away.
+
+German: Die schiere Anzahl der Bücher darin wird Ihnen den Atem rauben.
+
+Now translate the next sentence.
+
+English: Gloger also spends four hours with every new staff person, conducting the orientation herself, where she discusses mission values, the history of the organization, and the strategic plan; ensuring that everyone is on the same page and clear about expectations
+
+German:","Gloger also spends four hours with every new staff person, conducting the orientation herself, where she discusses mission values, the history of the organization, and the strategic plan; ensuring that everyone is on the same page and clear about expectations.",google/flan-t5-small,5
+It's not just one bad apple.,Es ist nicht nur ein fauler Apfel.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Being ahead of the curve allows you to capitalize on new opportunities.
+
+German: Wenn Sie Ihrer Zeit voraus sind, können Sie neue Chancen wahrnehmen.
+
+Translate the English sentence into natural German.
+
+English: Because we had skin in the game, we could work on joint procurement and other business.
+
+German: Da wir mit im Spiel waren, konnten wir an der gemeinsamen Beschaffung und anderen Geschäften arbeiten.
+
+Translate the English sentence into natural German.
+
+English: Don't ask about his divorce - curiosity killed the cat.
+
+German: Fragen Sie nicht nach seiner Scheidung - Neugierde ist der Katze Tod.
+
+Translate the English sentence into natural German.
+
+English: The whole building, soup to nuts, cost less to build than that parking lot.
+
+German: Der Bau des gesamten Gebäudes, mit allem Drum und Dran, hat weniger als der Bau des Parkplatzes gekostet.
+
+Translate the English sentence into natural German.
+
+English: I'm just trying to be a voice of reason, I don't want to be a wet blanket.
+
+German: Ich versuche nur, eine Stimme der Vernunft zu sein. Ich will kein Spielverderber sein.
+
+Now translate the next sentence.
+
+English: It's not just one bad apple.
+
+German:",Es ist nicht nur ein schlechtes Apple.,google/flan-t5-small,5
+I know my grandfather would have turned over in his grave if he had found out about my DUI.,"Ich weiß, dass mein Großvater sich im Grab umgedreht hätte, wenn er von meiner Trunkenheit am Steuer erfahren hätte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He's been going behind my back and spying on me.
+
+German: Er hat mich hintergangen und ausspioniert.
+
+Translate the English sentence into natural German.
+
+English: All my hopes of finding a good job in television have gone out of the window.
+
+German: Alle meine Hoffnungen, einen guten Job beim Fernsehen zu finden, haben sich in Luft aufgelöst.
+
+Translate the English sentence into natural German.
+
+English: As soon as her temperature is down, she'll be out of the woods.
+
+German: Sobald ihre Temperatur gesunken ist, ist sie aus dem Schneider.
+
+Translate the English sentence into natural German.
+
+English: You can even turn the clock back.
+
+German: Sie können sogar die Zeit zurückdrehen.
+
+Translate the English sentence into natural German.
+
+English: Have you two seen eye to eye on the new project yet?
+
+German: Habt ihr beide beim neuen Projekt schon begonnen, dieselbe Sprache zu sprechen?
+
+Now translate the next sentence.
+
+English: I know my grandfather would have turned over in his grave if he had found out about my DUI.
+
+German:","Ich weiß, daß ich meines Vaters es in seinem Grave hat, wenn er über meine DUI entdeckt hatte.",google/flan-t5-small,5
+No wonder she is as pale as a ghost.,"Kein Wunder, dass sie so leichenblass ist.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: After the transition, stakeholders wanted to meet me for coffee, staff felt they needed to keep me in the loop and board members kept checking in with me.
+
+German: Nach dem Übergang wollten sich die Beteiligten mit mir auf einen Kaffee treffen, die Mitarbeiter hatten das Gefühl, dass sie mich auf dem Laufenden halten mussten, und die Vorstandsmitglieder meldeten sich immer wieder bei mir.
+
+Translate the English sentence into natural German.
+
+English: I am searching for a man who is after my own heart.
+
+German: Ich bin auf der Suche nach einem Mann, der nach meinem Geschmack ist.
+
+Translate the English sentence into natural German.
+
+English: Going into the takeover negotiations, we had the legs cut from under us when our recent poor sales record was leaked.
+
+German: Als wir in die Übernahmeverhandlungen gingen, wurde uns der Boden unter den Füßen weggezogen, als unsere aktuellen schlechten Verkaufszahlen bekannt wurden.
+
+Translate the English sentence into natural German.
+
+English: Does anyone have a better suggestion? Mark's idea has more holes than Swiss cheese.
+
+German: Hat jemand einen besseren Vorschlag? Marks Idee ist nicht ausgereift.
+
+Translate the English sentence into natural German.
+
+English: Ethel has a thick skin, so I'm not surprised she didn't see how unhappy you were.
+
+German: Ethel hat ein dickes Fell, deshalb überrascht es mich nicht, dass sie nicht gemerkt hat, wie unglücklich du warst.
+
+Now translate the next sentence.
+
+English: No wonder she is as pale as a ghost.
+
+German:",No wonder she is as pale als a ghost.,google/flan-t5-small,5
+Paula has her hands full with those kids.,Paula hat mit diesen Kindern alle Hände voll zu tun.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He was tickled pink to be elected president
+
+German: Er freute sich wie ein Schneekönig, dass er zum Präsidenten gewählt wurde.
+
+Translate the English sentence into natural German.
+
+English: The most vulnerable animals are those that are not used to urea supplements, those with weak livers, and those taking in urea on an empty stomach.
+
+German: Am anfälligsten sind Tiere, die nicht an Harnstoffergänzungen gewöhnt sind, Tiere mit schwacher Leber und solche, die Harnstoff auf nüchternen Magen zu sich nehmen.
+
+Translate the English sentence into natural German.
+
+English: Besides this, two Russian ships left the port of Tartus to play cat and mouse with a British nuclear attack submarine...
+
+German: Außerdem verließen zwei russische Schiffe den Hafen von Tartus, um Katz und Maus mit einem britischen Atom-U-Boot zu spielen ...
+
+Translate the English sentence into natural German.
+
+English: If the detective discovers that the two criminals have been working hand in glove, he will arrest them.
+
+German: Wenn der Detektiv herausfindet, dass die beiden Kriminellen Hand in Hand gearbeitet haben, wird er sie verhaften.
+
+Translate the English sentence into natural German.
+
+English: I'm ready to play but I can't help you if I'm kept in the dark.
+
+German: Ich bin bereit zu spielen, aber ich kann Ihnen nicht helfen, wenn ich im Dunkeln gelassen werde.
+
+Now translate the next sentence.
+
+English: Paula has her hands full with those kids.
+
+German:",Paula hat ihre Handel mit diesen Kindern.,google/flan-t5-small,5
+"My boss found out that I messed up the budget report, and now I have egg on my face.","Mein Chef hat herausgefunden, dass ich den Budgetbericht verpfuscht habe, und jetzt stehe ich dumm da.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: If you screw up during the registration process, you can update your profile later on.
+
+German: Wenn Sie bei der Registrierung Mist bauen, können Sie Ihr Profil später aktualisieren.
+
+Translate the English sentence into natural German.
+
+English: I am sure that my boss will throw me under the bus for the failed project.
+
+German: Ich bin mir sicher, dass mein Chef mich für das gescheiterte Projekt über die Klinge springen lassen wird.
+
+Translate the English sentence into natural German.
+
+English: Figured it'd be a cold day in hell before I laid eyes on you again.
+
+German: Ich dachte, die Hölle würde zufrieren, bevor ich dich wiedersehen würde.
+
+Translate the English sentence into natural German.
+
+English: Other than that, keep your eyes open and your lip buttoned and you'll catch on to the routine.
+
+German: Ansonsten gilt: Augen auf und Klappe halten, dann klappt's auch mit der Routine.
+
+Translate the English sentence into natural German.
+
+English: Everything that has been unbalanced and resisted change is like a castle in the air, hanging there without any foundation to support it.
+
+German: Alles, was aus dem Gleichgewicht geraten ist und sich dem Wandel widersetzt hat, ist wie ein Luftschloss, die ohne jedes Fundament in der Luft hängt.
+
+Now translate the next sentence.
+
+English: My boss found out that I messed up the budget report, and now I have egg on my face.
+
+German:","Meine Kolleginnen entdeckte, daß ich die Haushaltsbericht messed, und jetzt ich hat ich ein Egg auf meinem Gesicht.",google/flan-t5-small,5
+Counting on the price of IBM to rise sharply was betting on the wrong horse.,"Wer auf einen steilen Anstieg des IBM-Kurses gesetzt hat, hat auf das falsche Pferd gesetzt.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I always used to take a back seat and let people get on with it.
+
+German: Früher habe ich mich immer zurückgehalten und die Leute machen lassen, was sie wollten.
+
+Translate the English sentence into natural German.
+
+English: He shall blow your mind with his talent.
+
+German: Er wird Sie mit seinem Talent umhauen.
+
+Translate the English sentence into natural German.
+
+English: I am going to grasp the nettle and start my own business.
+
+German: Ich werde die Initiative ergreifen und mein eigenes Unternehmen gründen.
+
+Translate the English sentence into natural German.
+
+English: My colleagues will pick up the slack while I am on holiday.
+
+German: Meine Kollegen werden einspringen, während ich im Urlaub bin.
+
+Translate the English sentence into natural German.
+
+English: I've been trying to raise my concerns about the project, but I'm small beer to the company's upper management.
+
+German: Ich habe versucht, meine Bedenken gegen das Projekt vorzubringen, aber ich bin ein kleiner Fisch für die Unternehmensleitung.
+
+Now translate the next sentence.
+
+English: Counting on the price of IBM to rise sharply was betting on the wrong horse.
+
+German:",Im Vergleich zu den Preis von IBM zu einem höheren Preis hat es an der falschen Handel bezahlen.,google/flan-t5-small,5
+He was dead tired from his night shift.,Er war noch todmüde von seiner Nachtschicht.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He sees eye to eye with me on this issue.
+
+German: In diesem Punkt sprechen wir dieselbe Sprache.
+
+Translate the English sentence into natural German.
+
+English: I was already fed up with his laziness and insensitivity, but Jim's refusal to come with me to my own mother's funeral was the straw that breaks the camel's back.
+
+German: Ich hatte schon genug von seiner Faulheit und Gefühllosigkeit, aber Jims Weigerung, mich zur Beerdigung meiner eigenen Mutter zu begleiten, war der Tropfen, der das Fass zum Überlaufen brachte.
+
+Translate the English sentence into natural German.
+
+English: Don't worry about your exam score; look on the bright side. It is a significant improvement from the previous exam.
+
+German: Machen Sie sich keine Sorgen über Ihr Prüfungsergebnis, sondern sehen Sie es positiv. Es ist eine deutliche Verbesserung gegenüber der letzten Prüfung.
+
+Translate the English sentence into natural German.
+
+English: The project was so difficult that he felt like he had an albatross around his neck.
+
+German: Das Projekt war so schwierig, dass er es als Klotz am Bein empfand.
+
+Translate the English sentence into natural German.
+
+English: Are you going out on a limb and saying that you don't believe her?
+
+German: Sie lehnen sich also weit aus dem Fenster und sagen, dass Sie ihr nicht glauben?
+
+Now translate the next sentence.
+
+English: He was dead tired from his night shift.
+
+German:","Er hatte es noch dauern, daß es es es es es es es.",google/flan-t5-small,5
+"No wonder so many of my people spit bars, because the truth is hard to swallow.","Kein Wunder, dass so viele meiner Leute auf Gitterstäbe spucken, denn die Wahrheit ist schwer zu schlucken.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Tony sweetheart, I wish we could turn the clock back for you.
+
+German: Tony, mein Schatz, ich wünschte, wir könnten die Zeit für dich zurückdrehen.
+
+Translate the English sentence into natural German.
+
+English: The project was so difficult that he felt like he had an albatross around his neck.
+
+German: Das Projekt war so schwierig, dass er es als Klotz am Bein empfand.
+
+Translate the English sentence into natural German.
+
+English: Getting a second wind is essential for long-distance runners.
+
+German: Für Langstreckenläufer ist es wichtig, einen frischen Auftrieb zu bekommen.
+
+Translate the English sentence into natural German.
+
+English: I am putting the project on ice until I can get more people to help.
+
+German: Ich lege das Projekt auf Eis, bis ich mehr Leute zur Mitarbeit gewinnen kann.
+
+Translate the English sentence into natural German.
+
+English: This operation depends on you, so don't screw the pooch.
+
+German: Diese Operation hängt von Ihnen ab, also bauen Sie keinen Mist!
+
+Now translate the next sentence.
+
+English: No wonder so many of my people spit bars, because the truth is hard to swallow.
+
+German:","Leider ist es so viele von meinem Volk spitbars, weil die Wahrheit es schwierig zu sneder.",google/flan-t5-small,5
+"So far, so good, but I'll let you know how we make out when we're finished.","So weit, so gut, aber ich werde Sie wissen lassen, wie wir abschneiden, wenn wir fertig sind.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He's so messy and it's driving me up the wall!
+
+German: Er ist so unordentlich und das geht mir auf den Wecker.
+
+Translate the English sentence into natural German.
+
+English: After midnight the dancers seemed to get their second wind and went on till dawn.
+
+German: Nach Mitternacht schienen die Tänzerinnen und Tänzer wieder frischen Auftrieb zu bekommen und machten bis zum Morgengrauen weiter.
+
+Translate the English sentence into natural German.
+
+English: He claims that he was kept out of the loop when the decision to sell the company was being made.
+
+German: Er behauptet, dass er bei der Entscheidung über den Verkauf des Unternehmens nicht auf dem Laufenden gehalten wurde.
+
+Translate the English sentence into natural German.
+
+English: Mom's face went red as a cherry when I confessed that I was trying to sneak out of the house to go to a party.
+
+German: Meine Mutter wurde rot wie eine Tomate, als ich ihr gestand, dass ich mich aus dem Haus schleichen wollte, um auf eine Party zu gehen.
+
+Translate the English sentence into natural German.
+
+English: Have you noticed that he always gets the lion's share of the credit?
+
+German: Ist Ihnen aufgefallen, dass er immer den Löwenanteil der Anerkennung bekommt?
+
+Now translate the next sentence.
+
+English: So far, so good, but I'll let you know how we make out when we're finished.
+
+German:","So far, so good, aber ich werde Ihnen wissen, wie wir uns geschehen wird.",google/flan-t5-small,5
+If only someone could step up to the plate.,Wenn doch nur jemand es in die Hand nehmen könnte.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: After days of fighting, they finally kissed and made up.
+
+German: Nach tagelangem Streit haben sie sich schließlich wieder versöhnt.
+
+Translate the English sentence into natural German.
+
+English: Going with the flow can be liberating.
+
+German: Mit dem Strom zu schwimmen kann befreiend sein.
+
+Translate the English sentence into natural German.
+
+English: But life is never just a bed of roses.
+
+German: Aber das Leben ist nie nur ein Zuckerschlecken.
+
+Translate the English sentence into natural German.
+
+English: Mom's face went red as a cherry when I confessed that I was trying to sneak out of the house to go to a party.
+
+German: Meine Mutter wurde rot wie eine Tomate, als ich ihr gestand, dass ich mich aus dem Haus schleichen wollte, um auf eine Party zu gehen.
+
+Translate the English sentence into natural German.
+
+English: Getting a second wind is essential for long-distance runners.
+
+German: Für Langstreckenläufer ist es wichtig, einen frischen Auftrieb zu bekommen.
+
+Now translate the next sentence.
+
+English: If only someone could step up to the plate.
+
+German:","Wenn nur diejenigen, die sich auf der Plate zu setzen, solltest du sein.",google/flan-t5-small,5
+He went from rags to riches when he inherited his uncle's fortune.,"Er wurde vom Tellerwäscher zum Millionär, als er das Vermögen seines Onkels erbte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Are you going to seize the day, or let it pass you by?
+
+German: Werden Sie den Tag nutzen oder ihn an sich vorbeiziehen lassen?
+
+Translate the English sentence into natural German.
+
+English: Don't worry - we'll have the money ready by 4 o'clock, by hook or by crook.
+
+German: Keine Sorge - wir werden das Geld bis 16 Uhr auf Biegen und Brechen bereit haben.
+
+Translate the English sentence into natural German.
+
+English: Are you going to pay an arm and a leg for your new car?
+
+German: Wirst du für dein neues Auto viel Geld verprassen?
+
+Translate the English sentence into natural German.
+
+English: I searched that guy from head to toe.
+
+German: Ich habe den Kerl von Kopf bis Fuß durchsucht.
+
+Translate the English sentence into natural German.
+
+English: Major governmental policies cannot be decided on a whim; they have to be carefully and rationally thought through.
+
+German: Wichtige Regierungsmaßnahmen können nicht aus einer Laune heraus beschlossen werden, sondern müssen sorgfältig und rational durchdacht sein.
+
+Now translate the next sentence.
+
+English: He went from rags to riches when he inherited his uncle's fortune.
+
+German:","He hat von rags zu riches, wenn er seine Sohn seines Vaters erwußt.",google/flan-t5-small,5
+When the program lost the grant its financial legs had been cut out from under it.,"Als das Programm die Förderung verlor, wurde ihm der finanzielle Boden unter den Füßen weggezogen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Pressure was brought to bear on us to finish the work on time.
+
+German: Es wurde Druck auf uns ausgeübt, damit wir die Arbeiten fristgerecht abschließen.
+
+Translate the English sentence into natural German.
+
+English: He's so messy and it's driving me up the wall!
+
+German: Er ist so unordentlich und das geht mir auf den Wecker.
+
+Translate the English sentence into natural German.
+
+English: He departed on a sour note five years later in the wake of accounting problems.
+
+German: Fünf Jahre später verließ er das Unternehmen aufgrund von Problemen mit der Rechnungslegung mit einem mit einem bitteren Beigeschmack.
+
+Translate the English sentence into natural German.
+
+English: He thought maybe both groups had gotten the short end of the stick.
+
+German: Er dachte, dass vielleicht beide Gruppen den Kürzeren gezogen hatten.
+
+Translate the English sentence into natural German.
+
+English: The most vulnerable animals are those that are not used to urea supplements, those with weak livers, and those taking in urea on an empty stomach.
+
+German: Am anfälligsten sind Tiere, die nicht an Harnstoffergänzungen gewöhnt sind, Tiere mit schwacher Leber und solche, die Harnstoff auf nüchternen Magen zu sich nehmen.
+
+Now translate the next sentence.
+
+English: When the program lost the grant its financial legs had been cut out from under it.
+
+German:","Wenn das Programm die finanzielle Abteilung ergriffen, hat seine finanzielle Gesetzgebung ergriffen.",google/flan-t5-small,5
+We're cut from the same cloth as any American who has a pioneer spirit.,"Wir sind aus dem gleichen Holz geschnitzt wie alle Amerikaner, die Pioniergeist haben.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Aaron Morse is a chip off the old block and will be a solid voice on the board regardless of who wins the mayorship.
+
+German: Aaron Morse ist aus demselben Holz geschnitzt und wird unabhängig davon, wer die Bürgermeisterschaft gewinnt, eine solide Stimme im Vorstand sein.
+
+Translate the English sentence into natural German.
+
+English: I'm going to make sure by hook or by crook that he pays for what he did!
+
+German: Ich werde dafür sorgen, dass er auf Biegen und Brechen dafür bezahlt, was er getan hat!
+
+Translate the English sentence into natural German.
+
+English: He got away by the skin of his teeth.
+
+German: Er kam um Haaresbreite davon.
+
+Translate the English sentence into natural German.
+
+English: After a routine health check up with his local physician, Jeremy's doctor concluded that he was healthy, in other words, he was as fit as a fiddle.
+
+German: Nach einem routinemäßigen Gesundheitscheck bei seinem Hausarzt kam Jeremys Arzt zu dem Schluss, dass er gesund ist, mit anderen Worten, er ist fit wie ein Turnschuh.
+
+Translate the English sentence into natural German.
+
+English: He sends Greg to his room to hit the books.
+
+German: ""Er schickt Greg in sein Zimmer, damit er """"büffelt"""".""
+
+Now translate the next sentence.
+
+English: We're cut from the same cloth as any American who has a pioneer spirit.
+
+German:","Wir sind aus dem gleichen Handel wie jeder American, die eine französische Geist.",google/flan-t5-small,5
+"We didn't want to put the cat among the pigeons, so we decided not to mention the bomb threat.","Wir wollten keine Unruhe stiften und beschlossen, die Bombendrohung nicht zu erwähnen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I bet you wish you hadn't said that now! You're eating your words.
+
+German: Ich wette, Sie wünschen sich jetzt, Sie hätten das nicht gesagt! Du wirst deine Worte zurücknehmen.
+
+Translate the English sentence into natural German.
+
+English: Everyone had very high hopes for the newly elected senator, but she accomplished little in her first term, and I'm afraid the bloom is off the rose at this point.
+
+German: Alle hatten große Hoffnungen in die neu gewählte Senatorin gesetzt, aber sie hat in ihrer ersten Amtszeit nur wenig erreicht, und ich fürchte, dass jetzt der Lack ab ist.
+
+Translate the English sentence into natural German.
+
+English: I had lit a fire under her and she finally decided to finish her dissertation.
+
+German: Ich hatte ein Feuer in ihr entfacht, und sie beschloss schließlich, ihre Dissertation zu beenden.
+
+Translate the English sentence into natural German.
+
+English: It'll be a cold day in July before you defeat me.
+
+German: Du wirst mich nicht in diesem Leben besiegen.
+
+Translate the English sentence into natural German.
+
+English: A wonderful chamber music performance by four long-standing collaborators who have more than one string to their bow.
+
+German: Eine wunderbare kammermusikalische Darbietung von vier langjährig zusammenarbeitenden Künstlern, die mehrere Eisen im Feuer haben.
+
+Now translate the next sentence.
+
+English: We didn't want to put the cat among the pigeons, so we decided not to mention the bomb threat.
+
+German:","Wir wollten nicht die Katastrophe unter den Pigeonen, sondern wir halte nicht die Bomb-Verbrechen.",google/flan-t5-small,5
+"He fell apart after his wife died, I told him to pull himself together.","Nach dem Tod seiner Frau brach er zusammen, und ich sagte ihm, er solle sich zusammenreißen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: A growing amount of evidence lends weight/credence/credibility to their theory.
+
+German: Eine wachsende Zahl von Beweisen untermauert ihre Theorie.
+
+Translate the English sentence into natural German.
+
+English: My throat is a little sore now. Could I scream at the top of my voice?
+
+German: Mein Hals tut jetzt ein bisschen weh. Könnte ich aus voller Kehle schreien?
+
+Translate the English sentence into natural German.
+
+English: She felt that not achieving a perfect grade point average was as bad as failing all her classes because, according to her, a miss is as good as a mile.
+
+German: Sie war der Meinung, dass ein schlechter Notendurchschnitt genauso schlimm sei wie das Nichtbestehen aller ihrer Kurse, denn knapp daneben ist auch vorbei.
+
+Translate the English sentence into natural German.
+
+English: Are you going to make a pass at her now that she is single?
+
+German: Willst du sie anbaggern, jetzt, wo sie Single ist?
+
+Translate the English sentence into natural German.
+
+English: He has broken her heart so many times, she will not forgive him again.
+
+German: Er hat ihr so oft das Herz gebrochen, dass sie ihm nicht noch einmal verzeihen wird.
+
+Now translate the next sentence.
+
+English: He fell apart after his wife died, I told him to pull himself together.
+
+German:","Er störtte nach seinem Leben, ich sagte er, daß er zusammen miteinander sein.",google/flan-t5-small,5
+"In trying to build a house by himself, he bit off more than he could chew","Als er versuchte, ein Haus zu bauen, übernahm er sich.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: And at a certain point, I just have to bite the bullet and admit it is not happening.
+
+German: Und ab einem gewissen Punkt muss ich einfach in den sauren Apfel beißen und zugeben, dass es nicht klappt.
+
+Translate the English sentence into natural German.
+
+English: Can you help me with these math problems? I can't get my head around them.
+
+German: Können Sie mir bei diesen Matheaufgaben helfen? Es will mir nicht in den Kopf.
+
+Translate the English sentence into natural German.
+
+English: Are you letting off steam by going for a walk?
+
+German: Lassen Sie Dampf ab, indem Sie spazieren gehen?
+
+Translate the English sentence into natural German.
+
+English: At first we tried to help each other study for the exam, but soon it was every man for himself, and the devil take the hindmost.
+
+German: Anfangs versuchten wir, uns gegenseitig beim Lernen für die Prüfung zu helfen, aber schon bald stelle sich heraus, dass jeder sich selbst der Nächste ist, und der Teufel sollte den Letzten holen.
+
+Translate the English sentence into natural German.
+
+English: He ran away in the nick of time.
+
+German: Er konnte in letzter Sekunde fliehen.
+
+Now translate the next sentence.
+
+English: In trying to build a house by himself, he bit off more than he could chew
+
+German:","In attempting to build a house by himself, he bit off mehr als he could chew.",google/flan-t5-small,5
+She's always trying to pass the buck and I'm sick of it.,"Sie versucht immer, den schwarzen Peter weiterzugeben und ich habe es satt!","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He had always been alone, it was suspicious and there is no smoke without fire.
+
+German: Er war immer allein gewesen, das war verdächtig, und wo Rauch ist, ist auch Feuer.
+
+Translate the English sentence into natural German.
+
+English: After forty years in the business, it's time for me to take a back seat and let someone younger take over.
+
+German: Nach vierzig Jahren in der Branche ist es für mich an der Zeit, in den Hintergrund zu treten und jemand Jüngerem den Vortritt zu lassen.
+
+Translate the English sentence into natural German.
+
+English: An internship might not sound very interesting, but it's a great way to get a foot in the door at this company.
+
+German: Ein Praktikum klingt vielleicht nicht sehr interessant, aber es ist eine gute Möglichkeit, in diesem Unternehmen einen Fuß in die Tür zu bekommen.
+
+Translate the English sentence into natural German.
+
+English: He has buried his head in the sand for years and refuses to face reality.
+
+German: Er hat jahrelang den Kopf in den Sand gesteckt und weigert sich, der Realität ins Auge zu sehen.
+
+Translate the English sentence into natural German.
+
+English: Losing that job was a blessing in disguise really.
+
+German: Der Verlust dieses Jobs war eigentlich Glück im Unglück.
+
+Now translate the next sentence.
+
+English: She's always trying to pass the buck and I'm sick of it.
+
+German:","Er hat immer versucht, das Geld zupassen und ich muß es bitten.",google/flan-t5-small,5
+"Dad says I'm not cut out for the military, but I think I can thrive in such a structured environment.","Dad sagt, ich bin nicht fürs Militär gemacht, aber ich denke, ich kann in einer so strukturierten Umgebung aufblühen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He can have the police run around in circles.
+
+German: Ihm gelingt es, die Polizei sich im Kreis drehen zu lassen.
+
+Translate the English sentence into natural German.
+
+English: I have a secret to tell you, but not a word to anyone else!
+
+German: Ich muss dir ein Geheimnis verraten, aber kein Wort zu irgendjemand anderem!
+
+Translate the English sentence into natural German.
+
+English: By trying to re-direct the flows of gas towards its territory in a major way, Moscow hopes to nip in the bud the competing projects supported by the Western countries which are seeking greater energy independence.
+
+German: Indem Moskau versucht, die Gasströme in großem Stil auf sein Territorium umzulenken, hofft es, die konkurrierenden Projekte der westlichen Länder, die eine größere Energieunabhängigkeit anstreben, im Keim zu ersticken.
+
+Translate the English sentence into natural German.
+
+English: Tell me your story. I am all ears.
+
+German: Erzählen Sie mir Ihre Geschichte. Ich bin ganz Ohr.
+
+Translate the English sentence into natural German.
+
+English: I thought Jonathan was cool but he stabbed me in the back and I'm never going to tell him anything in confidence again.
+
+German: Ich dachte, Jonathan wäre cool, aber er ist mir in den Rücken gefallen und ich werde ihm nie wieder etwas im Vertrauen sagen.
+
+Now translate the next sentence.
+
+English: Dad says I'm not cut out for the military, but I think I can thrive in such a structured environment.
+
+German:","Dad heißt ich nicht für die Armee, sondern ich glaube ich kann es in solchen strukturelle Umfeld es.",google/flan-t5-small,5
+He quit his job on a whim.,Er kündigte seinen Job aus einer Laune heraus.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: If you don't call the recruiter back right away, you're going to miss the boat.
+
+German: Wenn Sie den Personalverantwortlichen nicht sofort zurückrufen, werden Sie den Anschluss verpassen.
+
+Translate the English sentence into natural German.
+
+English: I searched that guy from head to toe.
+
+German: Ich habe den Kerl von Kopf bis Fuß durchsucht.
+
+Translate the English sentence into natural German.
+
+English: Once the bean counters take over, you'll be at the bottom of a very long list of creditors.
+
+German: Wenn die Erbsenzähler erst einmal das Ruder übernommen haben, stehen Sie am Ende einer sehr langen Liste von Gläubigern.
+
+Translate the English sentence into natural German.
+
+English: If you screw up during the registration process, you can update your profile later on.
+
+German: Wenn Sie bei der Registrierung Mist bauen, können Sie Ihr Profil später aktualisieren.
+
+Translate the English sentence into natural German.
+
+English: Families have their problems and jealousies, but blood is thicker than water.
+
+German: Familien haben ihre Probleme und Eifersüchteleien, aber Blut ist dicker als Wasser.
+
+Now translate the next sentence.
+
+English: He quit his job on a whim.
+
+German:",He quit seine Arbeit auf a whim.,google/flan-t5-small,5
+"For a sustained economic recovery, the US consumer has to start spending again but he is not out of the woods yet.","Für einen nachhaltigen Wirtschaftsaufschwung muss der US-Verbraucher seine Ausgaben wieder erhöhen, aber er ist noch nicht aus dem Schneider.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: His boss told him to keep his ear to the ground so that he'd be the first to know of a new idea.
+
+German: Sein Chef sagte ihm, er solle die Ohren offenhalten, damit er als Erster von einer neuen Idee erfährt.
+
+Translate the English sentence into natural German.
+
+English: I will be dead tired when the kids finally go to bed.
+
+German: Ich werde todmüde sein, wenn die Kinder endlich ins Bett gehen.
+
+Translate the English sentence into natural German.
+
+English: Being able to see both sides of an issue is to our credit.
+
+German: Es ist zu unseren Gunsten, beide Seiten eines Problems zu sehen.
+
+Translate the English sentence into natural German.
+
+English: As a parent, all your plans go out the window.
+
+German: Als Elternteil müssen Sie alle Ihre Pläne über den Haufen werfen.
+
+Translate the English sentence into natural German.
+
+English: I could give you a lift to the game, but I don't have a car.
+
+German: Ich könnte dich zum Spiel mitnehmen, aber ich habe kein Auto.
+
+Now translate the next sentence.
+
+English: For a sustained economic recovery, the US consumer has to start spending again but he is not out of the woods yet.
+
+German:","Für eine dauerhafte Wirtschaftsrecoverie muss die US-Beschäftigt werden, aber es ist nicht aus den Holzs.",google/flan-t5-small,5
+How long does it take for the wheel of fashion to come full circle?,"Wie lange dauert es, bis sich der Kreis in der Modebranche schließt?","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Tell me your story. I am all ears.
+
+German: Erzählen Sie mir Ihre Geschichte. Ich bin ganz Ohr.
+
+Translate the English sentence into natural German.
+
+English: If you are so decided, why do you cry crocodile tears?
+
+German: Wenn Sie so entschieden sind, warum weinen Sie dann Krokodilstränen?
+
+Translate the English sentence into natural German.
+
+English: Especially since ICPD+5, UNFPA's commitment to the needs of young people take center stage in many country and inter-country programs, often including an education component (e.g. peer education and its links to health services).
+
+German: Vor allem seit der ICPD+5 steht das Engagement des UNFPA für die Bedürfnisse junger Menschen im Mittelpunkt vieler Länder- und länderübergreifender Programme, die oft auch eine Bildungskomponente enthalten (z. B. Peer Education und deren Verbindung zu Gesundheitsdiensten).
+
+Translate the English sentence into natural German.
+
+English: If the detective discovers that the two criminals have been working hand in glove, he will arrest them.
+
+German: Wenn der Detektiv herausfindet, dass die beiden Kriminellen Hand in Hand gearbeitet haben, wird er sie verhaften.
+
+Translate the English sentence into natural German.
+
+English: My friends always thought that I was a god egg, I never cause any trouble.
+
+German: Meine Freunde dachten immer, dass ich ein guter Kerl bin, ich mache nie Ärger.
+
+Now translate the next sentence.
+
+English: How long does it take for the wheel of fashion to come full circle?
+
+German:",How long does it take for the wheel of fashion to come full circle?,google/flan-t5-small,5
+"After years of decline, it seems the company is finally starting to turn the corner.",Nach Jahren des Niedergangs scheint das Unternehmen nun endlich die Kurve zu kriegen.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I was excited to book a vacation, but I came down to earth when I checked my nearly depleted bank account.
+
+German: Ich freute mich darauf, einen Urlaub zu buchen, aber als ich mein fast leeres Bankkonto überprüfte, kam ich auf den Boden der Tatsachen zurück.
+
+Translate the English sentence into natural German.
+
+English: He's been sacked but, with all that time he took off, he had it coming really.
+
+German: Er ist zwar entlassen worden, aber da er sich die ganze Zeit freigenommen hat, hat er es wirklich verdient.
+
+Translate the English sentence into natural German.
+
+English: I can't imagine why a dynamic young woman like her is marrying a shrinking violet like him.
+
+German: Ich kann mir nicht vorstellen, warum eine dynamische junge Frau wie sie eine Mimose wie ihn heiratet.
+
+Translate the English sentence into natural German.
+
+English: Are you going to knock my socks off with your dance moves?
+
+German: Willst du mich mit deinen Tanzschritten von den Socken hauen?
+
+Translate the English sentence into natural German.
+
+English: He thinks that learning to play the violin is child's play, but it's actually quite difficult.
+
+German: Er denkt, Geige spielen zu lernen sei ein Klacks, aber es ist tatsächlich ziemlich schwierig.
+
+Now translate the next sentence.
+
+English: After years of decline, it seems the company is finally starting to turn the corner.
+
+German:","Nach Jahren des Rücktritts scheint es, dass die Unternehmen endlich die Rolle beginnen.",google/flan-t5-small,5
+Don't bother trying to trick me with your red herrings - I'm not falling for it.,"Versuchen Sie nicht, mich mit Ihren Ablenkungsmanövern auszutricksen - darauf falle ich nicht herein!","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He's been going behind my back and spying on me.
+
+German: Er hat mich hintergangen und ausspioniert.
+
+Translate the English sentence into natural German.
+
+English: I can't believe she blew my mind with that performance!
+
+German: Ich kann nicht glauben, dass sie mich mit dieser Vorstellung umgehauen hat!
+
+Translate the English sentence into natural German.
+
+English: But while Nero was without doubt a depraved person of very low morals, he was not a raving lunatic, and no sane person, even if a cruel despot, would destroy his capital city to clear space for his new home. This would be cutting off your nose to spite your face, because the city that ruled the world was threatened with ruin, receiving very nearly a mortal blow by
+
+German: Nero war zwar zweifellos ein verdorbener Mensch mit sehr niedriger Moral, aber er war kein rasender Verrückter, und kein vernünftiger Mensch, selbst wenn er ein grausamer Despot war, würde seine Hauptstadt zerstören, um Platz für sein neues Haus zu schaffen. Das wäre, als würde man sich ins eigene Fleisch schneiden, denn die Stadt, die die Welt beherrschte, war vom Untergang bedroht und hätte beinahe einen tödlichen Schlag durch
+
+Translate the English sentence into natural German.
+
+English: I bet you will go ape when you see what I got you.
+
+German: Ich wette, du wirst ausflippen, wenn du siehst, was ich für dich habe.
+
+Translate the English sentence into natural German.
+
+English: He will be like a kid in a candy store when he opens his presents on Christmas.
+
+German: Er wird sich wie ein Kind im Süßwarenladen fühlen, wenn er an Weihnachten seine Geschenke auspackt.
+
+Now translate the next sentence.
+
+English: Don't bother trying to trick me with your red herrings - I'm not falling for it.
+
+German:",Don't bother trying to trick me with your red herrings - I'm not.,google/flan-t5-small,5
+A recent public relations disaster left the company with egg all over its face.,Die jüngste Katastrophe im Bereich der Öffentlichkeitsarbeit hat das Unternehmen dumm dastehen lassen.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He thinks that learning to play the violin is child's play, but it's actually quite difficult.
+
+German: Er denkt, Geige spielen zu lernen sei ein Klacks, aber es ist tatsächlich ziemlich schwierig.
+
+Translate the English sentence into natural German.
+
+English: The Section 203 (k) program especially makes buying a fixer-upper easier, since you won't have to deal with multiple loans for your mortgage and rehabilitation expenses
+
+German: Das Section 203 (k)-Programm macht den Kauf von renovierungsbedürftigen Häusern besonders einfach, da Sie sich nicht mit mehreren Krediten für Ihre Hypothek und die Sanierungskosten herumschlagen müssen.
+
+Translate the English sentence into natural German.
+
+English: He has set the world on fire with his ambition.
+
+German: Mit seinem Ehrgeiz hat er die Welt aus den Angeln gehoben.
+
+Translate the English sentence into natural German.
+
+English: I had lit a fire under her and she finally decided to finish her dissertation.
+
+German: Ich hatte ein Feuer in ihr entfacht, und sie beschloss schließlich, ihre Dissertation zu beenden.
+
+Translate the English sentence into natural German.
+
+English: It's always good to have a little bit of change in your job, because it keeps you on your toes, doesn't it?
+
+German: Ein bisschen Abwechslung im Job ist immer gut, denn sie hält einen auf Trab, nicht wahr?
+
+Now translate the next sentence.
+
+English: A recent public relations disaster left the company with egg all over its face.
+
+German:",Ein jüngsten öffentliche Beziehungensabkommen hat das Unternehmen mit Egg auf seinem Gesicht.,google/flan-t5-small,5
+"Even if you don't agree with your boss' ideas, don't shoot from the hip. It won't augur well for your growth.","Selbst wenn Sie mit den Ideen Ihres Chefs nicht einverstanden sind, sollten Sie nicht aus der Hüfte schießen. Das wäre nicht gut für Ihr Wachstum.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Despite millions of dollars spent by IT companies, digital security still contains more holes than a Swiss cheese.
+
+German: Obwohl IT-Unternehmen Millionen von Dollar ausgeben, ist die digitale Sicherheit immer noch nicht ausgereift.
+
+Translate the English sentence into natural German.
+
+English: However, let me pull the rabbit out of the hat and stun you with what is quite possibly, our biggest news you have heard so far this year!
+
+German: Doch lassen Sie mich das Kaninchen aus dem Hut zaubern und Sie mit der vielleicht größten Neuigkeit überraschen, die Sie in diesem Jahr bisher gehört haben!
+
+Translate the English sentence into natural German.
+
+English: I paid an arm and a leg for this new dress, I had to save money for months.
+
+German: Ich habe viel Geld für dieses neue Kleid verjubelt, ich musste monatelang sparen.
+
+Translate the English sentence into natural German.
+
+English: Are you going to pay an arm and a leg for your new car?
+
+German: Wirst du für dein neues Auto viel Geld verprassen?
+
+Translate the English sentence into natural German.
+
+English: But historical memory is a double-edged sword.
+
+German: Doch das historische Gedächtnis ist ein zweischneidiges Schwert.
+
+Now translate the next sentence.
+
+English: Even if you don't agree with your boss' ideas, don't shoot from the hip. It won't augur well for your growth.
+
+German:","Während wenn Sie nicht mit Ihren eigenen Vorstellungen stimmen, daß Sie nicht auf dem Kopf zu setzen, daß es nicht gut für Ihre Wachstum es.",google/flan-t5-small,5
+"He is always late for appointments and keeps people waiting, so we decided to give him a taste of his own medicine.","Da er immer zu spät zu Terminen kommt und die Leute warten lässt, haben wir beschlossen, es ihm mit gleicher Münze heimzuzahlen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Gina, you know I appreciate you but you have to admit, we're not exactly cut from the same cloth.
+
+German: Gina, du weißt, dass ich dich schätze, aber du musst zugeben, dass wir nicht gerade aus demselben Holz geschnitzt sind.
+
+Translate the English sentence into natural German.
+
+English: However, when a library provides a significant unique capability, like GNU Readline, that's a horse of a different color.
+
+German: Wenn jedoch eine Bibliothek eine signifikante, einzigartige Fähigkeit bietet, wie GNU Readline, dann ist das ein ganz anderes Kaliber.
+
+Translate the English sentence into natural German.
+
+English: Our dud detectives continue to run around in circles.
+
+German: Unsere unfähigen Detektive drehen sich weiterhin im Kreis.
+
+Translate the English sentence into natural German.
+
+English: He lost the thread, then he asked me about the topic.
+
+German: Er verlor den Faden, dann fragte er mich nach dem Thema.
+
+Translate the English sentence into natural German.
+
+English: And at a certain point, I just have to bite the bullet and admit it is not happening.
+
+German: Und ab einem gewissen Punkt muss ich einfach in den sauren Apfel beißen und zugeben, dass es nicht klappt.
+
+Now translate the next sentence.
+
+English: He is always late for appointments and keeps people waiting, so we decided to give him a taste of his own medicine.
+
+German:","He ist immer spät für die Anwesenheit und die Menschen warten, so hat wir uns entschieden, um seine eigene Gesundheit zu geben.",google/flan-t5-small,5
+"At the weekly cabinet meeting the following day, an enraged Mr. Schroder read his ministers the riot act.",Auf der wöchentlichen Kabinettssitzung am folgenden Tag verlas ein wütender Schröder seinen Ministern die Leviten.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Be a cold day in hell 'fore I sell my plews for five dollars.
+
+German: Eher friert die Hölle, bevor ich meine Pfoten für fünf Dollar verkaufe.
+
+Translate the English sentence into natural German.
+
+English: She left her husband and ran away with a younger man. It was a nine days' wonder.
+
+German: Sie verließ ihren Mann und lief mit einem jüngeren Mann davon. Es war eine Eintagsfliege.
+
+Translate the English sentence into natural German.
+
+English: I do not want to deny the problem - it is a real one - and Mr. Lange and Mrs. Hautala were right to take a firm line regarding the car and oil industries, both at first and second reading.
+
+German: Ich will das Problem nicht leugnen - es ist ein echtes Problem -, und Herr Lange und Frau Hautala haben zu Recht sowohl in der ersten als auch in der zweiten Lesung eine harte Linie gegenüber der Auto- und Ölindustrie vertreten.
+
+Translate the English sentence into natural German.
+
+English: He is a good boss, but I don't get along with him on a personal level.
+
+German: Er ist ein guter Chef, aber auf persönlicher Ebene komme ich mit ihm nicht zurecht.
+
+Translate the English sentence into natural German.
+
+English: Have you let your brother off the hook for breaking your vase?
+
+German: Hast du deinen Bruder ungeschoren davonkommen lassen, nachdem er deine Vase zerbrochen hat?
+
+Now translate the next sentence.
+
+English: At the weekly cabinet meeting the following day, an enraged Mr. Schroder read his ministers the riot act.
+
+German:",Nach dem Wochensitzung des Cabinets folgt ein enraged Herr Schroder seine Ministerien die nderungsantrag.,google/flan-t5-small,5
+"""The problem that we've got is we're trying like the dickens to treat the symptom without treating the disease, Mr. North said on """"Fox News Sunday.""""""","„Wir haben das Problem, dass wir auf Teufel komm raus versuchen, das Symptom zu behandeln, ohne die Krankheit zu behandeln“, sagte North bei „Fox News Sunday“.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He graduated from high school with flying colors.
+
+German: Er schloss die High School mit Bravour ab.
+
+Translate the English sentence into natural German.
+
+English: Allibert combines its best materials in one set. Absolutely a sight for sore eyes.
+
+German: Allibert vereint seine besten Materialien in einem Set. Eine absolute Augenweide.
+
+Translate the English sentence into natural German.
+
+English: As a parent, all your plans go out the window.
+
+German: Als Elternteil müssen Sie alle Ihre Pläne über den Haufen werfen.
+
+Translate the English sentence into natural German.
+
+English: Joey, it's gotten out of hand.
+
+German: Joey, die Sache ist aus dem Ruder gelaufen
+
+Translate the English sentence into natural German.
+
+English: Actually, I was wondering if you two might want to lend a hand.
+
+German: Ich habe mich gefragt, ob Sie beide vielleicht unter die Arme greifen wollen.
+
+Now translate the next sentence.
+
+English: ""The problem that we've got is we're trying like the dickens to treat the symptom without treating the disease, Mr. North said on """"Fox News Sunday.""""""
+
+German:","""The problem that we've got is we're trying like the dickens to treat the symptom without treating the disease,"" sagte Mr. North on ""Fox News Sunday.""",google/flan-t5-small,5
+Those cheap little metal cars are a dime a dozen.,Diese billigen kleinen Metallautos gibt es wie Sand am Meer.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Forgive me, but the very name of love is an apple of discord between us.
+
+German: Verzeiht mir, aber allein der Name der Liebe ist ein Zankapfel zwischen uns.
+
+Translate the English sentence into natural German.
+
+English: Radio promotion costs are ridiculously out of hand.
+
+German: Die Kosten für Radiowerbung sind völlig aus dem Ruder gelaufen.
+
+Translate the English sentence into natural German.
+
+English: He is sick as a parrot now that he has to work on Saturday.
+
+German: Er ist total geknickt, weil er am Samstag arbeiten muss.
+
+Translate the English sentence into natural German.
+
+English: When I didn't hear any more from my prospective employer, I began to smell a rat.
+
+German: Als ich nichts mehr von meinem zukünftigen Arbeitgeber hörte, begann ich, Verdacht zu schöpfen.
+
+Translate the English sentence into natural German.
+
+English: During the next six months, a number of key issues will come to a head.
+
+German: In den nächsten sechs Monaten wird sich eine Reihe von wichtigen Fragen zuspitzen.
+
+Now translate the next sentence.
+
+English: Those cheap little metal cars are a dime a dozen.
+
+German:",Those cheap little metal cars are a dime a dozen.,google/flan-t5-small,5
+"With their last, triumphant piece, the musicians raised the roof.","Mit ihrem letzten, triumphalen Stück brachten die Musiker den Saal zum Beben.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: A wolf in sheep's clothing, stinking of Brimstone, but still very weak, he said.
+
+German: Ein Wolf im Schafspelz, der nach Schwefel stinkt, aber trotzdem sehr schwach ist, sagte er.
+
+Translate the English sentence into natural German.
+
+English: I busted his chops and he finally stopped talking.
+
+German: Ich habe ihm die Hölle heiß gemacht und er hat endlich aufgehört zu reden.
+
+Translate the English sentence into natural German.
+
+English: He looked the other way when the woman dropped her wallet.
+
+German: Er sah weg, als die Frau ihre Brieftasche fallen ließ.
+
+Translate the English sentence into natural German.
+
+English: Are you not biting off more than you can chew with this project?
+
+German: Übernimmst du dich nicht mit diesem Projekt?
+
+Translate the English sentence into natural German.
+
+English: My throat is a little sore now. Could I scream at the top of my voice?
+
+German: Mein Hals tut jetzt ein bisschen weh. Könnte ich aus voller Kehle schreien?
+
+Now translate the next sentence.
+
+English: With their last, triumphant piece, the musicians raised the roof.
+
+German:","Mit ihren letzten, anspruchsvollen Stück, die Musiker stiegen das Roof.",google/flan-t5-small,5
+He put the cat among the pigeons when he refused to sign the contract.,"Er stiftete Unruhe, als er sich weigerte, den Vertrag zu unterschreiben.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: There are affordable ways to redecorate or renovate rooms in your home without having to break the bank.
+
+German: Es gibt erschwingliche Möglichkeiten, Räume in Ihrer Wohnung zu renovieren, ohne dass Sie dafür das Budget sprengen müssen.
+
+Translate the English sentence into natural German.
+
+English: You should raise the bar and ask for more.
+
+German: Sie sollten die Messlatte höher legen und mehr verlangen.
+
+Translate the English sentence into natural German.
+
+English: I can't believe I did it just for love of it without any compensation.
+
+German: Ich kann nicht glauben, dass ich es nur aus Liebe dazu getan habe und zwar ohne jegliche Entschädigung.
+
+Translate the English sentence into natural German.
+
+English: I decided to take/borrow a leaf out of his book and invest some money in the stock market.
+
+German: Ich beschloss, mir eine Scheibe von ihm abzuschneiden und etwas Geld in den Aktienmarkt zu investieren.
+
+Translate the English sentence into natural German.
+
+English: Michael, keep your nose clean, all right?
+
+German: Michael, bleib sauber, okay?
+
+Now translate the next sentence.
+
+English: He put the cat among the pigeons when he refused to sign the contract.
+
+German:","Er hat das Cat unter den Pigeons, wenn er es nicht im Vertrag zu signen.",google/flan-t5-small,5
+"But before she could launch her charm offensive, Mr. Roper sat down across from her and grabbed her wrists.","Doch bevor sie ihre Charmeoffensive starten konnte, setzte sich Herr Roper ihr gegenüber und packte ihre Handgelenke.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He cuts corners on everything because he does not have money.
+
+German: Er spart an allen Ecken und Kanten, weil er kein Geld hat.
+
+Translate the English sentence into natural German.
+
+English: Close the door when you leave, please, I have been as busy as a one-armed paperhanger today and I want to take a rest.
+
+German: Schließen Sie bitte die Tür, wenn Sie gehen, ich hatte heute keine ruhige Minute und möchte mich ausruhen.
+
+Translate the English sentence into natural German.
+
+English: He sweetened the deal by offering a coupon.
+
+German: Er versüßte das Geschäft mit einem Gutschein.
+
+Translate the English sentence into natural German.
+
+English: Don't try to pass the buck - this is your responsibility, not mine.
+
+German: Versuchen Sie nicht, den schwarzen Peter weiterzugeben – das ist Ihre Aufgabe, nicht meine.
+
+Translate the English sentence into natural German.
+
+English: Even when things are tough, I try to look on the bright side.
+
+German: Selbst wenn die Dinge schwierig sind, versuche ich, die positiven Seiten zu sehen.
+
+Now translate the next sentence.
+
+English: But before she could launch her charm offensive, Mr. Roper sat down across from her and grabbed her wrists.
+
+German:",Aber bevor er es er es es es es es es es es es es es es es es es es es es,google/flan-t5-small,5
+"My son can be a bit of a bull in a china shop, so I'm worried about taking him to the museum.","Mein Sohn kann ein bisschen wie ein Elefant im Porzellanladen sein, deshalb mache ich mir Sorgen, wenn ich mit ihm ins Museum gehe.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He is a good boss, but I don't get along with him on a personal level.
+
+German: Er ist ein guter Chef, aber auf persönlicher Ebene komme ich mit ihm nicht zurecht.
+
+Translate the English sentence into natural German.
+
+English: I struggle with homesickness a lot but talking to my family back home gives me a lift.
+
+German: Ich habe oft mit Heimweh zu kämpfen, aber wenn ich mit meiner Familie in der Heimat spreche, muntert es mich auf.
+
+Translate the English sentence into natural German.
+
+English: But thanks to my experience in the Mini 6.50, what seemed like cloud cuckoo land is now attainable.
+
+German: Aber dank meiner Erfahrung mit dem Mini 6.50 ist das, was mir wie ein Wolkenkuckucksheim vorkam, nun erreichbar.
+
+Translate the English sentence into natural German.
+
+English: Forgive me, but the very name of love is an apple of discord between us.
+
+German: Verzeiht mir, aber allein der Name der Liebe ist ein Zankapfel zwischen uns.
+
+Translate the English sentence into natural German.
+
+English: If she knew you'd sold her jewelry, she'd turn over in her grave.
+
+German: Wenn sie wüsste, dass du ihren Schmuck verkauft hast, würde sie sich im Grab umdrehen.
+
+Now translate the next sentence.
+
+English: My son can be a bit of a bull in a china shop, so I'm worried about taking him to the museum.
+
+German:","Meine Sohn kann es ein wenig in einem China-Shop sein, so ich muß er bitten, daß es zu den Museum zu nehmen.",google/flan-t5-small,5
+"Well, you know, you can't change the spots on a leopard.","Sie wissen ja, die Katze lässt das Mausen nicht","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Even though it's not rocket science, I still don't understand it.
+
+German: Auch wenn es keine Kunst ist, verstehe ich es immer noch nicht.
+
+Translate the English sentence into natural German.
+
+English: Our dud detectives continue to run around in circles.
+
+German: Unsere unfähigen Detektive drehen sich weiterhin im Kreis.
+
+Translate the English sentence into natural German.
+
+English: Having my work cut out for me is a great way to learn and grow.
+
+German: Ich habe alle Hände voll zu tun und es ist eine gute Möglichkeit, zu lernen und zu wachsen.
+
+Translate the English sentence into natural German.
+
+English: The meeting was peaches and cream, nobody complained.
+
+German: Das Treffen verlief wie geschmiert, niemand hat sich beschwert.
+
+Translate the English sentence into natural German.
+
+English: During an analysis of the news, he went out on a limb and expressed an opinion opposite to that held by the general public.
+
+German: Bei der Analyse der Nachrichten lehnte er sich aus dem Fenster und äußerte eine Meinung, die im Gegensatz zu der der Allgemeinheit stand.
+
+Now translate the next sentence.
+
+English: Well, you know, you can't change the spots on a leopard.
+
+German:","Ich weiß, Sie können nicht ändern.",google/flan-t5-small,5
+"On a scale of five, they gave an average rating of four to their feelings about CSIS",Auf einer Fünferskala bewerteten sie ihre Meinung gegenüber dem CSIS im Durchschnitt mit vier.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: The whole legal system is rotten to the core.
+
+German: Das gesamte Rechtssystem ist durch und durch verdorben.
+
+Translate the English sentence into natural German.
+
+English: I would like you to get off your high horse, Lindsay. Pun intended.
+
+German: Ich möchte Sie bitten, von Ihrem hohen Ross herunterzusteigen, Lindsay. Das Wortspiel ist beabsichtigt.
+
+Translate the English sentence into natural German.
+
+English: He's been off his trolley ever since his wife left him.
+
+German: Seit seine Frau ihn verlassen hat, tickt er nicht mehr richtig.
+
+Translate the English sentence into natural German.
+
+English: She had her heart in her mouth as she stepped into the principal's office.
+
+German: Das Herz schlug ihr bis zum Hals, als sie das Büro des Schulleiters betrat.
+
+Translate the English sentence into natural German.
+
+English: Labor leaders hope to use their annual conference to attack what they currently see as the most vulnerable chink in the government's armor.
+
+German: Die Parteiführer der Arbeiterpartei hoffen, ihre Jahreskonferenz nutzen zu können, um das anzugreifen, was sie derzeit als die verwundbarste Schwachstelle der Regierung ansehen.
+
+Now translate the next sentence.
+
+English: On a scale of five, they gave an average rating of four to their feelings about CSIS
+
+German:","On a scale von five, sie hat eine durchschnittliche Bewertung von four auf ihren Gefühlen über CSIS zugewiesen.",google/flan-t5-small,5
+"All right, tell my public that Carl Denam, the bright boy... who was going to make a million dollars out of King Kong, is flat broke.","Also gut, sagen Sie meinem Publikum, dass Carl Denam, der kluge Junge... der mit King Kong eine Million Dollar verdienen wollte, völlig pleite ist.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I can't believe I have to take you to task again for your tardiness.
+
+German: Ich kann nicht glauben, dass ich Sie schon wieder für Ihre Unpünktlichkeit zur Rechenschaft ziehen muss.
+
+Translate the English sentence into natural German.
+
+English: I could sit here and argue with you till the cows come home, but it wouldn't solve anything.
+
+German: Ich könnte hier sitzen und mit Ihnen streiten, bis die Hölle zufriert, aber das würde nichts lösen.
+
+Translate the English sentence into natural German.
+
+English: Some of the world's top dancers have lent their names to the project.
+
+German: Einige der weltbesten Tänzerinnen und Tänzer haben ihre Namen für das Projekt hergegeben.
+
+Translate the English sentence into natural German.
+
+English: As I feared, my fling had become a pain in the neck.
+
+German: Wie ich befürchtet hatte, war meine Affäre zu einer Nervensäge geworden.
+
+Translate the English sentence into natural German.
+
+English: I have been beside myself with joy ever since I moved to my new house.
+
+German: Seitdem ich in mein neues Haus gezogen bin, bin ich außer mir vor Freude.
+
+Now translate the next sentence.
+
+English: All right, tell my public that Carl Denam, the bright boy... who was going to make a million dollars out of King Kong, is flat broke.
+
+German:","All right, tellen meinen public, daß Carl Denam, die schöner Sohn... die ganze Million Dollars von King Kong zu machen ist.",google/flan-t5-small,5
+Being put on the spot makes me nervous.,"Wenn ich in Verlegenheit gebracht werde, macht mich das nervös.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: At that time they were beginning to expound on all these synthetic chemicals like simazine, atrazine, and so forth, that are two a penny today.
+
+German: Damals begann man, all diese synthetischen Chemikalien wie Simazin, Atrazin usw. zu erforschen, die es heute wie Sand am Meer gibt.
+
+Translate the English sentence into natural German.
+
+English: You can't just go into every meeting like a bull in a china shop - remember, tact will get you far in this business.
+
+German: Sie können nicht einfach wie ein Elefant im Porzellanladen in jede Sitzung gehen - denken Sie daran, dass Sie in diesem Geschäft mit Taktgefühl weit kommen werden.
+
+Translate the English sentence into natural German.
+
+English: He's going to blow my cover if he keeps talking.
+
+German: Er wird mich auffliegen lassen, wenn er weiterredet.
+
+Translate the English sentence into natural German.
+
+English: Just three more of these and I'm quite literally all ears.
+
+German: Nur noch drei davon und ich bin buchstäblich ganz Ohr.
+
+Translate the English sentence into natural German.
+
+English: If you don't call the recruiter back right away, you're going to miss the boat.
+
+German: Wenn Sie den Personalverantwortlichen nicht sofort zurückrufen, werden Sie den Anschluss verpassen.
+
+Now translate the next sentence.
+
+English: Being put on the spot makes me nervous.
+
+German:","Ich habe es in der Lage, daß ich es in der Lage, daß ich in der Lage, daß ich in der Lage, daß ich in der Lage, daß ich in der Lage, daß ich in der",google/flan-t5-small,5
+Dear Diary: Tomorrow I buckle down and hit the books.,Liebes Tagebuch: Morgen mache ich mich an die Arbeit und büffele.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: My throat is a little sore now. Could I scream at the top of my voice?
+
+German: Mein Hals tut jetzt ein bisschen weh. Könnte ich aus voller Kehle schreien?
+
+Translate the English sentence into natural German.
+
+English: Can we cut to the chase and get to the point?
+
+German: Können wir uns kurzfassen und auf den Punkt kommen?
+
+Translate the English sentence into natural German.
+
+English: It seemed all puppies and rainbows but after some time I discovered how he was.
+
+German: Es schien so, als ob alles in Butter wäre, aber nach einiger Zeit entdeckte ich, wie er war.
+
+Translate the English sentence into natural German.
+
+English: I never go to all-you-can-eat buffets anymore because I end up eating like a horse and feel sick afterwards.
+
+German: Ich gehe nie mehr zu All-you-can-eat-Buffets, weil ich dann wie ein Scheunendrescher esse und mir danach schlecht wird.
+
+Translate the English sentence into natural German.
+
+English: Families have their problems and jealousies, but blood is thicker than water.
+
+German: Familien haben ihre Probleme und Eifersüchteleien, aber Blut ist dicker als Wasser.
+
+Now translate the next sentence.
+
+English: Dear Diary: Tomorrow I buckle down and hit the books.
+
+German:",Dear Diary: Tomorrow ich schließt und zu den Bücher.,google/flan-t5-small,5
+It's always been every man for himself in this industry. You can't rely on anyone else to help you get ahead.,"In dieser Branche war schon immer jeder auf sich allein gestellt. Man kann sich auf niemanden verlassen, der einem hilft, weiterzukommen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Over my dead body will you drop out of high school.
+
+German: Nur über meine Leiche wirst du die Highschool verlassen.
+
+Translate the English sentence into natural German.
+
+English: As a parent, all your plans go out the window.
+
+German: Als Elternteil müssen Sie alle Ihre Pläne über den Haufen werfen.
+
+Translate the English sentence into natural German.
+
+English: You can't just go into every meeting like a bull in a china shop - remember, tact will get you far in this business.
+
+German: Sie können nicht einfach wie ein Elefant im Porzellanladen in jede Sitzung gehen - denken Sie daran, dass Sie in diesem Geschäft mit Taktgefühl weit kommen werden.
+
+Translate the English sentence into natural German.
+
+English: Don't worry - we'll have the money ready by 4 o'clock, by hook or by crook.
+
+German: Keine Sorge - wir werden das Geld bis 16 Uhr auf Biegen und Brechen bereit haben.
+
+Translate the English sentence into natural German.
+
+English: Sara has certainly not looked like a fish out of water in the mathematics lecture, since she is taking some online classes to improve her concepts.
+
+German: Sara hat sich in der Mathematikvorlesung sicher nicht wie ein Fisch auf dem Trockenen gefühlt, da sie einige Online-Kurse besucht, um ihre Konzepte zu verbessern.
+
+Now translate the next sentence.
+
+English: It's always been every man for himself in this industry. You can't rely on anyone else to help you get ahead.
+
+German:","Es ist immer immer jeder Man für selbst in diesem Bereich. Sie können Sie nicht relyieren, daß es zu helfen.",google/flan-t5-small,5
+And - to make a long story short - I never got back the money that I lent him.,"Und - um es auf den Punkt zu bringen - ich habe das Geld, das ich ihm geliehen habe, nie zurückbekommen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I won't be sent on a fool's errand again!
+
+German: Ich lasse mich nicht noch einmal auf den Holzweg schicken!
+
+Translate the English sentence into natural German.
+
+English: And it'll work this time too, if only because he'll eventually wear you down.
+
+German: Und es wird auch dieses Mal klappen, und sei es nur, weil er dich irgendwann zermürben wird.
+
+Translate the English sentence into natural German.
+
+English: I'm going to make sure by hook or by crook that he pays for what he did!
+
+German: Ich werde dafür sorgen, dass er auf Biegen und Brechen dafür bezahlt, was er getan hat!
+
+Translate the English sentence into natural German.
+
+English: He was tickled pink to be elected president
+
+German: Er freute sich wie ein Schneekönig, dass er zum Präsidenten gewählt wurde.
+
+Translate the English sentence into natural German.
+
+English: He always seemed to be wise beyond his ears, we noticed that.
+
+German: Er schien immer schlau wie ein Fuchs zu sein, das ist uns aufgefallen.
+
+Now translate the next sentence.
+
+English: And - to make a long story short - I never got back the money that I lent him.
+
+German:","Und - um eine lange Geschichte dauern - hat ich nicht zurück den Geld, die ich lent.",google/flan-t5-small,5
+Burning the candle at both ends is a recipe for disaster.,"Raubbau mit der Gesundheit zu treiben, ist ein Rezept für eine Katastrophe.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He muttered something under his breath.
+
+German: Er murmelte etwas vor sich hin.
+
+Translate the English sentence into natural German.
+
+English: Then my brother got on the plane and I got a huge lump in my throat.
+
+German: Dann stieg mein Bruder in das Flugzeug und ich bekam einen riesigen Kloß im Hals.
+
+Translate the English sentence into natural German.
+
+English: Despite harsh criticism, she's sticking to her guns on this issue.
+
+German: Trotz harscher Kritik bleibt lässt sie in dieser Frage nicht locker
+
+Translate the English sentence into natural German.
+
+English: Don't beat your brains out trying to please these people - they'll never appreciate it.
+
+German: Versuchen Sie nicht, sich den Kopf zu zerbrechen, um es diesen Leuten recht zu machen - sie werden es nie zu schätzen wissen.
+
+Translate the English sentence into natural German.
+
+English: Being ahead of the curve means always being on the lookout for new trends.
+
+German: Seiner Zeit voraus zu sein bedeutet, immer auf der Suche nach neuen Trends zu sein.
+
+Now translate the next sentence.
+
+English: Burning the candle at both ends is a recipe for disaster.
+
+German:",Burning the candle at both ends is a recipe for disaster.,google/flan-t5-small,5
+He will hold his tongue if you tell him to not to say anything.,"Er wird den Mund halten, wenn Sie ihm sagen, dass er nichts sagen soll.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He made a long story short by telling me he didn't want to talk about it.
+
+German: Er brachte eine lange Geschichte auf den Punkt, indem er mir sagte, er wolle nicht darüber reden. Better: Er brachte es (die Sache) auf den Punkt, indem er mir sagte, er wolle nicht darüber reden.
+
+Translate the English sentence into natural German.
+
+English: Holding my tongue is becoming harder and harder the longer I know him.
+
+German: Es fällt mir immer schwerer, den Mund zu halten, je länger ich ihn kenne.
+
+Translate the English sentence into natural German.
+
+English: Even if your father wasn't in a compromised state already, it would be a fool's errand to try to convince parliament to extend that lease.
+
+German: Selbst wenn sich Ihr Vater nicht bereits in einem beeinträchtigen Zustand befände, wäre es trotzdem ein aussichtsloses Unterfangen, das Parlament zu überzeugen, den Mietvertrag zu verlängern.
+
+Translate the English sentence into natural German.
+
+English: In the end, they won so easily, it was like taking candy from a baby.
+
+German: Am Ende haben sie so leicht gewonnen, es war ein Kinderspiel.
+
+Translate the English sentence into natural German.
+
+English: Failing to do this step before building the rest of the tree will likely leave a bad taste in everyone's mouth.
+
+German: Wird dieser Schritt vor dem Bau des restlichen Baumes nicht durchgeführt, bleibt bei allen Beteiligten ein schlechter Beigeschmack zurück.
+
+Now translate the next sentence.
+
+English: He will hold his tongue if you tell him to not to say anything.
+
+German:","Ich werde er seine Stimme zu sagen, wenn Sie ihn nicht zu sagen, nicht zu sagen.",google/flan-t5-small,5
+"A man whom I might not agree with where politics are concerned, but one who calls a spade a spade.","Ein Mann, mit dem ich zwar politisch nicht einverstanden bin, der aber die Dinge beim Namen nennt.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: It's perfectly fine to agree to disagree.
+
+German: Es ist völlig in Ordnung, sich uneinig zu sein - Zwei Menschen, zwei Meinungen.
+
+Translate the English sentence into natural German.
+
+English: Foot traffic in the outdoor market usually slows down in the fall, but it gets back in full swing by the time the winter holidays roll around.
+
+German: Die Besucherzahlen auf dem Freiluftmarkt nehmen im Herbst normalerweise ab, aber spätestens mit den Winterferien sind sie wieder in vollem Gange.
+
+Translate the English sentence into natural German.
+
+English: What with the new baby and the new house, they have a lot on their plate.
+
+German: Mit dem neuen Baby und dem neuen Haus haben sie viel um die Ohren.
+
+Translate the English sentence into natural German.
+
+English: I don't know what to believe, but they say there's no smoke without fire, so there must be some truth to it.
+
+German: Ich weiß nicht, was ich glauben soll, aber man sagt, wo Rauch ist, ist auch Feuer, also muss etwas Wahres dran sein.
+
+Translate the English sentence into natural German.
+
+English: He has broken her heart so many times, she will not forgive him again.
+
+German: Er hat ihr so oft das Herz gebrochen, dass sie ihm nicht noch einmal verzeihen wird.
+
+Now translate the next sentence.
+
+English: A man whom I might not agree with where politics are concerned, but one who calls a spade a spade.
+
+German:","Ein man, die ich nicht stimmen, daß die Politik betrifft, aber ein man, die eine Spade ein Spade.",google/flan-t5-small,5
+I am nothing but a bundle of nerves dressed up to look like a man.,"Ich bin nichts weiter als ein Nervenbündel, das sich verkleidet hat, um wie ein Mann auszusehen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He washed his hands of the matter.
+
+German: Er distanzierte sich von der Angelegenheit.
+
+Translate the English sentence into natural German.
+
+English: I got off the beaten track and visited a small town I'd never been to before.
+
+German: Ich verließ die ausgetretenen Pfade und besuchte eine kleine Stadt, in der ich noch nie zuvor gewesen war.
+
+Translate the English sentence into natural German.
+
+English: Can you make sense of these instructions? It's all Greek to me!
+
+German: Kommst du mit diesen Anweisungen klar? Ich verstehe nur Bahnhof.
+
+Translate the English sentence into natural German.
+
+English: I struggle with homesickness a lot but talking to my family back home gives me a lift.
+
+German: Ich habe oft mit Heimweh zu kämpfen, aber wenn ich mit meiner Familie in der Heimat spreche, muntert es mich auf.
+
+Translate the English sentence into natural German.
+
+English: Don't discount any job, see it as an opportunity to get a foot in the door.
+
+German: Schlagen Sie keine Stelle aus, sondern sehen Sie sie als Chance, einen Fuß in die Tür zu bekommen.
+
+Now translate the next sentence.
+
+English: I am nothing but a bundle of nerves dressed up to look like a man.
+
+German:","Ich bin nichts, aber eine Vielzahl von Nerven kleidet, um eine Man zu sehen.",google/flan-t5-small,5
+"If he or she is overly tired or under the weather, take a day or two off.","Wenn er oder sie übermäßig müde ist oder nicht ganz auf der Höhe ist, nehmen Sie sich ein oder zwei Tage frei.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Having heard through the grapevine that the manufacturer was in financial difficulties, the subcontractor is concerned that the judgment - when eventually rendered (court proceedings in Member State A take 2 years on average) will be worthless because the manufacturer will have become insolvent in the meantime.
+
+German: Den Zulieferer ist zu Ohren gekommen, dass sich der Hersteller in finanziellen Schwierigkeiten befindet, und befürchtet, dass das Urteil - wenn es schließlich ergeht (Gerichtsverfahren in Mitgliedstaat A dauern im Durchschnitt 2 Jahre) - wertlos sein wird, weil der Hersteller in der Zwischenzeit zahlungsunfähig geworden ist.
+
+Translate the English sentence into natural German.
+
+English: Holding my tongue is becoming harder and harder the longer I know him.
+
+German: Es fällt mir immer schwerer, den Mund zu halten, je länger ich ihn kenne.
+
+Translate the English sentence into natural German.
+
+English: Some of the world's top dancers have lent their names to the project.
+
+German: Einige der weltbesten Tänzerinnen und Tänzer haben ihre Namen für das Projekt hergegeben.
+
+Translate the English sentence into natural German.
+
+English: Are you hitting on me? You're a married man!
+
+German: Machst du mich an? Du bist ein verheirateter Mann!
+
+Translate the English sentence into natural German.
+
+English: I am still left with a bad taste in my mouth from that experience.
+
+German: Diese Erfahrung hat bei mir einen üblen Nachgeschmack hinterlassen.
+
+Now translate the next sentence.
+
+English: If he or she is overly tired or under the weather, take a day or two off.
+
+German:",Wenn es es es es es es es es es es es es es es es es es es es es es,google/flan-t5-small,5
+"Despite several bilateral and multilateral meetings, the four have not yet come up with the lowest common denominator likely to get the ball rolling","Trotz mehrerer bilateraler und multilateraler Treffen haben sich die vier noch nicht auf den kleinsten gemeinsamen Nenner geeinigt, der den Stein ins Rollen bringen könnte","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He washed his hands of the matter.
+
+German: Er distanzierte sich von der Angelegenheit.
+
+Translate the English sentence into natural German.
+
+English: You should learn to act your age.
+
+German: Du solltest lernen, dich deinem Alter entsprechend zu verhalten.
+
+Translate the English sentence into natural German.
+
+English: He tried to stay under the radar as he went about his business.
+
+German: Er versuchte, unauffällig zu bleiben, während er seinen Geschäften nachging.
+
+Translate the English sentence into natural German.
+
+English: This great little shop offers the chance to kill two birds with one stone.
+
+German: Dieser tolle kleine Laden bietet die Möglichkeit, zwei Fliegen mit einer Klappe zu schlagen.
+
+Translate the English sentence into natural German.
+
+English: I couldn't make head or tail of it at all, but I thought it sounded pretty good.
+
+German: Ich konnte mir zwar keinen Reim darauf machen, aber ich fand, es klang ziemlich gut.
+
+Now translate the next sentence.
+
+English: Despite several bilateral and multilateral meetings, the four have not yet come up with the lowest common denominator likely to get the ball rolling
+
+German:","Trotz einigen bilaterale und multilaterale Treffens, die vier nicht einmal mit der niedrigen gemeinsamen Denominator, die die Ball-Roller zu setzen.",google/flan-t5-small,5
+"He was two days late last time, so she's not hiring him again-once bitten, twice shy.","Beim letzten Mal kam er zwei Tage zu spät, also stellt sie ihn nicht wieder ein - ein gebranntes Kind scheut das Feuer.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I used to think that calculus was child's play.
+
+German: Ich dachte immer, dass Rechnen ein Klacks sein.
+
+Translate the English sentence into natural German.
+
+English: Faced with the choice, we decided to go back, rather than continue forward to the point of no return.
+
+German: Vor die Wahl gestellt, entschieden wir uns für den Rückweg und nicht für die Weiterreise bis zu dem Punkt, ab dem es kein Zurück mehr gibt.
+
+Translate the English sentence into natural German.
+
+English: I implore all of my colleagues on all sides of the House, let us get down to business, let us get Pearson over with as fast as we can, let us get on with making Pearson a world class airport that we can all be proud of.
+
+German: Ich beschwöre alle meine Kollegen auf allen Seiten des Hauses, lassen Sie uns zur Sache kommen, lassen Sie uns Pearson so schnell wie möglich fertigstellen, lassen Sie uns damit fortfahren, Pearson zu einem Flughafen von Weltklasse zu machen, auf den wir alle stolz sein können.
+
+Translate the English sentence into natural German.
+
+English: I could sit here and argue with you till the cows come home, but it wouldn't solve anything.
+
+German: Ich könnte hier sitzen und mit Ihnen streiten, bis die Hölle zufriert, aber das würde nichts lösen.
+
+Translate the English sentence into natural German.
+
+English: He was speeding home as if it was a race against time.
+
+German: Er raste nach Hause, als ob es ein Wettlauf mit der Zeit wäre.
+
+Now translate the next sentence.
+
+English: He was two days late last time, so she's not hiring him again-once bitten, twice shy.
+
+German:","Er war zwei Tagen später, so er störte ihn wieder, daß er bitten, zwei wenig.",google/flan-t5-small,5
+"It would certainly be fun in an active family, with whom he would go through thick and thin.","Es wäre sicher lustig in einer aktiven Familie, mit der er durch dick und dünn gehen würde.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Am I trying to pour cold water on the goal setting method many of us grew up on?
+
+German: Versuche ich, der Zielsetzungsmethode, die viele von uns kennen, einen Strich durch die Rechnung zu machen?
+
+Translate the English sentence into natural German.
+
+English: After forty years in the business, it's time for me to take a back seat and let someone younger take over.
+
+German: Nach vierzig Jahren in der Branche ist es für mich an der Zeit, in den Hintergrund zu treten und jemand Jüngerem den Vortritt zu lassen.
+
+Translate the English sentence into natural German.
+
+English: Can we cut to the chase and get to the point?
+
+German: Können wir uns kurzfassen und auf den Punkt kommen?
+
+Translate the English sentence into natural German.
+
+English: He graduated from high school with flying colors.
+
+German: Er schloss die High School mit Bravour ab.
+
+Translate the English sentence into natural German.
+
+English: He has everything at his disposal, including a million-man army, he will keep his people under his thumb and he will not come to court.
+
+German: Ihm steht alles zur Verfügung, einschließlich einer Millionenarmee, er wird sein Volk unter der Fuchtel haben und er wird nicht vor Gericht kommen.
+
+Now translate the next sentence.
+
+English: It would certainly be fun in an active family, with whom he would go through thick and thin.
+
+German:","Es würde es wohl sein, in einer aktiven Familie, mit denen es sich durch stärkt und stärkt.",google/flan-t5-small,5
+The union is bringing pressure to bear on management.,Die Gewerkschaft übt Druck auf die Unternehmensleitung aus.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: If the detective discovers that the two criminals have been working hand in glove, he will arrest them.
+
+German: Wenn der Detektiv herausfindet, dass die beiden Kriminellen Hand in Hand gearbeitet haben, wird er sie verhaften.
+
+Translate the English sentence into natural German.
+
+English: All three singers gave impressive performances but it was Domingo who stole the show.
+
+German: Alle drei Sänger zeigten beeindruckende Leistungen, aber es war Domingo, der die Schau stahl.
+
+Translate the English sentence into natural German.
+
+English: When would they be hired again? Perhaps, as the saying goes, when pigs fly.
+
+German: Wann würden sie wieder eingestellt werden? Vielleicht am Sankt-Nimmerleins-Tag.
+
+Translate the English sentence into natural German.
+
+English: Especially since ICPD+5, UNFPA's commitment to the needs of young people take center stage in many country and inter-country programs, often including an education component (e.g. peer education and its links to health services).
+
+German: Vor allem seit der ICPD+5 steht das Engagement des UNFPA für die Bedürfnisse junger Menschen im Mittelpunkt vieler Länder- und länderübergreifender Programme, die oft auch eine Bildungskomponente enthalten (z. B. Peer Education und deren Verbindung zu Gesundheitsdiensten).
+
+Translate the English sentence into natural German.
+
+English: A win today secures our spot in the championship, so go out there and give a hundred and ten percent!
+
+German: Ein Sieg heute sichert uns einen Platz in der Meisterschaft, also geht da raus und gebt alles!
+
+Now translate the next sentence.
+
+English: The union is bringing pressure to bear on management.
+
+German:",Die Europäische Union setzte Druck auf die Verwaltung.,google/flan-t5-small,5
+My children have ants in their pants because tomorrow is Christmas and they are excited about their presents.,"Meine Kinder haben Hummeln im Hintern, denn morgen ist Weihnachten, und sie freuen sich auf ihre Geschenke.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Every time she sees her ex, she gets down in the dumps.
+
+German: Jedes Mal, wenn sie ihren Ex sieht, bläst sie Trübsal.
+
+Translate the English sentence into natural German.
+
+English: Despite harsh criticism, she's sticking to her guns on this issue.
+
+German: Trotz harscher Kritik bleibt lässt sie in dieser Frage nicht locker
+
+Translate the English sentence into natural German.
+
+English: I'm very tired of being yelled at, pushed around, and the like.
+
+German: Ich habe es satt, angeschrien, herumgeschubst zu werden und dergleichen.
+
+Translate the English sentence into natural German.
+
+English: I have been on cloud nine since I won the lottery.
+
+German: Seit ich im Lotto gewonnen habe, schwebe ich auf Wolke sieben.
+
+Translate the English sentence into natural German.
+
+English: In business negotiations, it's important that you don't show your cards right away.
+
+German: Bei Geschäftsverhandlungen ist es wichtig, dass Sie Ihre Karten nicht gleich auf den Tisch legen.
+
+Now translate the next sentence.
+
+English: My children have ants in their pants because tomorrow is Christmas and they are excited about their presents.
+
+German:","Meine Kinder haben anten in ihren Panten, weil es es es Weihnachten und es es es es es es es es es es.",google/flan-t5-small,5
+"It was a great disaster, the family survived by a hair's breadth.","Es war eine große Katastrophe, die Familie überlebte um ein Haar.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Michael, keep your nose clean, all right?
+
+German: Michael, bleib sauber, okay?
+
+Translate the English sentence into natural German.
+
+English: I got off the beaten track and visited a small town I'd never been to before.
+
+German: Ich verließ die ausgetretenen Pfade und besuchte eine kleine Stadt, in der ich noch nie zuvor gewesen war.
+
+Translate the English sentence into natural German.
+
+English: If you're not hardened by Darwinian competition someone, somewhere is going to eat your lunch (or you).
+
+German: Wenn Sie nicht durch den darwinistischen Wettbewerb abgehärtet sind, wird jemand, irgendwo, Sie fertigmachen.
+
+Translate the English sentence into natural German.
+
+English: He is the latest public figure to go on record about corruption in politics.
+
+German: Er ist die jüngste Persönlichkeit des öffentlichen Lebens, die die Korruption in der Politik aktenkundig macht.
+
+Translate the English sentence into natural German.
+
+English: Are you letting off steam by going for a walk?
+
+German: Lassen Sie Dampf ab, indem Sie spazieren gehen?
+
+Now translate the next sentence.
+
+English: It was a great disaster, the family survived by a hair's breadth.
+
+German:","Er war ein großes Katastrophe, das Familie stärkt von einem langen Kopf.",google/flan-t5-small,5
+I am queering the pitch by asking too many questions.,"Ich mache Ihnen eine Strich durch die Rechnung, weil ich zu viele Fragen stelle.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: She left her husband and ran away with a younger man. It was a nine days' wonder.
+
+German: Sie verließ ihren Mann und lief mit einem jüngeren Mann davon. Es war eine Eintagsfliege.
+
+Translate the English sentence into natural German.
+
+English: I guess we'll hit the road.
+
+German: Ich schätze, wir werden uns auf die Socken machen.
+
+Translate the English sentence into natural German.
+
+English: And we wouldn't sell you again, not for all the tea in China.
+
+German: Und wir würden Sie nicht noch einmal verkaufen, um nichts in der Welt!
+
+Translate the English sentence into natural German.
+
+English: ""A: """"The apple of discord seems to be that you stole Ted's trashcan."""" B: """"But I didn't, though! Look, my name is on this trashcan!""""""
+
+German: ""A: """"Der Zankapfel scheint zu sein, dass du Teds Mülleimer gestohlen hast."""" B: """"Das habe ich aber nicht! Schau, mein Name steht auf diesem Mülleimer!""""""
+
+Translate the English sentence into natural German.
+
+English: I want to bury the hatchet.
+
+German: Ich möchte das Kriegsbeil begraben.
+
+Now translate the next sentence.
+
+English: I am queering the pitch by asking too many questions.
+
+German:","Ich hoffe es, dass es zu vielen Fragen zu beantworten.",google/flan-t5-small,5
+He sat for a moment chewing the cud before he spoke.,"Er saß einen Moment da und ließ sich das durch den Kopf gehen, bevor er sprach.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: If you're not hardened by Darwinian competition someone, somewhere is going to eat your lunch (or you).
+
+German: Wenn Sie nicht durch den darwinistischen Wettbewerb abgehärtet sind, wird jemand, irgendwo, Sie fertigmachen.
+
+Translate the English sentence into natural German.
+
+English: Are those crocodile tears or genuine?
+
+German: Sind das Krokodilstränen oder echte?
+
+Translate the English sentence into natural German.
+
+English: He's a long shot to get the job because he doesn't have the right experience.
+
+German: Er hat kaum Chancen, den Job zu bekommen, weil er nicht die richtige Erfahrung hat.
+
+Translate the English sentence into natural German.
+
+English: I have to be on the ball if I want to get ahead.
+
+German: Wenn ich weiterkommen will, muss ich am Ball bleiben.
+
+Translate the English sentence into natural German.
+
+English: During their residence in Azerbaijan, foreign nationals enjoyed all labor rights on an equal footing with Azerbaijani citizens.
+
+German: Während ihres Aufenthalts in Aserbaidschan genossen ausländische Staatsangehörige alle Arbeitsrechte mit gleicher Ausgangsposition wie aserbaidschanische Staatsbürger.
+
+Now translate the next sentence.
+
+English: He sat for a moment chewing the cud before he spoke.
+
+German:","He sat für einen Moment mit den künftet, bevor er er bitten.",google/flan-t5-small,5
+"Bend the knee, peasant! Admit that I am your rightful king!","Beuge das Knie, Bauer! Gib zu, dass ich dein rechtmäßiger König bin!","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: ""As many of the most relevant parameters are quite different, comparing such different options is like comparing """"chalk and cheese.""""""
+
+German: ""Da viele der wichtigsten Parameter sehr unterschiedlich sind, ist ein Vergleich dieser verschiedenen Optionen wie ein Vergleich von """"Tag und Nacht"""".""
+
+Translate the English sentence into natural German.
+
+English: ""It also allows the community to keep at bay """"dictatorship nostalgia"""" and temptations to step beyond the rule of law (lynching, vigilante groups).""
+
+German: ""Sie ermöglicht es der Gemeinschaft auch, sich die """"Diktaturnostalgie"""" und die Versuchung, sich über die Rechtsstaatlichkeit hinwegzusetzen (Lynchjustiz, Bürgerwehr), vom Leibe zu halten.""
+
+Translate the English sentence into natural German.
+
+English: Instead of supporting the enthusiastic masses, they pour cold water on them.
+
+German: Anstatt die begeisterten Massen zu unterstützen, haben Sie ihnen einen Dämpfer aufgesetzt
+
+Translate the English sentence into natural German.
+
+English: Actors don't like working with animals because they often steal the show.
+
+German: Schauspieler arbeiten nicht gerne mit Tieren, weil sie ihnen oft die Schau stehlen.
+
+Translate the English sentence into natural German.
+
+English: I've been stuck in this same office for almost two years now and I'm bored stiff. I've really got itchy feet and need to go somewhere new.
+
+German: Ich sitze jetzt seit fast zwei Jahren in demselben Büro fest und langweile mich zu Tode. Mich juckt es in den Füßen und ich brauche etwas Neues.
+
+Now translate the next sentence.
+
+English: Bend the knee, peasant! Admit that I am your rightful king!
+
+German:","Abschließend das Knee, stört! Abschließend hat, dass ich Ihre Rechtful König!",google/flan-t5-small,5
+"Anyway, we should hit the road.","Wie auch immer, wir sollten uns auf den Weg machen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: ""If you really think this is a """"classy place,"""" all your taste is in your mouth!""
+
+German: ""Wenn Sie wirklich glauben, dass dies ein """"nobler Ort"""" ist, dann haben Sie einen schlechten Geschmack!""
+
+Translate the English sentence into natural German.
+
+English: However, when a library provides a significant unique capability, like GNU Readline, that's a horse of a different color.
+
+German: Wenn jedoch eine Bibliothek eine signifikante, einzigartige Fähigkeit bietet, wie GNU Readline, dann ist das ein ganz anderes Kaliber.
+
+Translate the English sentence into natural German.
+
+English: I have had a nose for trouble all my life.
+
+German: Ich hatte mein ganzes Leben lang einen Riecher für Probleme.
+
+Translate the English sentence into natural German.
+
+English: He was tickled pink to be elected president
+
+German: Er freute sich wie ein Schneekönig, dass er zum Präsidenten gewählt wurde.
+
+Translate the English sentence into natural German.
+
+English: Tony sweetheart, I wish we could turn the clock back for you.
+
+German: Tony, mein Schatz, ich wünschte, wir könnten die Zeit für dich zurückdrehen.
+
+Now translate the next sentence.
+
+English: Anyway, we should hit the road.
+
+German:",Wir sollten uns auf den Weg zu erreichen.,google/flan-t5-small,5
+"I don't want to put the cart before the horse, but I think we should start working on it.","Ich möchte das Pferd nicht von hinten aufzäumen, aber ich denke, wir sollten mit der Arbeit daran beginnen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He must have put it right under my nose so I would find it.
+
+German: Er muss es mir direkt vor die Nase gelegt haben, damit ich es finde.
+
+Translate the English sentence into natural German.
+
+English: If you keep having a fit every time he messes up, you're going to damage your health.
+
+German: Wenn du jedes Mal einen Anfall bekommst, wenn er einen Fehler macht, schadest du deiner Gesundheit.
+
+Translate the English sentence into natural German.
+
+English: Findings lead to another mare's nest.
+
+German: Die Funde führen zu einer weiteren Augenwischerei.
+
+Translate the English sentence into natural German.
+
+English: ""Barely a decade ago, the US was beginning to feel marginalized in Asia, owing to several developments, including China's """"charm offensive.""""""
+
+German: ""Vor kaum einem Jahrzehnt fühlten sich die USA aufgrund verschiedener Entwicklungen, darunter Chinas """"Charmeoffensive"""", in Asien zunehmend an den Rand gedrängt.""
+
+Translate the English sentence into natural German.
+
+English: I busted his chops and he finally stopped talking.
+
+German: Ich habe ihm die Hölle heiß gemacht und er hat endlich aufgehört zu reden.
+
+Now translate the next sentence.
+
+English: I don't want to put the cart before the horse, but I think we should start working on it.
+
+German:","Ich hoffe nicht, daß es die Cart vor dem Horse hat, aber ich glaube, wir sollten wir versuchen, zu arbeiten.",google/flan-t5-small,5
+He broke the promise to his mother. He will have broken her heart by the end of the day.,Er hat das Versprechen gegenüber seiner Mutter gebrochen. Am Ende des Tages wird er ihr das Herz gebrochen haben.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He was speeding home as if it was a race against time.
+
+German: Er raste nach Hause, als ob es ein Wettlauf mit der Zeit wäre.
+
+Translate the English sentence into natural German.
+
+English: Don't be rude to others. You won't like it when you get a taste of your own medicine.
+
+German: Seien Sie nicht unhöflich zu anderen. Sie werden es nicht mögen, wenn man es Ihnen mit gleicher Münze heimzahlt.
+
+Translate the English sentence into natural German.
+
+English: Are you raising your voice because you are angry?
+
+German: Erheben Sie Ihre Stimme, weil Sie wütend sind?
+
+Translate the English sentence into natural German.
+
+English: ""Barely a decade ago, the US was beginning to feel marginalized in Asia, owing to several developments, including China's """"charm offensive.""""""
+
+German: ""Vor kaum einem Jahrzehnt fühlten sich die USA aufgrund verschiedener Entwicklungen, darunter Chinas """"Charmeoffensive"""", in Asien zunehmend an den Rand gedrängt.""
+
+Translate the English sentence into natural German.
+
+English: I can't handle this anymore, I'm going insane!
+
+German: Ich halte das nicht mehr aus, ich werde noch wahnsinnig!
+
+Now translate the next sentence.
+
+English: He broke the promise to his mother. He will have broken her heart by the end of the day.
+
+German:","Er hat die Hoffnung zu seinem Mutter, und er hat seines Herzens zu den Ende des Tages zu setzen.",google/flan-t5-small,5
+"""Your money or your life! I'm sorry, my dear, but you know it would kill me to lose my money,"""" said the partially deaf miser to his wife.""""""","""Geld oder Leben! Es tut mir leid, meine Liebe, aber du weißt, dass es mich umbringen würde, mein Geld zu verlieren"""", sagte der halb taube Geizhals zu seiner Frau.""","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: They just turning up the pressure to see who will screw up.
+
+German: Sie erhöhen nur den Druck, um zu sehen, wer es vermasseln wird.
+
+Translate the English sentence into natural German.
+
+English: Although the job was well paying, I couldn't stand the way the boss kept me under his thumb.
+
+German: Obwohl der Job gut bezahlt war, konnte ich es nicht ertragen, dass der Chef mich unter seiner Fuchtel hatte.
+
+Translate the English sentence into natural German.
+
+English: Leon... and Sonya, the apple of my eye.
+
+German: Leon... und Sonya, mein Ein und Alles.
+
+Translate the English sentence into natural German.
+
+English: No, we won't lose touch.
+
+German: Nein, wir werden uns nicht aus den Augen verlieren.
+
+Translate the English sentence into natural German.
+
+English: He went behind my back and did it anyway.
+
+German: Er hat es hinter meinem Rücken trotzdem getan.
+
+Now translate the next sentence.
+
+English: ""Your money or your life! I'm sorry, my dear, but you know it would kill me to lose my money,"""" said the partially deaf miser to his wife.""""""
+
+German:","""Your money or your life!"" Ich hoffe, meine Damen, aber ich weiß, daß es muß müßte, um mein Geld zu verlieren.""",google/flan-t5-small,5
+I'm as fit as a fiddle-with energy to spare.,Ich bin fit wie ein Turnschuh - und habe noch viel Energie.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I am conscious of the fact that I am my own worst enemy.
+
+German: Ich bin mir der Tatsache bewusst, dass ich mein eigener schlimmster Feind bin.
+
+Translate the English sentence into natural German.
+
+English: Despite all of her free time, she's somehow up to her neck with some school project.
+
+German: Trotz all ihrer Freizeit steckt sie irgendwie bis zum Hals in einem Schulprojekt.
+
+Translate the English sentence into natural German.
+
+English: Labor leaders hope to use their annual conference to attack what they currently see as the most vulnerable chink in the government's armor.
+
+German: Die Parteiführer der Arbeiterpartei hoffen, ihre Jahreskonferenz nutzen zu können, um das anzugreifen, was sie derzeit als die verwundbarste Schwachstelle der Regierung ansehen.
+
+Translate the English sentence into natural German.
+
+English: But while Nero was without doubt a depraved person of very low morals, he was not a raving lunatic, and no sane person, even if a cruel despot, would destroy his capital city to clear space for his new home. This would be cutting off your nose to spite your face, because the city that ruled the world was threatened with ruin, receiving very nearly a mortal blow by
+
+German: Nero war zwar zweifellos ein verdorbener Mensch mit sehr niedriger Moral, aber er war kein rasender Verrückter, und kein vernünftiger Mensch, selbst wenn er ein grausamer Despot war, würde seine Hauptstadt zerstören, um Platz für sein neues Haus zu schaffen. Das wäre, als würde man sich ins eigene Fleisch schneiden, denn die Stadt, die die Welt beherrschte, war vom Untergang bedroht und hätte beinahe einen tödlichen Schlag durch
+
+Translate the English sentence into natural German.
+
+English: Actors don't like working with animals because they often steal the show.
+
+German: Schauspieler arbeiten nicht gerne mit Tieren, weil sie ihnen oft die Schau stehlen.
+
+Now translate the next sentence.
+
+English: I'm as fit as a fiddle-with energy to spare.
+
+German:","Die Schauspieler arbeiten nicht gerne mit Tieren, weil sie ihnen die Schau sind.",google/flan-t5-small,5
+I had been sick and tired of his laziness.,Ich hatte die Nase voll von seiner Faulheit.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Economic analysts appear to have been too pessimistic in August, suggesting that perhaps too much doom and gloom has been priced into the UK rates market.
+
+German: Die Wirtschaftsanalysten scheinen im August zu pessimistisch gewesen zu sein, was darauf hindeutet, dass auf dem britischen Zinsmarkt vielleicht zu viel Schwarzmalerei eingepreist wurde.
+
+Translate the English sentence into natural German.
+
+English: He's so messy and it's driving me up the wall!
+
+German: Er ist so unordentlich und das geht mir auf den Wecker.
+
+Translate the English sentence into natural German.
+
+English: Before my assistant had anger management therapy, she used to jump down everyone's throat for even the slightest problem.
+
+German: Bevor meine Assistentin eine Aggressionsbewältigungstherapie machte, ging sie jedem beim kleinsten Problem an die Gurgel.
+
+Translate the English sentence into natural German.
+
+English: I have been wanting to bust your chops for a while.
+
+German: Ich wollte dir schon eine ganze Weile die Hölle heiß machen.
+
+Translate the English sentence into natural German.
+
+English: Let's just agree to disagree. We're never going to see eye to eye on politics!
+
+German: Zwei Menschen, zwei Meinungen. Wir werden in der Politik nie einer Meinung sein!
+
+Now translate the next sentence.
+
+English: I had been sick and tired of his laziness.
+
+German:",Ich habe ich bitten und bitten von seinem Laziness.,google/flan-t5-small,5
+"If they aren't generating significant value over a Web alternative, competitors will eat your lunch","Wenn sie keinen signifikanten Mehrwert gegenüber einer Web-Alternative bieten, werden die Konkurrenten dich fertigmachen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He would have been sitting pretty if he had not made so many mistakes.
+
+German: Er hätte gut im Rennen gelegen, wenn er nicht so viele Fehler gemacht hätte.
+
+Translate the English sentence into natural German.
+
+English: I know that the parliamentary secretary has hopped on a plane and flown to Syria on a moment's notice to go there to advocate on behalf of Canadian citizens who have been in difficulty.
+
+German: Ich weiß, dass der parlamentarische Staatssekretär von einem Moment auf den anderen in ein Flugzeug gestiegen und nach Syrien geflogen ist, um sich dort für kanadische Bürger einzusetzen, die in Schwierigkeiten geraten sind.
+
+Translate the English sentence into natural German.
+
+English: I always think ahead and save for a rainy day so that I will be prepared when the time comes.
+
+German: Ich denke immer voraus und lege etwas auf die hohe Kante, damit ich vorbereitet bin, wenn es so weit ist.
+
+Translate the English sentence into natural German.
+
+English: A kiss and make up is all it will take to be friends again.
+
+German: eine Versöhnung ist alles, was es braucht, um wieder Freunde zu sein.
+
+Translate the English sentence into natural German.
+
+English: I ran the table last night and won all my games.
+
+German: Ich habe gestern Abend abgeräumt und alle meine Spiele gewonnen.
+
+Now translate the next sentence.
+
+English: If they aren't generating significant value over a Web alternative, competitors will eat your lunch
+
+German:","Wenn es nicht ein wichtiger Wert über eine Web-alternativ haben, Wettbewerbswahlen werden Ihres Lunches zu finden.",google/flan-t5-small,5
+Redundancy indicates that the system is fault-tolerant to a certain degree.,"Redundanz bedeutet, dass das System bis zu einem gewissen Grad tolerant für Fehler ist.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: If she knew you'd sold her jewelry, she'd turn over in her grave.
+
+German: Wenn sie wüsste, dass du ihren Schmuck verkauft hast, würde sie sich im Grab umdrehen.
+
+Translate the English sentence into natural German.
+
+English: I'm just trying to be a voice of reason, I don't want to be a wet blanket.
+
+German: Ich versuche nur, eine Stimme der Vernunft zu sein. Ich will kein Spielverderber sein.
+
+Translate the English sentence into natural German.
+
+English: Although one of the publishers- Elsevier - has now restored access, some poor countries are beginning to feel they have been given the keys to little more than a castle in the air, built on a non-binding agreement that can be withdrawn with little notice.
+
+German: Obwohl einer der Verlage - Elsevier - den Zugang inzwischen wiederhergestellt hat, haben einige arme Länder das Gefühl, dass man ihnen die Schlüssel zu kaum mehr als einem Luftschloss gegeben hat, das auf einer unverbindlichen Vereinbarung beruht, die ohne Vorankündigung zurückgezogen werden kann.
+
+Translate the English sentence into natural German.
+
+English: I decided to take/borrow a leaf out of his book and invest some money in the stock market.
+
+German: Ich beschloss, mir eine Scheibe von ihm abzuschneiden und etwas Geld in den Aktienmarkt zu investieren.
+
+Translate the English sentence into natural German.
+
+English: And we wouldn't sell you again, not for all the tea in China.
+
+German: Und wir würden Sie nicht noch einmal verkaufen, um nichts in der Welt!
+
+Now translate the next sentence.
+
+English: Redundancy indicates that the system is fault-tolerant to a certain degree.
+
+German:","Redundancy betonte, dass die System zu einer gewissen Maße ist.",google/flan-t5-small,5
+He is lighting a fire under the team and they are finally starting to work together.,"Er macht der Mannschaft Feuer unterm Hintern, und sie beginnt endlich zusammenzuarbeiten.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I cannot believe my friend stabbed me in the back by telling my teacher I wasn't really sick when I stayed home yesterday
+
+German: Ich kann nicht glauben, dass mein Freund mir in den Rücken gefallen ist, indem er meinem Lehrer gesagt hat, dass ich nicht wirklich krank war, als ich gestern zu Hause blieb.
+
+Translate the English sentence into natural German.
+
+English: I am starting my new job tomorrow, it feels like I am turning over a new leaf.
+
+German: Ich fange morgen meinen neuen Job an, es fühlt sich an, als würde ich ein neues Kapitel aufschlagen.
+
+Translate the English sentence into natural German.
+
+English: He seemed to think he had stumbled on something, but, not for the first time, he is barking up the wrong tree.
+
+German: Er schien zu glauben, er sei auf etwas gestoßen, aber er ist nicht zum ersten Mal auf dem Holzweg.
+
+Translate the English sentence into natural German.
+
+English: It was clear that the senator was trying to be all things to all people in her campaign.
+
+German: Es war klar, dass die Senatorin in ihrem Wahlkampf versuchte, es allen recht zu machen.
+
+Translate the English sentence into natural German.
+
+English: A company seeing wrong information about itself in a report may struggle to set the record straight.
+
+German: Ein Unternehmen, das in einem Bericht falsche Informationen über sich selbst findet, kann sich schwertun, Missverständnisse aus dem Weg zu räumen.
+
+Now translate the next sentence.
+
+English: He is lighting a fire under the team and they are finally starting to work together.
+
+German:",Er ist ein Feuer unter dem Team und sie sind endlich zusammengearbeitet.,google/flan-t5-small,5
+Going back to the drawing board is the best way to improve this product.,"Noch einmal von vorn anfangen ist die beste Art, dieses Produkt zu verbessern.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: After surgery, I was in a haze until the anesthetic wore off.
+
+German: Nach der Operation war ich wie benebelt, bis die Betäubung nachließ.
+
+Translate the English sentence into natural German.
+
+English: He hit the nail on the head last night when he said I needed to start doing my own laundry.
+
+German: Er traf gestern Abend den Nagel auf den Kopf, als er sagte, ich müsse anfangen, meine Wäsche selbst zu waschen.
+
+Translate the English sentence into natural German.
+
+English: And in my view, and in the view of the PPE, this is a different kettle of fish.
+
+German: Meiner Ansicht nach und nach Ansicht der EVP steht das auf einem anderen Blatt
+
+Translate the English sentence into natural German.
+
+English: At least there's other Casanovas in the same boat.
+
+German: Wenigstens gibt es andere Casanovas, die im selben Boot sitzen.
+
+Translate the English sentence into natural German.
+
+English: I am seeing the harbinger of doom on the horizon.
+
+German: Ich sehe den Vorboten des Untergangs am Horizont.
+
+Now translate the next sentence.
+
+English: Going back to the drawing board is the best way to improve this product.
+
+German:","Die Rückkehr auf der Drawing Board ist der bestes Weg zu verbessern, dieses Produkt zu verbessern.",google/flan-t5-small,5
+How are you going to weather the storm of this corporate takeover?,Wie werden Sie dem Sturm dieser Unternehmensübernahme trotzen?,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He would've been the butt of the joke if he hadn't been so tall.
+
+German: Wäre er nicht so groß gewesen, wäre er die Zielscheibe des Spotts gewesen.
+
+Translate the English sentence into natural German.
+
+English: I call the shots in my life, agent Mcbride.
+
+German: Ich habe in meinem Leben das Sagen, Agent McBride.
+
+Translate the English sentence into natural German.
+
+English: I don't want to make a fuss over such a trifle.
+
+German: Ich möchte wegen einer solchen Lappalie keinen großen Wirbel machen.
+
+Translate the English sentence into natural German.
+
+English: All three singers gave impressive performances but it was Domingo who stole the show.
+
+German: Alle drei Sänger zeigten beeindruckende Leistungen, aber es war Domingo, der die Schau stahl.
+
+Translate the English sentence into natural German.
+
+English: Figured it'd be a cold day in hell before I laid eyes on you again.
+
+German: Ich dachte, die Hölle würde zufrieren, bevor ich dich wiedersehen würde.
+
+Now translate the next sentence.
+
+English: How are you going to weather the storm of this corporate takeover?
+
+German:","Wie ich fahren, dass es dieses Unternehmens-Konzernsanforderungen geschehen wird?",google/flan-t5-small,5
+"Dad said he'd be here to watch my baseball game, but he let me down again.","Papa hat gesagt, er würde hier sein, um mein Baseballspiel zu sehen, aber er hat mich wieder hängen lassen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I think we cannot trust them, it is better if we keep them at an arm's length.
+
+German: Ich denke, wir können ihnen nicht trauen, es ist besser, wenn wir sie auf Abstand halten.
+
+Translate the English sentence into natural German.
+
+English: Adhering to my promises is how I keep my word.
+
+German: Indem ich meine Versprechen einhalte, halte ich mein Wort.
+
+Translate the English sentence into natural German.
+
+English: I am starting my new job tomorrow, it feels like I am turning over a new leaf.
+
+German: Ich fange morgen meinen neuen Job an, es fühlt sich an, als würde ich ein neues Kapitel aufschlagen.
+
+Translate the English sentence into natural German.
+
+English: Athletic, acrobatic and fearless, she's what you might call a chip off the old block.
+
+German: ""Sie ist sportlich, akrobatisch und furchtlos, man könnte sagen: der Apfel fällt nicht weit vom Stamm.""""""
+
+Translate the English sentence into natural German.
+
+English: He departed on a sour note five years later in the wake of accounting problems.
+
+German: Fünf Jahre später verließ er das Unternehmen aufgrund von Problemen mit der Rechnungslegung mit einem mit einem bitteren Beigeschmack.
+
+Now translate the next sentence.
+
+English: Dad said he'd be here to watch my baseball game, but he let me down again.
+
+German:","Dad sagte, er würde er hier sehen, um mein Baseballspiel zu sehen, aber er muß ich wiederholen.",google/flan-t5-small,5
+He has a reputation as a loose cannon whose comments sometimes upset Wall Street.,"Er gilt als tickende Zeitbombe, dessen Äußerungen die Wall Street manchmal verärgern.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I am cutting my teeth on soul music.
+
+German: Ich habe in Soulmusik erste Erfahrungen gesammelt.
+
+Translate the English sentence into natural German.
+
+English: I never go to all-you-can-eat buffets anymore because I end up eating like a horse and feel sick afterwards.
+
+German: Ich gehe nie mehr zu All-you-can-eat-Buffets, weil ich dann wie ein Scheunendrescher esse und mir danach schlecht wird.
+
+Translate the English sentence into natural German.
+
+English: He will go from rags to riches if he hits it big with his new business.
+
+German: Er wird vom Tellerwäscher zum Millionär werden, wenn er mit seinem neuen Unternehmen Erfolg hat.
+
+Translate the English sentence into natural German.
+
+English: Mom's face went red as a cherry when I confessed that I was trying to sneak out of the house to go to a party.
+
+German: Meine Mutter wurde rot wie eine Tomate, als ich ihr gestand, dass ich mich aus dem Haus schleichen wollte, um auf eine Party zu gehen.
+
+Translate the English sentence into natural German.
+
+English: Geez, it must cost an arm and a leg to feed that thing.
+
+German: Meine Güte, es muss ein Vermögen kosten, dieses Ding zu füttern.
+
+Now translate the next sentence.
+
+English: He has a reputation as a loose cannon whose comments sometimes upset Wall Street.
+
+German:","He hat eine Bemerkung als eine stärkte Cannon, dessen Kommentare erwähnen, wenn Wall Street erwähnen.",google/flan-t5-small,5
+"I wouldn't say they're like chalk and cheese, but they definitely have their differences.","Ich würde nicht sagen, dass sie wie Tag und Nacht sind, aber sie haben definitiv ihre Unterschiede.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He's been trying to catch my eye all day.
+
+German: Er versucht schon den ganzen Tag, meine Aufmerksamkeit zu erregen.
+
+Translate the English sentence into natural German.
+
+English: Having a thick skin is important, but so is being able to empathize.
+
+German: Ein dickes Fell zu haben ist wichtig, aber auch die Fähigkeit, sich in andere hineinzuversetzen.
+
+Translate the English sentence into natural German.
+
+English: I have let the cat out of the bag, there is no point pretending that this job is working out for me.
+
+German: Ich habe die Katze aus dem Sack gelassen, es hat keinen Sinn, so zu tun, als ob dieser Job gut für mich wäre.
+
+Translate the English sentence into natural German.
+
+English: He always seemed to be wise beyond his ears, we noticed that.
+
+German: Er schien immer schlau wie ein Fuchs zu sein, das ist uns aufgefallen.
+
+Translate the English sentence into natural German.
+
+English: I can guarantee you we're not going to lose touch.
+
+German: Ich kann Ihnen garantieren, dass wir uns nicht aus den Augen verlieren werden.
+
+Now translate the next sentence.
+
+English: I wouldn't say they're like chalk and cheese, but they definitely have their differences.
+
+German:","Ich würde es nicht sagen, es sind sie wie schreckt und schreckt, aber sie sind wirklich unterschiedlicher Unterschiede.",google/flan-t5-small,5
+I knew I had my work cut out for me when I saw how messy the playroom was.,"Als ich sah, wie unordentlich das Spielzimmer war, wusste ich, dass ich alle Hände voll zu tun haben werde.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Reducing the cost of electricity for households and service sector companies in the north of Sweden places those consumers on an equal footing with their counterparts in the southern parts of the country.
+
+German: Durch die Senkung der Stromkosten für Haushalte und Dienstleistungsunternehmen in Nordschweden werden diese Verbraucher mit denen in den südlichen Teilen des Landes auf gleiche Ausgangsposition gestellt.
+
+Translate the English sentence into natural German.
+
+English: The most vulnerable animals are those that are not used to urea supplements, those with weak livers, and those taking in urea on an empty stomach.
+
+German: Am anfälligsten sind Tiere, die nicht an Harnstoffergänzungen gewöhnt sind, Tiere mit schwacher Leber und solche, die Harnstoff auf nüchternen Magen zu sich nehmen.
+
+Translate the English sentence into natural German.
+
+English: How did you know we were here? You must have eyes in the back of your head!
+
+German: Woher wussten Sie, dass wir hier sind? Du musst deine Augen überall haben!
+
+Translate the English sentence into natural German.
+
+English: He raises his voice whenever he gets angry.
+
+German: Er erhebt seine Stimme, wenn er wütend wird.
+
+Translate the English sentence into natural German.
+
+English: When I was top banana of the business, I used to charge the most outrageous things to the company credit card.
+
+German: Als ich der Obermacker des Unternehmens war, habe ich die unverschämtesten Dinge über die Firmenkreditkarte abgerechnet.
+
+Now translate the next sentence.
+
+English: I knew I had my work cut out for me when I saw how messy the playroom was.
+
+German:","Ich weiß, daß ich meine Arbeit mit meinem eigenen Arbeit für ich, wenn ich sehen, wie es die Playroom stärkt ist.",google/flan-t5-small,5
+A lingua franca is used to bridge the gap between people who do not speak the same language.,"Eine Lingua franca dient dazu, die Kluft zwischen Menschen zu überbrücken, die nicht dieselbe Sprache sprechen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Having heard through the grapevine that the manufacturer was in financial difficulties, the subcontractor is concerned that the judgment - when eventually rendered (court proceedings in Member State A take 2 years on average) will be worthless because the manufacturer will have become insolvent in the meantime.
+
+German: Den Zulieferer ist zu Ohren gekommen, dass sich der Hersteller in finanziellen Schwierigkeiten befindet, und befürchtet, dass das Urteil - wenn es schließlich ergeht (Gerichtsverfahren in Mitgliedstaat A dauern im Durchschnitt 2 Jahre) - wertlos sein wird, weil der Hersteller in der Zwischenzeit zahlungsunfähig geworden ist.
+
+Translate the English sentence into natural German.
+
+English: I am getting bent out of shape right now because I can see you eating out of the garbage can from here.
+
+German: Ich raste gerade aus, weil ich von hier aus sehen kann, wie du aus der Mülltonne isst.
+
+Translate the English sentence into natural German.
+
+English: After years of living in a shabby studio apartment, it was like all my Christmases had come at once when I found out I'd inherited all that money.
+
+German: Nachdem ich jahrelang in einer schäbigen Studiowohnung gelebt hatte, war es, als wäre es Weihnachten und Ostern zusammen, als ich erfuhr, dass ich all das Geld geerbt hatte.
+
+Translate the English sentence into natural German.
+
+English: It's an opportunity for them to make clear that they are not going to tolerate a bad apple in the United States Senate.
+
+German: Es ist eine Gelegenheit für sie, deutlich zu machen, dass sie keinen faulen Apfel im Senat der Vereinigten Staaten dulden werden.
+
+Translate the English sentence into natural German.
+
+English: My throat is a little sore now. Could I scream at the top of my voice?
+
+German: Mein Hals tut jetzt ein bisschen weh. Könnte ich aus voller Kehle schreien?
+
+Now translate the next sentence.
+
+English: A lingua franca is used to bridge the gap between people who do not speak the same language.
+
+German:",Meine Hals ist jetzt ein wenig sore. Ich screame beim Top von meinem Stimme?,google/flan-t5-small,5
+He pours out his heart to his therapist every week.,Er schüttet seinem Therapeuten jede Woche sein Herz aus.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I agree! You took the words out of my mouth!
+
+German: Ich stimme zu! Du hast mir das Wort aus dem Mund genommen!
+
+Translate the English sentence into natural German.
+
+English: Even at the eleventh hour it's not too late to know.
+
+German: Selbst in letzter Minute ist es nicht zu spät, es zu wissen.
+
+Translate the English sentence into natural German.
+
+English: I have a secret to tell you, but not a word to anyone else!
+
+German: Ich muss dir ein Geheimnis verraten, aber kein Wort zu irgendjemand anderem!
+
+Translate the English sentence into natural German.
+
+English: A very extensive research and development program ensures that we're ahead of the game.
+
+German: Ein sehr umfangreiches Forschungs- und Entwicklungsprogramm sorgt dafür, dass wir immer einen Schritt voraus sind.
+
+Translate the English sentence into natural German.
+
+English: He added fuel to the fire by revealing her secrets to their friends.
+
+German: Er goss noch mehr Öl ins Feuer, indem er ihre Geheimnisse vor ihren Freunden verriet.
+
+Now translate the next sentence.
+
+English: He pours out his heart to his therapist every week.
+
+German:",Er stört seine Herzen zu seinem Psychologist every Woche.,google/flan-t5-small,5
+"""Regardless of their cause, inequalities are a powerful force for instability everywhere, from wealthy America to rapidly growing China to reform-challenged Europe. """"A rising tide lifts all boats,"""" conservatives like to say.""","""Unabhängig von ihrer Ursache sind Ungleichheiten überall eine starke Kraft für Instabilität, vom wohlhabenden Amerika über das schnell wachsende China bis hin zum reformbedürftigen Europa. """"Die Flut hebt alle Boote"""", sagen die Konservativen gerne.""","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: The project was so difficult that he felt like he had an albatross around his neck.
+
+German: Das Projekt war so schwierig, dass er es als Klotz am Bein empfand.
+
+Translate the English sentence into natural German.
+
+English: Don't ask about his divorce - curiosity killed the cat.
+
+German: Fragen Sie nicht nach seiner Scheidung - Neugierde ist der Katze Tod.
+
+Translate the English sentence into natural German.
+
+English: Before my assistant had anger management therapy, she used to jump down everyone's throat for even the slightest problem.
+
+German: Bevor meine Assistentin eine Aggressionsbewältigungstherapie machte, ging sie jedem beim kleinsten Problem an die Gurgel.
+
+Translate the English sentence into natural German.
+
+English: But I'd rather draw a line under the whole thing.
+
+German: Aber ich würde lieber einen Schlussstrich unter die ganze Sache ziehen.
+
+Translate the English sentence into natural German.
+
+English: I'm getting claustrophobic, he's breathing down my neck.
+
+German: Ich kriege Platzangst, er sitzt mir im Nacken.
+
+Now translate the next sentence.
+
+English: ""Regardless of their cause, inequalities are a powerful force for instability everywhere, from wealthy America to rapidly growing China to reform-challenged Europe. """"A rising tide lifts all boats,"""" conservatives like to say.""
+
+German:","""Eigengleichheiten sind eine starken Kräfte für instabilität everywhere, aus dem französischen Amerika zu wachsenden China zu reformen Europa. """" Ein steigende Gesetz liftt alle Schiffe"", daß die schwedische Meinungsfreiheit",google/flan-t5-small,5
+All it took was a dozen words to make me decide that I would not move for all the tea in China.,"Es brauchte nur ein Dutzend Worte, um mich zu entscheiden, dass ich um nichts in der Welt umziehen würde.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: He would have opened his heart to her if she had given him a chance.
+
+German: Er hätte ihr sein Herz geöffnet, wenn sie ihm eine Chance gegeben hätte.
+
+Translate the English sentence into natural German.
+
+English: I want to bury the hatchet.
+
+German: Ich möchte das Kriegsbeil begraben.
+
+Translate the English sentence into natural German.
+
+English: If you don't call the recruiter back right away, you're going to miss the boat.
+
+German: Wenn Sie den Personalverantwortlichen nicht sofort zurückrufen, werden Sie den Anschluss verpassen.
+
+Translate the English sentence into natural German.
+
+English: If you're single, there are tantalizing choices to make when two people who look alike but have very different characters take a shine to you.
+
+German: Wenn Sie Single sind, haben Sie die Qual der Wahl, wenn zwei Menschen, die sich ähnlich sehen, aber sehr unterschiedliche Charaktere haben, auf Sie abfahren.
+
+Translate the English sentence into natural German.
+
+English: Actually, I was wondering if you two might want to lend a hand.
+
+German: Ich habe mich gefragt, ob Sie beide vielleicht unter die Arme greifen wollen.
+
+Now translate the next sentence.
+
+English: All it took was a dozen words to make me decide that I would not move for all the tea in China.
+
+German:","All hat ich nur zwölf Worten, daß ich die Entscheidung, daß ich für alle Tea in China nicht geschehen würde.",google/flan-t5-small,5
+Get stoned tonight and relax.,Bekiff dich heute Abend und entspann dich.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: ""Barely a decade ago, the US was beginning to feel marginalized in Asia, owing to several developments, including China's """"charm offensive.""""""
+
+German: ""Vor kaum einem Jahrzehnt fühlten sich die USA aufgrund verschiedener Entwicklungen, darunter Chinas """"Charmeoffensive"""", in Asien zunehmend an den Rand gedrängt.""
+
+Translate the English sentence into natural German.
+
+English: If they sold their app for a billion dollars, it's certainly not a bad thing for other tech companies - you know, a rising tide lifts all boats.
+
+German: Wenn sie ihre App für eine Milliarde Dollar verkauft haben, ist das sicherlich keine schlechte Sache für andere Tech-Unternehmen - Sie wissen ja, die Flut hebt alle Boote.
+
+Translate the English sentence into natural German.
+
+English: He used his head and came up with a great solution to the problem.
+
+German: Er hat scharf nachgedacht und eine großartige Lösung für das Problem gefunden.
+
+Translate the English sentence into natural German.
+
+English: A smart guy would go home and face the music.
+
+German: Ein kluger Mann würde nach Hause gehen und die Suppe auslöffeln.
+
+Translate the English sentence into natural German.
+
+English: I am seeing the harbinger of doom on the horizon.
+
+German: Ich sehe den Vorboten des Untergangs am Horizont.
+
+Now translate the next sentence.
+
+English: Get stoned tonight and relax.
+
+German:","Wenn Sie bitten, und entspannen Sie.",google/flan-t5-small,5
+"I put the cart before the horse, but I fixed it before it caused any problems.","Ich habe das Pferd beim Schwanz aufgezäumt, aber ich habe das Problem behoben, bevor es zu Problemen führte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: It'll be a cold day in July before you defeat me.
+
+German: Du wirst mich nicht in diesem Leben besiegen.
+
+Translate the English sentence into natural German.
+
+English: He will go from rags to riches if he hits it big with his new business.
+
+German: Er wird vom Tellerwäscher zum Millionär werden, wenn er mit seinem neuen Unternehmen Erfolg hat.
+
+Translate the English sentence into natural German.
+
+English: I don't want to be down in the dumps, so I'm going to try and cheer myself up.
+
+German: Ich will nicht Trübsal blasen, also werde ich versuchen, mich aufzumuntern.
+
+Translate the English sentence into natural German.
+
+English: While several bow to him as their new pack master, one very vocal wolf says he'll never bend the knee to Alcide.
+
+German: Während sich einige vor ihm als ihrem neuen Rudelführer verneigen, sagt ein sehr lautstarker Wolf, dass er niemals vor Alcide in die Knie gehen wird.
+
+Translate the English sentence into natural German.
+
+English: The management is turning over a new leaf concerning the reasons for project failure.
+
+German: Das Management beginnt ein neues Kapitel hinsichtlich der Gründe für das Scheitern von Projekten.
+
+Now translate the next sentence.
+
+English: I put the cart before the horse, but I fixed it before it caused any problems.
+
+German:","Ich habe die Carte vor dem Horse, aber ich hat es vor dem Problem zu ernst.",google/flan-t5-small,5

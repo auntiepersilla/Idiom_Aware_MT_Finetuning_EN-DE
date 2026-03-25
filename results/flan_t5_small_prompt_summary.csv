@@ -1,0 +1,4 @@
+run_name,model_name,n_shots,bleu,chrf,pred_path
+flan_t5_small_prompt_0shot,google/flan-t5-small,0,8.126810293457321,33.138795479524205,/content/drive/MyDrive/ds266_idiom_mt/results/flan_t5_small_prompt_0shot_preds.csv
+flan_t5_small_prompt_3shot,google/flan-t5-small,3,7.769177973296203,32.51758301307655,/content/drive/MyDrive/ds266_idiom_mt/results/flan_t5_small_prompt_3shot_preds.csv
+flan_t5_small_prompt_5shot,google/flan-t5-small,5,7.623039483156583,32.096459272914366,/content/drive/MyDrive/ds266_idiom_mt/results/flan_t5_small_prompt_5shot_preds.csv
