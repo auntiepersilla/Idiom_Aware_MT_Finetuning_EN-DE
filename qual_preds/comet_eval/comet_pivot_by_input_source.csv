@@ -1,0 +1,8 @@
+model,per_model_csvs,wide_csv
+baseline,,0.732550995349884
+flan_t5_small_prompt_0shot,0.38101794600486755,
+flan_t5_small_prompt_3shot,0.3634049093723297,
+idiom_only_v1,,0.7627166271209717
+lora_r16_stage2,,0.7326505601406097
+lora_r4_stage2,,0.7278750741481781
+lora_r8_stage2,,0.7320339703559875
