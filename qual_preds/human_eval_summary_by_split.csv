@@ -1,0 +1,11 @@
+group,model,n_examples,adequacy_mean,fluency_mean,idiom_acc,over_idio_rate
+idioms_test,baseline,25,1.04,1.48,0.36,0.0
+idioms_test,lora_r16_stage2,25,1.04,1.36,0.4,0.0
+idioms_test,lora_r8_stage2,25,1.04,1.28,0.36,0.0
+idioms_test,lora_r4_stage2,25,1.0,1.36,0.4,0.04
+idioms_test,idiom_only_v1,25,0.96,1.28,0.48,0.0
+wmt_test,lora_r8_stage2,25,1.68,1.52,,0.0
+wmt_test,idiom_only_v1,25,1.6,1.44,,0.0
+wmt_test,lora_r16_stage2,25,1.6,1.56,,0.0
+wmt_test,baseline,25,1.56,1.48,,0.0
+wmt_test,lora_r4_stage2,25,1.56,1.52,,0.0

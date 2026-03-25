@@ -1,0 +1,9 @@
+group,metric,model,delta_vs_baseline,ci_low,ci_high
+idioms_test,adequacy,lora_r16_stage2,0.0,0.0,0.0
+idioms_test,adequacy,lora_r8_stage2,0.0,0.0,0.0
+idioms_test,adequacy,lora_r4_stage2,-0.04,-0.12,0.0
+idioms_test,adequacy,idiom_only_v1,-0.08,-0.32,0.12
+idioms_test,idiom_correct,idiom_only_v1,0.12,0.0,0.24099999999999452
+idioms_test,idiom_correct,lora_r16_stage2,0.04,0.0,0.12
+idioms_test,idiom_correct,lora_r4_stage2,0.04,0.0,0.12
+idioms_test,idiom_correct,lora_r8_stage2,0.0,0.0,0.0

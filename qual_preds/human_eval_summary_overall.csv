@@ -1,0 +1,6 @@
+model,n_examples,adequacy_mean,fluency_mean,idiom_acc,over_idio_rate
+lora_r8_stage2,50,1.36,1.4,0.36,0.0
+lora_r16_stage2,50,1.32,1.46,0.4,0.0
+baseline,50,1.3,1.48,0.36,0.0
+idiom_only_v1,50,1.28,1.36,0.48,0.0
+lora_r4_stage2,50,1.28,1.44,0.4,0.02

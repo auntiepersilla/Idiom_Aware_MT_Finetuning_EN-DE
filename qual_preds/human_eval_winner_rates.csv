@@ -1,0 +1,11 @@
+group,winner_model,wins,win_rate
+idioms_test,baseline,11,0.44
+idioms_test,idiom_only_v1,7,0.28
+idioms_test,lora_r16_stage2,2,0.08
+idioms_test,lora_r4_stage2,3,0.12
+idioms_test,lora_r8_stage2,2,0.08
+wmt_test,baseline,5,0.2
+wmt_test,idiom_only_v1,6,0.24
+wmt_test,lora_r16_stage2,6,0.24
+wmt_test,lora_r4_stage2,3,0.12
+wmt_test,lora_r8_stage2,5,0.2
