@@ -1,0 +1,176 @@
+src,tgt,prompt,pred,model_name,n_shots
+I'm as fit as a fiddle-with energy to spare.,Ich bin fit wie ein Turnschuh - und habe noch viel Energie.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: I'm as fit as a fiddle-with energy to spare.
+
+German:",<extra_id_0>.,google/mt5-small,0
+Those cheap little metal cars are a dime a dozen.,Diese billigen kleinen Metallautos gibt es wie Sand am Meer.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Those cheap little metal cars are a dime a dozen.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"Despite several bilateral and multilateral meetings, the four have not yet come up with the lowest common denominator likely to get the ball rolling","Trotz mehrerer bilateraler und multilateraler Treffen haben sich die vier noch nicht auf den kleinsten gemeinsamen Nenner geeinigt, der den Stein ins Rollen bringen könnte","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Despite several bilateral and multilateral meetings, the four have not yet come up with the lowest common denominator likely to get the ball rolling
+
+German:",<extra_id_0>.,google/mt5-small,0
+How long does it take for the wheel of fashion to come full circle?,"Wie lange dauert es, bis sich der Kreis in der Modebranche schließt?","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: How long does it take for the wheel of fashion to come full circle?
+
+German:",<extra_id_0>.,google/mt5-small,0
+"For a sustained economic recovery, the US consumer has to start spending again but he is not out of the woods yet.","Für einen nachhaltigen Wirtschaftsaufschwung muss der US-Verbraucher seine Ausgaben wieder erhöhen, aber er ist noch nicht aus dem Schneider.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: For a sustained economic recovery, the US consumer has to start spending again but he is not out of the woods yet.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"He fell apart after his wife died, I told him to pull himself together.","Nach dem Tod seiner Frau brach er zusammen, und ich sagte ihm, er solle sich zusammenreißen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: He fell apart after his wife died, I told him to pull himself together.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"He really shot himself in the foot, telling the interviewer all about the others who were applying for the job he wanted","Er hat sich selbst ins Knie geschossen, als er dem Interviewer alles über die anderen Bewerber für die Stelle, die er haben wollte, erzählte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: He really shot himself in the foot, telling the interviewer all about the others who were applying for the job he wanted
+
+German:",<extra_id_0>.,google/mt5-small,0
+"I don't want to put the cart before the horse, but I think we should start working on it.","Ich möchte das Pferd nicht von hinten aufzäumen, aber ich denke, wir sollten mit der Arbeit daran beginnen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: I don't want to put the cart before the horse, but I think we should start working on it.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"New bank competitors have struggled to get off the ground, not helped by the caution of regulators.","Neue Bankkonkurrenten hatten es schwer, auf die Beine zu kommen, wozu auch die Vorsicht der Regulierungsbehörden beitrug.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: New bank competitors have struggled to get off the ground, not helped by the caution of regulators.
+
+German:",<extra_id_0>.,google/mt5-small,0
+Not a word of all this to anyone!,Kein Wort von all dem zu irgendjemandem!,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Not a word of all this to anyone!
+
+German:",<extra_id_0>.,google/mt5-small,0
+Over-the-knee boots were all the rage last winter.,Overknee-Stiefel waren im letzten Winter der letzte Schrei.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Over-the-knee boots were all the rage last winter.
+
+German:",<extra_id_0>.,google/mt5-small,0
+Counting on the price of IBM to rise sharply was betting on the wrong horse.,"Wer auf einen steilen Anstieg des IBM-Kurses gesetzt hat, hat auf das falsche Pferd gesetzt.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Counting on the price of IBM to rise sharply was betting on the wrong horse.
+
+German:",<extra_id_0>.,google/mt5-small,0
+The union is bringing pressure to bear on management.,Die Gewerkschaft übt Druck auf die Unternehmensleitung aus.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: The union is bringing pressure to bear on management.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"So far, so good, but I'll let you know how we make out when we're finished.","So weit, so gut, aber ich werde Sie wissen lassen, wie wir abschneiden, wenn wir fertig sind.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: So far, so good, but I'll let you know how we make out when we're finished.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"Dad said he'd be here to watch my baseball game, but he let me down again.","Papa hat gesagt, er würde hier sein, um mein Baseballspiel zu sehen, aber er hat mich wieder hängen lassen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Dad said he'd be here to watch my baseball game, but he let me down again.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"I don't mean to rain on your parade, but I have some bad news.","Ich möchte Ihnen nicht in die Suppe spucken, aber ich habe schlechte Nachrichten.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: I don't mean to rain on your parade, but I have some bad news.
+
+German:",<extra_id_0>.,google/mt5-small,0
+I am queering the pitch by asking too many questions.,"Ich mache Ihnen eine Strich durch die Rechnung, weil ich zu viele Fragen stelle.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: I am queering the pitch by asking too many questions.
+
+German:",<extra_id_0>.,google/mt5-small,0
+He sat for a moment chewing the cud before he spoke.,"Er saß einen Moment da und ließ sich das durch den Kopf gehen, bevor er sprach.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: He sat for a moment chewing the cud before he spoke.
+
+German:",<extra_id_0>.,google/mt5-small,0
+Truly there are other fish in the sea and you'll only meet them if you come out with us tonight.,"Andere Mütter haben auch schöne Töchter, und du wirst sie nur kennenlernen, wenn du heute Abend mit uns ausgehst.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Truly there are other fish in the sea and you'll only meet them if you come out with us tonight.
+
+German:",<extra_id_0>.,google/mt5-small,0
+He was dead tired from his night shift.,Er war noch todmüde von seiner Nachtschicht.,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: He was dead tired from his night shift.
+
+German:",<extra_id_0>.,google/mt5-small,0
+He put the cat among the pigeons when he refused to sign the contract.,"Er stiftete Unruhe, als er sich weigerte, den Vertrag zu unterschreiben.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: He put the cat among the pigeons when he refused to sign the contract.
+
+German:",<extra_id_0>.,google/mt5-small,0
+Going back to the drawing board is the best way to improve this product.,"Noch einmal von vorn anfangen ist die beste Art, dieses Produkt zu verbessern.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Going back to the drawing board is the best way to improve this product.
+
+German:",<extra_id_0>.,google/mt5-small,0
+I know my grandfather would have turned over in his grave if he had found out about my DUI.,"Ich weiß, dass mein Großvater sich im Grab umgedreht hätte, wenn er von meiner Trunkenheit am Steuer erfahren hätte.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: I know my grandfather would have turned over in his grave if he had found out about my DUI.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"Dad says I'm not cut out for the military, but I think I can thrive in such a structured environment.","Dad sagt, ich bin nicht fürs Militär gemacht, aber ich denke, ich kann in einer so strukturierten Umgebung aufblühen.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: Dad says I'm not cut out for the military, but I think I can thrive in such a structured environment.
+
+German:",<extra_id_0>.,google/mt5-small,0
+"If he or she is overly tired or under the weather, take a day or two off.","Wenn er oder sie übermäßig müde ist oder nicht ganz auf der Höhe ist, nehmen Sie sich ein oder zwei Tage frei.","You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Translate the English sentence into natural German.
+
+English: If he or she is overly tired or under the weather, take a day or two off.
+
+German:",<extra_id_0>.,google/mt5-small,0
