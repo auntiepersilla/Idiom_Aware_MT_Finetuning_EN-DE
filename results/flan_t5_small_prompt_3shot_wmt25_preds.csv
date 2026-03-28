@@ -1,0 +1,676 @@
+group,src,tgt,source_index,prompt,pred,model_name,n_shots
+wmt_test,"And: ""In our society we have no major crimes, but we do have a detention camp full of would-be criminals"". They read time streams.","Und: ""In unserer Gesellschaft gibt es keine Schwerverbrecher, dafür haben wir ein Straflager voller Pesudoverbrecher"". Sie lesen Zeitströme.",1165,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Samui Beach Resort [7] has bungalows on the beach.
+
+German: Direkt am Strand, Lamai Beachroad, Straße zum Beach schräg gegenüber Bauhaus, da wo immer die Biketaxi-Fahrer rumstehen!Rechte Seite vor der Kurve! Die Küche ist auch in Ordnung, hab aber nur mal ne gute Pizza dort gegessen.
+
+Translate the English sentence into natural German.
+
+English: Eiji “Tarzan” Yamada won that event in the XS Engineering Skyline R32 GT-R with a 2:32 lap.
+
+German: Eiji �Tarzan� Yamada won that event in the XS Engineering Skyline R32 GT-R with a 2:32 lap.
+
+Translate the English sentence into natural German.
+
+English: Applause
+
+German: Beifall
+
+Now translate the next sentence.
+
+English: And: ""In our society we have no major crimes, but we do have a detention camp full of would-be criminals"". They read time streams.
+
+German:","Und: ""In unserem Gesellschaft haben wir keine großen Strafe, aber wir haben eine Detention-Camp voller Strafe"".",google/flan-t5-small,3
+wmt_test,"During Obama's transition to office in 2008, he had an 82% approval rating.","Als damals 2008 Obama ins Amt wechselte, hatte er Zustimmungswerte von 82 %.",2415,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Mr Byrne should have taken the initiative in respect of generous buffer vaccination.
+
+German: Herr Byrne hätte veranlassen müssen, umfassende Ringimpfungen durchzuführen.
+
+Translate the English sentence into natural German.
+
+English: He has been said to eat little and sleep less, surviving on a diet of fish and fruit.
+
+German: Der damalige Premierminister Ariel Scharon lehnte es ab, sich mit Solana zu treffen und sagte, er würde trotz Solanas prominenter Rolle im Nahost-Quartett nicht mit der EU zusammenarbeiten.
+
+Translate the English sentence into natural German.
+
+English: In 1813 , Russia signed the Treaty of Gulistan with Persia, which provided for the cession of Baku and most of the Caucasus from Iran and their annexation by Russia .
+
+German: Es gibt mehrere Theorien über die Herkunft des Namens, die populärste ist die Ableitung von den persischen bad kube und bedeutet Stadt der Winde.
+
+Now translate the next sentence.
+
+English: During Obama's transition to office in 2008, he had an 82% approval rating.
+
+German:",In 2008 hat Obama einen 82% Abstimmungsbewertung angenommen.,google/flan-t5-small,3
+wmt_test,"All three face a maximum penalty of life imprisonment, according to the authorities.","Allen dreien droht als Höchststrafe lebenslanger Freiheitsentzug, wie Beamte sagten.",186,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: DLW Linoleum was awarded the certificate because it stresses the environment as little as possible and guarantees sustainability.
+
+German: DLW Linoleum hat das Zertifikat erhalten, da es die Umwelt so wenig wie möglich belastet und Nachhaltigkeit garantiert.
+
+Translate the English sentence into natural German.
+
+English: Hyperlink: Electronic connections in the Internet which links two files or groups of files together. Typically, text places or graphics, which refer to other web pages, are marked specially on web pages.
+
+German: Japanische Auktion: Eine Auktion mit einem Verkäufer und mehreren Einkäufern, bei der ein Auktionär den Preis (ausgehend von einem niedrigen Startpreis) erhöht und die Einkäufer alle Preisschritte mitmachen müssen, um in der Auktion zu bleiben.
+
+Translate the English sentence into natural German.
+
+English: But first he must overcome his own residual tendency to expect too much from an overburdened state.
+
+German: Zunächst jedoch muss er die Reste seiner eigenen Neigung überwinden, einem bereits überforderten Staat zu viel abzuverlangen.
+
+Now translate the next sentence.
+
+English: All three face a maximum penalty of life imprisonment, according to the authorities.
+
+German:","Alle drei treffen eine maximale Einwanderung von Lebensverabschiedenheiten, gemäß der Behörden.",google/flan-t5-small,3
+wmt_test,Uwe Link has an offer for anyone who wants to set off in a carriage.,"Wer dann mit der Kutsche vorfahren will, für den hat Uwe Link ein Angebot.",1238,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: The Metrons demonstrated the ability to manipulate forms of [[energy]] unknown to Federation science, to perform comprehensive scans at great range, to transport [[matter]] great distances instantly, and perhaps to rapidly [[Terraforming|terraform]] planets to specific requirements.
+
+German: Das Volk betrachtet die Föderation als unterentwickelt und aggressiv; aufgrund der [[Gnade]], die Kirk nach seinem Sieg über den Kommandanten des Gorn-Raumschiffes seinen Gegnern gegenüber zeigt, glauben die Metronen jedoch, die Föderation könne sich innerhalb der nächsten Jahrtausende eventuell zum Besseren entwickeln.
+
+Translate the English sentence into natural German.
+
+English: Situated in the middle of the lively old town of Zurich, the Hotel Alexander offers your elegantly furnished rooms, only a 5-minute walk from the railway station.
+
+German: Inmitten der lebendigen Altstadt von Zürich gelegen, bietet Ihnen das Hotel Alexander elegant eingerichtete Zimmer, nur einen Fußweg von 5 Minuten vom Bahnhof entfernt.
+
+Translate the English sentence into natural German.
+
+English: Situated amidst the serenity of the Euboean gulf, yet just an hour's drive from Athens, this hotel features extensive lush gardens along the beach and some excellent amenities.
+
+German: Das Malaconda Beach ist ein 3000 m² großer grüner Garten entlang des Strandes, mit einer hervorragenden Hotelanlage.
+
+Now translate the next sentence.
+
+English: Uwe Link has an offer for anyone who wants to set off in a carriage.
+
+German:","Uwe Link gibt es eine Angebot für diejenigen, die sich in einer Verkehr zu machen wollen.",google/flan-t5-small,3
+wmt_test,"First of all, US investment bank Goldman Sachs sent large quantities of incorrect purchase orders to the options markets due to technical problems.",Zuerst hatte die US-Investmentbank Goldman Sachs wegen technischer Probleme massenhaft fehlerhafte Kaufaufträge an die Optionsmärkte geschickt.,2304,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Madam President, Commissioner, I firstly want to congratulate both rapporteurs of the Committee on Fisheries for their reports which are before us today.
+
+German: Frau Präsidentin, Frau Kommissarin, meine Damen und Herren! Ich möchte zunächst beiden Berichterstattern des Fischereiausschusses zu ihren Berichten gratulieren, die sie heute vor diesem Plenum vorgetragen haben.
+
+Translate the English sentence into natural German.
+
+English: Several later speakers will go into more detail.
+
+German: Einige andere Redner werden später mehr auf Detailfragen eingehen.
+
+Translate the English sentence into natural German.
+
+English: That is why we are taking on this responsibility here today.
+
+German: Aus diesem Grund übernehmen wir heute hier diese Verantwortung.
+
+Now translate the next sentence.
+
+English: First of all, US investment bank Goldman Sachs sent large quantities of incorrect purchase orders to the options markets due to technical problems.
+
+German:","Erstens hat die US Investment Bank Goldman Sachs eine große Anzahl von falschen Auftragslieferungen auf die Optionen, die technisch Schwierigkeiten sind.",google/flan-t5-small,3
+wmt_test,This became clear upon presentation of the annual accounts for 2012.,Dies wurde bei der Vorstellung der Jahresrechnung für 2012 deutlich.,563,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I have stayed there twice so far and I always got a good room with a superb view.
+
+German: Von da bekommt man ähnlich tolle Perspektiven wie von der Terrasse. Der Preis für ein Doppelzimmer beträgt 70 Euros.
+
+Translate the English sentence into natural German.
+
+English: Settlements / Back-office and precious metals Controlling have also re-located and now occupy offices adjacent to the traders.
+
+German: Seit Mitte letzter Woche waren dann einzelne Gattungen aber immer wieder mal nicht verfügbar, zum Ende der ersten Mai-Woche sind nun erstmals alle Barrentypen kurzfristig ausverkauft. Die Lage wird sich aber bereits am kommenden Montag dank zusätzlicher Lieferungen wieder entspannen, so dass dann sofort auch wieder neue Aufträge entgegengenommen werden.
+
+Translate the English sentence into natural German.
+
+English: When I do something, take pictures and I want to show here on the blog.
+
+German: Wenn ich etwas tun, machen Sie Fotos, und ich will hier zeigen, auf dem Blog.
+
+Now translate the next sentence.
+
+English: This became clear upon presentation of the annual accounts for 2012.
+
+German:",Dies hat deutlich über die Vorlage der jährlichen Rechnungswesen für 2012.,google/flan-t5-small,3
+wmt_test,She was right in the middle of the cliff face - 50ft from the top and bottom.,Sie befand sich in der Mitte der Felswand – 15 Meter von oben und dem Boden entfernt.,1654,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: – %SYSDIR%\lsass.exe on TCP port 1092 in order to provide a remote Shell.
+
+German: – %SYSDIR%\lsass.exe am TCP Port 1092 um eine Shell zur Verfügung zu stellen.
+
+Translate the English sentence into natural German.
+
+English: The Libyan crisis aside, however, we must be mindful of the major strategic developments that mean that we must not give up on the ambition of a common security and defence policy, as enshrined in the Treaty of Lisbon, and which you, Baroness Ashton, must continue to inspire, support and speak up for.
+
+German: Abgesehen von der Libyen-Krise dürfen wir jedoch die wichtigen strategischen Entwicklungen beachten, die bedeuten, dass wir das Ziel einer gemeinsamen Sicherheits- und Verteidigungspolitik, das im Vertrag von Lissabon festgehalten wurde, nicht aufgeben dürfen; Sie, Baroness Ashton, müssen weiterhin für dieses Ziel begeistern, sich dafür einsetzen und sich dafür aussprechen.
+
+Translate the English sentence into natural German.
+
+English: You know, Christa, that there was only one vote in the Committee on Culture and Education against this report, which calls for the application of Article 308.
+
+German: Du weißt, Christa, dass es im Ausschuss für Kultur und Bildung nur eine Stimme gegen diesen Bericht gab, der zur Anwendung von Artikel 308 auffordert.
+
+Now translate the next sentence.
+
+English: She was right in the middle of the cliff face - 50ft from the top and bottom.
+
+German:",Er hat es richtig in der Mitte der Inseln - 50ft von der Top und bottom.,google/flan-t5-small,3
+wmt_test,"Meanwhile, U.S. lawmakers will head to Europe to help address concerns abroad about alleged U.S. spying and convince the Europeans of the need to continue joint anti-terrorism efforts with the U.S., the chairman of a Senate subcommittee on European affairs said on Thursday.","Unterdessen werden US-amerikanische Gesetzgeber nach Europa reisen, um die Bedenken gegen die angebliche amerikanische Spionage zu zerstreuen und die Europäer von der Notwendigkeit zu überzeugen, bei den Anti-Terror-Bemühungen weiterhin mit den USA zusammenzuarbeiten, wie der Vorsitzende des Senatsunterausschusses für europäische Angelegenheiten am Donnerstag erklärte.",2968,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: This is not a criticism, Baroness Ashton, but rather a question of powers.
+
+German: Dies ist nicht als Kritik gedacht, Baroness Ashton, sondern eine Frage der Befugnisse.
+
+Translate the English sentence into natural German.
+
+English: The bathroom was tiny and the shower curtain only just got round me and I am a size 8 !
+
+German: The price was high for the size and quality of room, but this is due to the central location.
+
+Translate the English sentence into natural German.
+
+English: It must try to understand because to refuse to do so will contribute to the likelihood that much worse lies ahead.
+
+German: Sie muss sich um dieses Verstehen der Ursachen bemühen, denn sonst wird sie dazu beitragen, dass wahrscheinlich weitaus Schlimmeres vor uns liegt.
+
+Now translate the next sentence.
+
+English: Meanwhile, U.S. lawmakers will head to Europe to help address concerns abroad about alleged U.S. spying and convince the Europeans of the need to continue joint anti-terrorism efforts with the U.S., the chairman of a Senate subcommittee on European affairs said on Thursday.
+
+German:","Gleichzeitig werden die U.S. Parlamenten in Europa zu helfen, bei den ernsthafte Besorgnissungen im Ausland zu helfen und den europäischen Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen und Bürgerinnen",google/flan-t5-small,3
+wmt_test,The Observatory said there were casualties on both sides Thursday but had no specifics.,"Die Beobachtungsstelle sagte, es habe am Donnerstag Verluste auf beiden Seiten gegeben, nannte aber keine Details.",2002,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: At present we provide services for more than 150 clients.
+
+German: Zum heutigen Zeitpunkt arbeiten wir für über 150 Kunden.
+
+Translate the English sentence into natural German.
+
+English: Discover the Sarrazin restaurant in the centre of the village of Orgnac l'Aven, surrounded by vineyards, ‘garrigues' and evergreen oaks, nestling between the Ardèche Gorge and the Cèze Valley.
+
+German: In einem Natursteingebäude, gelegen zwischen Montélimar und Aubenas, bietet Ihnen Le Mas de Mon Père Qualität und Komfort. Wir empfangen Sie herzlich und laden Sie ein, die Schönheit der südlichen Ardèche zu entdecken.
+
+Translate the English sentence into natural German.
+
+English: Genre is just like your treasure hunt.
+
+German: Genre ist genau wie Ihre Schatzsuche.
+
+Now translate the next sentence.
+
+English: The Observatory said there were casualties on both sides Thursday but had no specifics.
+
+German:","Die Observateur hat gesagt, daß die Opfer auf beiden Seiten ernst, aber es es keine speziellen.",google/flan-t5-small,3
+wmt_test,"Renamo wanted to ""warn the international community that things were not going well in Mozambique,"" Mr Mazanga said.","Renamo wollte „die internationale Gemeinschaft warnen, dass die Dinge in Mosambik nicht gut stehen“, sagte Mazanga.",849,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Winner of the National and European prizes for its floral displays, a 4-flower city, Metz is a town of nature and flowers.
+
+German: Metz ist, als Preisträger des Prix national und des Prix européen de fleurissement eine grüne Blumenstadt.
+
+Translate the English sentence into natural German.
+
+English: Most of the spacious and comfortable rooms come with Jacuzzi shower and others with chrome therapy; the rooms provide views of Via Marghera and Via Varese or either of the cosy hotel garden.
+
+German: Ein Großteil der großzügigen und gemütlichen Zimmer bietet eine Whirlpooldusche oder Farbtherapie. Genießen Sie den Blick auf die Straßen Via Marghera und Via Varese oder in den hübschen Hotelgarten.
+
+Translate the English sentence into natural German.
+
+English: The PolyWorks® software it market leader for the three-dimensional analysis of surfaces in the automotive and supplier industry.
+
+German: Die Software PolyWorks® ist Marktführer für die dreidimensionale Analyse von Oberflächen in der Automobil- und Zulieferindustrie.
+
+Now translate the next sentence.
+
+English: Renamo wanted to ""warn the international community that things were not going well in Mozambique,"" Mr Mazanga said.
+
+German:","Renamo wollten ""warnen die internationale Gemeinschaft, dass die Dinge nicht gut in Mozambique geschehen würden"", sagte Herr Mazanga.",google/flan-t5-small,3
+wmt_test,Howie was also ordered to pay costs of £90 and a victim surcharge of £100.,Howie wurde außerdem zur Zahlung von Kosten in Höhe von 90 £ sowie eines Opferzuschlags von 100 £ verurteilt.,2329,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Additional EU financial support must be provided and it must be conditional on respect for human rights: payment of funds to countries where human rights are not observed must be stopped or suspended.
+
+German: Es müssen zusätzliche und zugleich an die Achtung der Menschenrechte gebundene EU-Finanzhilfen bereitgestellt werden. Die Zahlung von Mitteln an Länder, in denen die Menschenrechte verletzt werden, muss ausgesetzt oder eingestellt werden.
+
+Translate the English sentence into natural German.
+
+English: The following year, Carmel won the regular role of Lawrence Brody in the NBC series ''Fitz and Bones'', on which he co-starred with [[Star Trek: The Next Generation|TNG]] actress (and fellow two-time TOS guest star) [[Diana Muldaur]]. The series only lasted five episodes, but Carmel and Muldaur would reprise their characters in a 1982 ''Fitz and Bones'' TV special entitled ''Terror at Alcatraz''.
+
+German: ==Filmographie (Auszug)== === TV-Serien Gastaufritte === * ''Great Ghost Tales'' (1961, u.a. mit [[John Abbott]]), ''Gnadenlose Stadt'' (1960-1963, 6 Folgen, u.a. mit [[Joseph Bernard]], [[Alfred Ryder]], [[James Greene]] und [[Percy Rodrigues]]), ''East Side/West Side'' (1963, u.a. mit [[Albert Henderson]]), ''Zirkusdirektor Johnny Slate'' (1963, u.a. mit [[Bill Mumy]]), ''The Patty Duke Show'' (1964, u.a. mit [[William Schallert]]), ''Route 66'' (1960/1964, u.a. mit [[Frank Overton]], Alfred Ryder und [[Glenn Corbett]]), ''Alfred Hitchcock zeigt'' (1965, u.a. mit [[Paul Comi]]), ''My Living Doll'' (1964/1965, u.a. mit [[Julie Newmar]]), ''Solo für O.N.K.E.L.
+
+Translate the English sentence into natural German.
+
+English: We have had a lot of discussion in this House of the various measures in favour of maritime security and, Commissioner, you have put forward rational proposals.
+
+German: Wir haben hier ausführlich über die Sicherheit der Schifffahrt diskutiert, und Sie, Frau Kommissarin, haben weitgehende Vorschläge vorgelegt.
+
+Now translate the next sentence.
+
+English: Howie was also ordered to pay costs of £90 and a victim surcharge of £100.
+
+German:","''Great Ghost Tales'' (1961, u.a. mit [[John Abbott]]), ''Gnadenlose Stadt'' (1960-1963, 6 Folgen, u.a. mit [[Joseph Bernard]], [[A",google/flan-t5-small,3
+wmt_test,The Front is now the most popular party in France with 24 per cent of the vote - a timely warning to British Labour that they can't assume a split on the right will automatically favour the left.,"Der Front National ist nun die beliebteste Partei in Frankreich mit 24 Prozent der Wählerstimmen – eine zeitgerechte Warnung für die britische Labour-Partei, dass sie nicht davon ausgehen kann, eine Spaltung im rechten Spektrum würde automatisch Vorteile für die Linke bedeuten.",1712,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Consequently, if we use the argument improperly in this context, we could be sending out the wrong signal.
+
+German: Wenn wir es in diesem Zusammenhang also falsch gebrauchen, können wir ein falsches Signal geben.
+
+Translate the English sentence into natural German.
+
+English: 2) Are the prices stated on the website final or are there any surcharges?
+
+German: 2) Ist der auf Webseiten angeführte Preis endgültig, oder zahlt man noch Zuschläge?
+
+Translate the English sentence into natural German.
+
+English:    .
+
+German:    .
+
+Now translate the next sentence.
+
+English: The Front is now the most popular party in France with 24 per cent of the vote - a timely warning to British Labour that they can't assume a split on the right will automatically favour the left.
+
+German:","Die Front ist jetzt die wichtigsten Partei in Frankreich, mit 24 % der Stimme - eine rechtzeitige Hinweis auf britische Labour, dass sie nicht eine Split auf der recht hat, die es automatisch zu ergreifen.",google/flan-t5-small,3
+wmt_test,"Mr Ditta is accused of abusing his position as a criminal solicitor, having become too involved with specific clients.","Ditta wird des Missbrauchs seiner Position als Strafverteidiger angeklagt, da er sich zu sehr mit bestimmten Mandanten eingelassen hat.",490,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Bye, Bye Koh Phangan Paradise - Thanks for everything & best of luck!
+
+German: Koh Phangan Shooting and the story of a police report - Part One!
+
+Translate the English sentence into natural German.
+
+English: In contrast, non-governmental and non-profit-making organisations in post-communist countries introduced voluntary activities only after the democracies had been installed.
+
+German: Im Gegensatz dazu haben Nichtregierungs- und gemeinnützige Organisationen in einst kommunistischen Ländern die Freiwilligentätigkeit erst nach Errichtung der Demokratie in diesen Ländern eingeführt.
+
+Translate the English sentence into natural German.
+
+English: For these reasons we cannot accept the amendment.
+
+German: Aus diesen Gründen können wir die Änderung nicht annehmen.
+
+Now translate the next sentence.
+
+English: Mr Ditta is accused of abusing his position as a criminal solicitor, having become too involved with specific clients.
+
+German:","Herr Ditta ist es verurteilt, dass seine Position als Straftabschiedet hat, daß es sich mit bestimmten Clienten zu ergreifen.",google/flan-t5-small,3
+wmt_test,"Fifth place went to Artur Brückner, responsible for organising music copies.",Platz fünf belegte Notenwart Artur Brückner.,792,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: I'll therefore make a further attempt at a possible approach to the art of Daniela Span: As soon as an artist decides to no longer view her/his work as strictly distinct from her/his respective actions in different social contexts, attempts to conceptually parcell out the work in not-art and art become untenable.
+
+German: Daher noch ein weiterer Versuch einer möglichen These zur Kunst von Daniela Span: sobald ein/e Künstler/in sich entscheidet, seine/ihre Arbeit nicht mehr strengstens abgekoppelt von seinem/ihrem jeweiligen Agieren in den verschiedensten gesellschaftlichen Kontexten zu sehen, werden Versuche von begrifflichen Parzellungen des Werks in Nicht-Kunst und Kunst hinfällig.
+
+Translate the English sentence into natural German.
+
+English: Free Trade or Freebies for the Powerful?
+
+German: Freihandel oder Freifahrtschein für die Mächtigen?
+
+Translate the English sentence into natural German.
+
+English: Ocean Ville is just 30km from Faro Airport.
+
+German: In der Nähe finden Sie eine Vielzahl an wunderschönen Stränden, Themen- und Wasserparks, Golfplätze und Einkaufsmöglichkeiten.
+
+Now translate the next sentence.
+
+English: Fifth place went to Artur Brückner, responsible for organising music copies.
+
+German:",Zweitens wurde Artur Brückner verantwortlich für die Organisierung von Musik-Dateien.,google/flan-t5-small,3
+wmt_test,"The Administrative Department had Deutsche Bahn's reconstruction plans investigated by the Breinlinger Engineering Office, as they had doubts as to whether the planned connection of the Geroltzhäuser Weg will be straightforward.","Die Verwaltung hatte die Umbaupläne der Bahn vom Ingenieurbüro Breinlinger untersuchen lassen, da sie Zweifel daran hatte, ob der geplante Anschluss des Geroltzhäuser Wegs dann noch ohne weiteres möglich sei.",239,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: As the property in the golden location, it was later sold to an organization owned by the famous entertainers Tom Jones and Engelbert Humperdinck, who then spent a large amount of money extending and developing this fine hotel.
+
+German: Dieser Besitz in einer unvergleichlichen Lage wurde später an eine Organisation verkauft, die den berühmten Sängern Tom Jones und Engelbert Humperdinck gehört.
+
+Translate the English sentence into natural German.
+
+English: In 2005 , Duncan came up big in Game 7 of the finals with 25 points and 11 rebounds to defeat the Detroit Pistons , despite struggling from the free throw line in the fourth quarter. Duncan won his third NBA Finals MVP Award , joining Michael Jordan , Shaquille O'Neal , and Magic Johnson as the only players to win it three times.
+
+German: Sogar bei der Wahl zum MVP bekam er etliche Stimmen und landete am Ende auf Platz 5.
+
+Translate the English sentence into natural German.
+
+English: : Baukunst Galerie, with a text of Florian Steininger, 24 pages with coloured images, Cologne 2001.
+
+German: : Baukunst Galerie, mit einem Text von Florian Steininger, 24 Seiten mit farbigen Abbildungen, Köln 2001.
+
+Now translate the next sentence.
+
+English: The Administrative Department had Deutsche Bahn's reconstruction plans investigated by the Breinlinger Engineering Office, as they had doubts as to whether the planned connection of the Geroltzhäuser Weg will be straightforward.
+
+German:","Die Verwaltungsabteilung hat die Wiederaufbau von Deutsche Bahn durch die Breinlinger-Engineering Office untersucht, daß es es zu entscheiden, daß die geplanten Verbindung der Geroltzhäuser Weg zu einfachen sein wird.",google/flan-t5-small,3
+wmt_test,"And they are also energy-efficient: The older light systems consume around 100 Watts, with the new ones consuming just eight.","Und sparsam ist sie auch: Die älteren Lichtanlagen verbrauchen etwa 100 Watt, die neuen gerade mal acht Watt.",16,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: In any event, these accession negotiations need to be managed carefully and prepared thoroughly in order to facilitate such a process and an outcome that enhances the achievements of fifty years of European integration.
+
+German: Auf jeden Fall müssen diese Beitrittsverhandlungen sorgsam geführt und gründlich vorbereitet werden, um diesen Prozess weiter voranzubringen und ein Ergebnis zu erzielen, mit dem die Errungenschaften der 50 Jahre währenden europäischen Integration fortgesetzt werden.
+
+Translate the English sentence into natural German.
+
+English: With cuts like “Happy,” “Baby” and “Rescue,” which detail the ins and outs of relationships, the precocious Long Island native is sure to make her mark with streetwise sophistication similar to the reigning queen of hip hop soul, who first blended hardcore beats and heartfelt lyrics in the early nineties.
+
+German: Mit ihren Songs, die die Ups und Downs in Beziehungen beschreiben, hat die blutjunge, aus Long Island stammende Künstlerin ohne Zweifel Zeichen gesetzt - in dem Genre, in dem die Straßenbeats verfeinert und adaptiert werden.
+
+Translate the English sentence into natural German.
+
+English: The future will tell whether Laeken has been an historic turning point.
+
+German: Die Zukunft wird zeigen, ob Laeken ein historischer Wendepunkt war.
+
+Now translate the next sentence.
+
+English: And they are also energy-efficient: The older light systems consume around 100 Watts, with the new ones consuming just eight.
+
+German:","Und sie sind auch Energieeffizient: Die älteren Lichtsysteme verbraucht etwa 100 Watts, mit den neuen ones verbraucht nur acht.",google/flan-t5-small,3
+wmt_test,"""Decisions will then be made elsewhere,"" said Maier.","""Dann werden Entscheidungen an anderer Stelle getroffen"", sagte Maier.",2553,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: We will be happy to contact you.
+
+German: Wir würden uns freuen, Ihnen eine Antwort bald zu geben.
+
+Translate the English sentence into natural German.
+
+English: We thought the location for the centre of London was brilliant but the main plus point was the friendliness of all staff which makes all hotel stays.
+
+German: I liked the ambience of the hotel. If people want to experience traditional 'Englishness' in the decor and the restaurant, I recommend the London Elizabeth hotel.
+
+Translate the English sentence into natural German.
+
+English: PTC allows for different types of modern subsystems that expands opportunities and facilitate the design installation.
+
+German: PTC ermöglicht für verschiedene Arten von modernen Teilsysteme erweitert, dass Chancen und erleichtern die Montage.
+
+Now translate the next sentence.
+
+English: ""Decisions will then be made elsewhere,"" said Maier.
+
+German:","""Die Entscheidungen werden dann in anderen Ländern ergreifen,"" sagte Maier.",google/flan-t5-small,3
+wmt_test,Police say they have a video that appears to show Mayor Rob Ford smoking a crack pipe.,"Die Polizei gibt an, sie sei im Besitz eines Videos, auf dem angeblich zu sehen sei, wie Bürgermeister Rob Ford eine Crack-Pfeife rauche.",2139,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: An additional difficulty arose from the ideal that the participants of the Caravan should not be only Viennese or Austrians, but from as many different backgrounds as possible, resulting in a confusing mix of numerous languages.
+
+German: Mit dem Ansatz, die TeilnehmerInnen der Karawane nicht nur auf das Wiener oder österreichische Umfeld zu beschränken, möglichst transnational zu realisieren, kam noch eine zweite Schwierigkeit hinzu: viele Sprachen.
+
+Translate the English sentence into natural German.
+
+English: The planning process for the 2011 budget is the first one since the entry into force of the Treaty of Lisbon and it is taking place against the background of the financial and economic crises.
+
+German: Der Planungsprozess für den Haushaltsplan 2011 ist der erste seit dem Inkrafttreten des Vertrages von Lissabon - und er steht im Zeichen der Finanz- und Wirtschaftskrise.
+
+Translate the English sentence into natural German.
+
+English: All software has met strict criteria to guarantee fairness for our users.
+
+German: Die gesamte Software wird an strengsten Kriterien gemessen, um unseren Benutzern Gerechtigkeit zu gewährleisten.
+
+Now translate the next sentence.
+
+English: Police say they have a video that appears to show Mayor Rob Ford smoking a crack pipe.
+
+German:","Die Polizei say sie haben eine Video, die die Bürgermeister Rob Ford smoked ein Crackpipe zu zeigen.",google/flan-t5-small,3
+wmt_test,Report: Obama campaign considered dumping Biden for Hillary Clinton,"Bericht: Obama-Kampagne überlegte, Biden durch Hillary Clinton zu ersetzen",1471,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: High Summits CIA., your mountain climbing and trekking tour operator, based in Quito Ecuador.
+
+German: ""High Summits"" bietet geführte Bergtouren und Bergreisen mit Bergführern auf höchstem Niveau.
+
+Translate the English sentence into natural German.
+
+English: Check in on my flight, Flight status, My bookings, Flight schedule, Flying Blue ...
+
+German: Vergleichen Sie die Preise im Web vor dem Kauf im Laden ...
+
+Translate the English sentence into natural German.
+
+English: Recently restored, it also offers a swimming-pool, lit bowling alley, restaurant (La Brandade) and several outside terraces.
+
+German: Das vor Kurzem renovierte Hotel wartet mit einem Pool, einer beleuchteten Bowlingbahn, einem Restaurant (La Brandade) sowie verschiedenen Sonnenterrassen auf.
+
+Now translate the next sentence.
+
+English: Report: Obama campaign considered dumping Biden for Hillary Clinton
+
+German:",Report: Obama-Kampagne bewertet Biden für Hillary Clinton,google/flan-t5-small,3
+wmt_test,"He then became the first high-ranking member of the U.S government to admit that US spying had crossed the line, but emphasised that no one's rights had been abused.","Anschließend gestand er als erstes hochrangiges Mitglied der US-amerikanischen Regierung ein, dass die US-Spionage eine Grenze überschritten habe, betonte aber auch, dass keine Rechte missbraucht worden seien.",2959,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: On 19 October last year, I received a response to a question that I had put to the Commission in which it was explicitly confirmed that minimum wages and wages in general are the responsibility of the Member States.
+
+German: Ich habe am 19. Oktober letzten Jahres die Antwort auf eine Anfrage an die Kommission erhalten, in der man mir ausdrücklich bestätigt hat, dass Mindestlöhne und Löhne Sache der Mitgliedstaaten sind.
+
+Translate the English sentence into natural German.
+
+English: Therefore, the reason that intelligence and death are linked might be that people with higher intelligence in childhood make better decisions about health, and have healthier behaviors.
+
+German: Daher könnte der Grund für den Zusammenhang zwischen Intelligenz und Tod darin liegen, dass Menschen, die als Kinder höhere Intelligenzwerte aufwiesen,  bessere Entscheidungen hinsichtlich ihrer Gesundheit und gesünderer Verhaltensweisen treffen.
+
+Translate the English sentence into natural German.
+
+English: In addition, Slovakia has found out what 100% dependence on Russian gas means.
+
+German: Die Slowakei hat darüber hinaus herausgefunden, was es bedeutet, zu 100 % von russischem Gas abhängig zu sein.
+
+Now translate the next sentence.
+
+English: He then became the first high-ranking member of the U.S government to admit that US spying had crossed the line, but emphasised that no one's rights had been abused.
+
+German:","Inzwischen hat er die erste hoch-rankingen Mitglied des U.S.-Georgias zu erkennen, dass die US-Spyware auf dem Weg hat, sondern betonte, dass keine Menschenrechte hat.",google/flan-t5-small,3
+wmt_test,"In the evening, fans of brass band music will be in for a treat of their own.",Abends kommen die Blasmusikfreunde auf ihre Kosten.,707,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: For the European Union it is also an excellent opportunity to develop privileged relations with a country that plays a leading role in Latin American forums such as the Rio Group, in which it holds the presidency until 2010.
+
+German: Außerdem bietet dies der Europäischen Union eine ausgezeichnete Gelegenheit, um privilegierte Beziehungen zu einem Land in Lateinamerika zu entwickeln, das in lateinamerikanischen Foren wie der Rio-Gruppe, deren Vorsitz das Land bis 2010 innehat, eine führende Rolle spielt.
+
+Translate the English sentence into natural German.
+
+English: The air conditioning did not work and it was over 30 degrees in the room.
+
+German: If they try to clean more carefully(which doesn't cost much for them compared to the renovation so on), there is not much to complain except one point:They should consider to have wifi in a room. These day it is essential.
+
+Translate the English sentence into natural German.
+
+English: The comment that television is the number one source of information does not just hold true for viewers during election broadcasts on the eve of elections in the Federal Republic of Germany; access to television, access to this democratic, pluralistic information system is a fundamental democratic right of all European citizens and needs to be anchored in the plurality of democracy.
+
+German: Der Hinweis darauf, dass das Fernsehen die Informationsquelle Nummer 1 ist, ist nicht nur für Zuschauer bei Wahlsendungen an Wahlabenden in der Bundesrepublik Deutschland eine besondere Feststellung, sondern es ist so, dass für alle europäischen Bürgerinnen und Bürger der Zugang zum Fernsehen, der Zugang zum demokratischen, pluralistischen Informationssystem, ein demokratisches, ein in der Pluralität der Demokratie zu sicherndes Grundrecht ist.
+
+Now translate the next sentence.
+
+English: In the evening, fans of brass band music will be in for a treat of their own.
+
+German:",In der Abend wird die Fans von Brass Band Musik für einen besonderen Geschenk.,google/flan-t5-small,3
+wmt_test,"Following a short flight from New York to Boston, the pupils have now arrived with their host families and are experiencing the school day at Weymouth High School.",Nach einem kurzen Flug von New York nach Boston sind die Schüler inzwischen in ihren Gastfamilien angekommen und erleben an der Weymouth High School den Schulalltag.,742,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Gertrude Stein wrote in long hand, typically about half an hour per day. Alice B. Toklas would collect the pages, type them up and deal with the publishing and was generally supportive while Leo Stein publicly criticized his sister's work.
+
+German: Steins Hauptwerk „The Making of Americans“ erschien 1925 .
+
+Translate the English sentence into natural German.
+
+English: Successful application of this agreement by the Member States requires unanimity within the Council.
+
+German: Die erfolgreiche Umsetzung dieses Übereinkommens durch die Mitgliedstaaten erfordert Einstimmigkeit im Rat.
+
+Translate the English sentence into natural German.
+
+English: I suggest that the European Commission, Parliament and the Council all compete against each other to find out which is the most energy-efficient institution.
+
+German: Ich schlage vor, die Europäische Kommission, das Europäische Parlament und der Ministerrat treten gegeneinander an, um zu ermitteln, welche Einrichtung am energieeffizientesten ist.
+
+Now translate the next sentence.
+
+English: Following a short flight from New York to Boston, the pupils have now arrived with their host families and are experiencing the school day at Weymouth High School.
+
+German:",Nach einer kurzen Flüge von New York bis Boston hat die Schüler jetzt mit ihren Hohen Familien und erleben die Schule Day in Weymouth High School.,google/flan-t5-small,3
+wmt_test,"According to accusations, this was part of a turf war and represented a demonstration of power.",Laut Anklage ging es um Revierkämpfe und eine Machtdemonstration.,2897,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: In other words, if something happens all or most of the time, we cannot say that it is by chance.
+
+German: Die Kaisertochter Anna Komnena förderte diese Bestrebungen.
+
+Translate the English sentence into natural German.
+
+English: Verification is a check of validity of the used software license.
+
+German: Hierbei handelt es sich um die Überprüfung der Zulässigkeit der Nutzung der Software.
+
+Translate the English sentence into natural German.
+
+English: Mr President, some may find it unrealistic to speak about the Barcelona Process when the Middle East is in flames - and that view is not entirely unfounded.
+
+German: Herr Präsident, manche mögen es für wirklichkeitsfern halten, über den Barcelona-Prozess sprechen zu wollen, während der Nahe Osten in Flammen steht - und diese Ansicht ist nicht ganz unbegründet.
+
+Now translate the next sentence.
+
+English: According to accusations, this was part of a turf war and represented a demonstration of power.
+
+German:",.,google/flan-t5-small,3
+wmt_test,"However, in an interview, Bloom has said that he and Kerr still love each other.","In einem Interview sagte Bloom jedoch, dass er und Kerr sich noch immer lieben.",2223,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: Last year, I would have said just the same as the honourable Member.
+
+German: Im vergangenen Jahr hätte ich das genauso gesagt wie Sie.
+
+Translate the English sentence into natural German.
+
+English: From this perspective culture jamming represents the folklore, in a sense, of those who find themselves in resistance against the symbol world of the advertising industry or the social world it represents.
+
+German: Culture Jamming stellt aus dieser Perspektive gewissermaßen die Folklore derjenigen dar, die sich im Widerstand gegen die Symbolwelt der Reklameindustrie bzw. der von ihr repräsentierten Sozialwelt befinden.
+
+Translate the English sentence into natural German.
+
+English: Description: Jiankou Great Wall is unrenowned section of the wall,which is famous among hiker group.
+
+German: Beschreibung: Jiankou Great Wall is unrenowned section of the wall,which is famous among hiker group.
+
+Now translate the next sentence.
+
+English: However, in an interview, Bloom has said that he and Kerr still love each other.
+
+German:","In einem Interview, Bloom hat, dass er und Kerr weiterhin glücklich sein.",google/flan-t5-small,3
+wmt_test,"However, if no new orders are announced in the coming months, we suspect that the market will become more skeptical of the program.","Falls allerdings in den kommenden Monaten keine neuen Bestellungen bekannt gegeben werden, dann erwarten wir, dass der Markt dem Programm gegenüber skeptischer wird.",410,"You are translating English idiomatic sentences into fluent, meaning-preserving German. Do not translate idioms word-for-word when a natural German rendering is more appropriate.
+
+Examples:
+
+Translate the English sentence into natural German.
+
+English: At the same time, the state budget is being plundered by the government's political supporters whose chaotic measures are deepening the economic and social crisis and increasing social tension to an alarming extent.
+
+German: Gleichzeitig wird der Staatshaushalt von den politischen Unterstützern der Regierung geplündert, deren politische Maßnahmen die wirtschaftliche und soziale Krise noch vertiefen und die sozialen Spannungen in einem alarmierenden Ausmaß erhöhen.
+
+Translate the English sentence into natural German.
+
+English: Mr President, the Vienna European Council was a huge failure despite the efforts of the Austrian Presidency.
+
+German: Herr Präsident, der Europäische Rat in Wien schloß trotz der Bemühungen der österreichischen Präsidentschaft mit einem beträchtlichen Mißerfolg ab.
+
+Translate the English sentence into natural German.
+
+English: Any attempt to impose on Europe, through the European institutions, a single ideal, a single ideological direction, would mean forgetting that Europe is forged in diversity, in difference, but also, it has to be said, in the search for compromise and consensus.
+
+German: Europa auf der Ebene der europäischen Institutionen ein einheitliches Denken, eine einheitliche ideologische Orientierung aufzwingen zu wollen, würde wirklich bedeuten, dass man vergisst, dass Europa im Pluralismus, in der Verschiedenheit gewachsen ist, aber auch, das muss gesagt werden, in der Suche nach dem Kompromiss und dem Konsens.
+
+Now translate the next sentence.
+
+English: However, if no new orders are announced in the coming months, we suspect that the market will become more skeptical of the program.
+
+German:","Aber wenn keine neue Auftragsstellen in den nächsten Monaten treten, sind wir behaupten, dass die Markt mehr skeptical sein wird.",google/flan-t5-small,3
