@@ -1,402 +1,424 @@
 {
-  "0": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "baseline",
-    "output_F": "flan_t5_small_prompt_0shot"
+  "shuffle_per_example": true,
+  "seed": 42,
+  "models": [
+    "baseline",
+    "idiom_only_v1",
+    "lora_r4_stage2",
+    "lora_r8_stage2",
+    "lora_r16_stage2",
+    "flan_t5_small_prompt_0shot"
+  ],
+  "selection_mode": "all_if_exact_else_top_spread",
+  "target_counts": {
+    "idioms_test": 25,
+    "wmt_test": 25
   },
-  "1": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "baseline",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "idiom_only_v1"
+  "source_files": {
+    "sentence_scores": "/content/drive/MyDrive/ds266_idiom_mt/qual_preds/comet_eval/comet_sentence_scores.csv",
+    "sentence_spread": "/content/drive/MyDrive/ds266_idiom_mt/qual_preds/comet_eval/comet_sentence_spread.csv",
+    "automatic_plus_comet": "/content/drive/MyDrive/ds266_idiom_mt/results/automatic_plus_comet.csv"
   },
-  "2": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r4_stage2",
-    "output_D": "baseline",
-    "output_E": "lora_r16_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "3": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r8_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "baseline"
-  },
-  "4": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r8_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "baseline",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "lora_r16_stage2"
-  },
-  "5": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "baseline",
-    "output_D": "lora_r8_stage2",
-    "output_E": "lora_r16_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "6": {
-    "output_A": "flan_t5_small_prompt_0shot",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r8_stage2",
-    "output_D": "baseline",
-    "output_E": "lora_r4_stage2",
-    "output_F": "lora_r16_stage2"
-  },
-  "7": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "baseline",
-    "output_D": "idiom_only_v1",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "lora_r4_stage2"
-  },
-  "8": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r16_stage2",
-    "output_D": "lora_r8_stage2",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "baseline"
-  },
-  "9": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "baseline",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r16_stage2",
-    "output_F": "lora_r4_stage2"
-  },
-  "10": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r8_stage2",
-    "output_E": "baseline",
-    "output_F": "lora_r16_stage2"
-  },
-  "11": {
-    "output_A": "idiom_only_v1",
-    "output_B": "baseline",
-    "output_C": "lora_r8_stage2",
-    "output_D": "lora_r4_stage2",
-    "output_E": "lora_r16_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "12": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r8_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "baseline",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "13": {
-    "output_A": "flan_t5_small_prompt_0shot",
-    "output_B": "lora_r8_stage2",
-    "output_C": "lora_r16_stage2",
-    "output_D": "idiom_only_v1",
-    "output_E": "baseline",
-    "output_F": "lora_r4_stage2"
-  },
-  "14": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "baseline",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r8_stage2",
-    "output_F": "lora_r4_stage2"
-  },
-  "15": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "baseline",
-    "output_C": "lora_r8_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "idiom_only_v1",
-    "output_F": "lora_r4_stage2"
-  },
-  "16": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "baseline",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "idiom_only_v1",
-    "output_F": "lora_r16_stage2"
-  },
-  "17": {
-    "output_A": "baseline",
-    "output_B": "flan_t5_small_prompt_0shot",
-    "output_C": "lora_r16_stage2",
-    "output_D": "idiom_only_v1",
-    "output_E": "lora_r4_stage2",
-    "output_F": "lora_r8_stage2"
-  },
-  "18": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r16_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "idiom_only_v1",
-    "output_F": "baseline"
-  },
-  "19": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "idiom_only_v1",
-    "output_E": "baseline",
-    "output_F": "lora_r4_stage2"
-  },
-  "20": {
-    "output_A": "baseline",
-    "output_B": "flan_t5_small_prompt_0shot",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "lora_r8_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "21": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "baseline",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r4_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "22": {
-    "output_A": "baseline",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r8_stage2",
-    "output_E": "lora_r16_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "23": {
-    "output_A": "baseline",
-    "output_B": "lora_r8_stage2",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r16_stage2",
-    "output_E": "idiom_only_v1",
-    "output_F": "lora_r4_stage2"
-  },
-  "24": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r8_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "baseline"
-  },
-  "25": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "lora_r4_stage2",
-    "output_C": "idiom_only_v1",
-    "output_D": "baseline",
-    "output_E": "lora_r8_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "26": {
-    "output_A": "idiom_only_v1",
-    "output_B": "baseline",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r4_stage2",
-    "output_E": "lora_r8_stage2",
-    "output_F": "lora_r16_stage2"
-  },
-  "27": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r8_stage2",
-    "output_D": "lora_r4_stage2",
-    "output_E": "baseline",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "28": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r8_stage2",
-    "output_E": "lora_r4_stage2",
-    "output_F": "baseline"
-  },
-  "29": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "flan_t5_small_prompt_0shot",
-    "output_C": "lora_r16_stage2",
-    "output_D": "idiom_only_v1",
-    "output_E": "lora_r4_stage2",
-    "output_F": "baseline"
-  },
-  "30": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "baseline",
-    "output_D": "idiom_only_v1",
-    "output_E": "lora_r4_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "31": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "flan_t5_small_prompt_0shot",
-    "output_C": "lora_r4_stage2",
-    "output_D": "baseline",
-    "output_E": "lora_r16_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "32": {
-    "output_A": "flan_t5_small_prompt_0shot",
-    "output_B": "lora_r4_stage2",
-    "output_C": "idiom_only_v1",
-    "output_D": "lora_r16_stage2",
-    "output_E": "baseline",
-    "output_F": "lora_r8_stage2"
-  },
-  "33": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "lora_r16_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "baseline",
-    "output_F": "idiom_only_v1"
-  },
-  "34": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r16_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r8_stage2",
-    "output_F": "baseline"
-  },
-  "35": {
-    "output_A": "baseline",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r16_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r8_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "36": {
-    "output_A": "baseline",
-    "output_B": "lora_r8_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r16_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "37": {
-    "output_A": "baseline",
-    "output_B": "idiom_only_v1",
-    "output_C": "lora_r16_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r4_stage2",
-    "output_F": "lora_r8_stage2"
-  },
-  "38": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r16_stage2",
-    "output_E": "idiom_only_v1",
-    "output_F": "baseline"
-  },
-  "39": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "flan_t5_small_prompt_0shot",
-    "output_C": "lora_r4_stage2",
-    "output_D": "idiom_only_v1",
-    "output_E": "lora_r16_stage2",
-    "output_F": "baseline"
-  },
-  "40": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r8_stage2",
-    "output_D": "lora_r16_stage2",
-    "output_E": "flan_t5_small_prompt_0shot",
-    "output_F": "baseline"
-  },
-  "41": {
-    "output_A": "idiom_only_v1",
-    "output_B": "lora_r8_stage2",
-    "output_C": "lora_r16_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r4_stage2",
-    "output_F": "baseline"
-  },
-  "42": {
-    "output_A": "lora_r16_stage2",
-    "output_B": "baseline",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "idiom_only_v1",
-    "output_E": "lora_r8_stage2",
-    "output_F": "lora_r4_stage2"
-  },
-  "43": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "idiom_only_v1",
-    "output_C": "baseline",
-    "output_D": "lora_r8_stage2",
-    "output_E": "lora_r16_stage2",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "44": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "lora_r16_stage2",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "baseline",
-    "output_E": "idiom_only_v1",
-    "output_F": "lora_r8_stage2"
-  },
-  "45": {
-    "output_A": "flan_t5_small_prompt_0shot",
-    "output_B": "baseline",
-    "output_C": "idiom_only_v1",
-    "output_D": "lora_r16_stage2",
-    "output_E": "lora_r8_stage2",
-    "output_F": "lora_r4_stage2"
-  },
-  "46": {
-    "output_A": "lora_r8_stage2",
-    "output_B": "lora_r4_stage2",
-    "output_C": "idiom_only_v1",
-    "output_D": "lora_r16_stage2",
-    "output_E": "baseline",
-    "output_F": "flan_t5_small_prompt_0shot"
-  },
-  "47": {
-    "output_A": "lora_r4_stage2",
-    "output_B": "lora_r8_stage2",
-    "output_C": "flan_t5_small_prompt_0shot",
-    "output_D": "lora_r16_stage2",
-    "output_E": "idiom_only_v1",
-    "output_F": "baseline"
-  },
-  "48": {
-    "output_A": "baseline",
-    "output_B": "lora_r4_stage2",
-    "output_C": "lora_r16_stage2",
-    "output_D": "flan_t5_small_prompt_0shot",
-    "output_E": "lora_r8_stage2",
-    "output_F": "idiom_only_v1"
-  },
-  "49": {
-    "output_A": "flan_t5_small_prompt_0shot",
-    "output_B": "lora_r16_stage2",
-    "output_C": "lora_r4_stage2",
-    "output_D": "lora_r8_stage2",
-    "output_E": "baseline",
-    "output_F": "idiom_only_v1"
+  "mapping_by_example_id": {
+    "0": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "baseline",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "1": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "baseline",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "idiom_only_v1"
+    },
+    "2": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r4_stage2",
+      "output_D": "baseline",
+      "output_E": "lora_r16_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "3": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r8_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "baseline"
+    },
+    "4": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r8_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "baseline",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "lora_r16_stage2"
+    },
+    "5": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "baseline",
+      "output_D": "lora_r8_stage2",
+      "output_E": "lora_r16_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "6": {
+      "output_A": "flan_t5_small_prompt_0shot",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r8_stage2",
+      "output_D": "baseline",
+      "output_E": "lora_r4_stage2",
+      "output_F": "lora_r16_stage2"
+    },
+    "7": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "baseline",
+      "output_D": "idiom_only_v1",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "lora_r4_stage2"
+    },
+    "8": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r16_stage2",
+      "output_D": "lora_r8_stage2",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "baseline"
+    },
+    "9": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "baseline",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r16_stage2",
+      "output_F": "lora_r4_stage2"
+    },
+    "10": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r8_stage2",
+      "output_E": "baseline",
+      "output_F": "lora_r16_stage2"
+    },
+    "11": {
+      "output_A": "idiom_only_v1",
+      "output_B": "baseline",
+      "output_C": "lora_r8_stage2",
+      "output_D": "lora_r4_stage2",
+      "output_E": "lora_r16_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "12": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r8_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "baseline",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "13": {
+      "output_A": "flan_t5_small_prompt_0shot",
+      "output_B": "lora_r8_stage2",
+      "output_C": "lora_r16_stage2",
+      "output_D": "idiom_only_v1",
+      "output_E": "baseline",
+      "output_F": "lora_r4_stage2"
+    },
+    "14": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "baseline",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r8_stage2",
+      "output_F": "lora_r4_stage2"
+    },
+    "15": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "baseline",
+      "output_C": "lora_r8_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "idiom_only_v1",
+      "output_F": "lora_r4_stage2"
+    },
+    "16": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "baseline",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "idiom_only_v1",
+      "output_F": "lora_r16_stage2"
+    },
+    "17": {
+      "output_A": "baseline",
+      "output_B": "flan_t5_small_prompt_0shot",
+      "output_C": "lora_r16_stage2",
+      "output_D": "idiom_only_v1",
+      "output_E": "lora_r4_stage2",
+      "output_F": "lora_r8_stage2"
+    },
+    "18": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r16_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "idiom_only_v1",
+      "output_F": "baseline"
+    },
+    "19": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "idiom_only_v1",
+      "output_E": "baseline",
+      "output_F": "lora_r4_stage2"
+    },
+    "20": {
+      "output_A": "baseline",
+      "output_B": "flan_t5_small_prompt_0shot",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "lora_r8_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "21": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "baseline",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r4_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "22": {
+      "output_A": "baseline",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r8_stage2",
+      "output_E": "lora_r16_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "23": {
+      "output_A": "baseline",
+      "output_B": "lora_r8_stage2",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r16_stage2",
+      "output_E": "idiom_only_v1",
+      "output_F": "lora_r4_stage2"
+    },
+    "24": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r8_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "baseline"
+    },
+    "25": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "lora_r4_stage2",
+      "output_C": "idiom_only_v1",
+      "output_D": "baseline",
+      "output_E": "lora_r8_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "26": {
+      "output_A": "idiom_only_v1",
+      "output_B": "baseline",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r4_stage2",
+      "output_E": "lora_r8_stage2",
+      "output_F": "lora_r16_stage2"
+    },
+    "27": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r8_stage2",
+      "output_D": "lora_r4_stage2",
+      "output_E": "baseline",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "28": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r8_stage2",
+      "output_E": "lora_r4_stage2",
+      "output_F": "baseline"
+    },
+    "29": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "flan_t5_small_prompt_0shot",
+      "output_C": "lora_r16_stage2",
+      "output_D": "idiom_only_v1",
+      "output_E": "lora_r4_stage2",
+      "output_F": "baseline"
+    },
+    "30": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "baseline",
+      "output_D": "idiom_only_v1",
+      "output_E": "lora_r4_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "31": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "flan_t5_small_prompt_0shot",
+      "output_C": "lora_r4_stage2",
+      "output_D": "baseline",
+      "output_E": "lora_r16_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "32": {
+      "output_A": "flan_t5_small_prompt_0shot",
+      "output_B": "lora_r4_stage2",
+      "output_C": "idiom_only_v1",
+      "output_D": "lora_r16_stage2",
+      "output_E": "baseline",
+      "output_F": "lora_r8_stage2"
+    },
+    "33": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "lora_r16_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "baseline",
+      "output_F": "idiom_only_v1"
+    },
+    "34": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r16_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r8_stage2",
+      "output_F": "baseline"
+    },
+    "35": {
+      "output_A": "baseline",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r16_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r8_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "36": {
+      "output_A": "baseline",
+      "output_B": "lora_r8_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r16_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "37": {
+      "output_A": "baseline",
+      "output_B": "idiom_only_v1",
+      "output_C": "lora_r16_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r4_stage2",
+      "output_F": "lora_r8_stage2"
+    },
+    "38": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r16_stage2",
+      "output_E": "idiom_only_v1",
+      "output_F": "baseline"
+    },
+    "39": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "flan_t5_small_prompt_0shot",
+      "output_C": "lora_r4_stage2",
+      "output_D": "idiom_only_v1",
+      "output_E": "lora_r16_stage2",
+      "output_F": "baseline"
+    },
+    "40": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r8_stage2",
+      "output_D": "lora_r16_stage2",
+      "output_E": "flan_t5_small_prompt_0shot",
+      "output_F": "baseline"
+    },
+    "41": {
+      "output_A": "idiom_only_v1",
+      "output_B": "lora_r8_stage2",
+      "output_C": "lora_r16_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r4_stage2",
+      "output_F": "baseline"
+    },
+    "42": {
+      "output_A": "lora_r16_stage2",
+      "output_B": "baseline",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "idiom_only_v1",
+      "output_E": "lora_r8_stage2",
+      "output_F": "lora_r4_stage2"
+    },
+    "43": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "idiom_only_v1",
+      "output_C": "baseline",
+      "output_D": "lora_r8_stage2",
+      "output_E": "lora_r16_stage2",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "44": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "lora_r16_stage2",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "baseline",
+      "output_E": "idiom_only_v1",
+      "output_F": "lora_r8_stage2"
+    },
+    "45": {
+      "output_A": "flan_t5_small_prompt_0shot",
+      "output_B": "baseline",
+      "output_C": "idiom_only_v1",
+      "output_D": "lora_r16_stage2",
+      "output_E": "lora_r8_stage2",
+      "output_F": "lora_r4_stage2"
+    },
+    "46": {
+      "output_A": "lora_r8_stage2",
+      "output_B": "lora_r4_stage2",
+      "output_C": "idiom_only_v1",
+      "output_D": "lora_r16_stage2",
+      "output_E": "baseline",
+      "output_F": "flan_t5_small_prompt_0shot"
+    },
+    "47": {
+      "output_A": "lora_r4_stage2",
+      "output_B": "lora_r8_stage2",
+      "output_C": "flan_t5_small_prompt_0shot",
+      "output_D": "lora_r16_stage2",
+      "output_E": "idiom_only_v1",
+      "output_F": "baseline"
+    },
+    "48": {
+      "output_A": "baseline",
+      "output_B": "lora_r4_stage2",
+      "output_C": "lora_r16_stage2",
+      "output_D": "flan_t5_small_prompt_0shot",
+      "output_E": "lora_r8_stage2",
+      "output_F": "idiom_only_v1"
+    },
+    "49": {
+      "output_A": "flan_t5_small_prompt_0shot",
+      "output_B": "lora_r16_stage2",
+      "output_C": "lora_r4_stage2",
+      "output_D": "lora_r8_stage2",
+      "output_E": "baseline",
+      "output_F": "idiom_only_v1"
+    }
   }
 }
