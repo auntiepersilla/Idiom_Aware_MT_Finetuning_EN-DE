@@ -1,0 +1,16 @@
+group,metric,model_a,model_b,observed_diff_a_minus_b,ci_low,ci_high,n_examples
+idioms_test,idiom_correct,baseline,flan_t5_small_prompt_0shot,0.28,0.12,0.48,25
+idioms_test,idiom_correct,baseline,idiom_only_v1,0.0,-0.16,0.16,25
+idioms_test,idiom_correct,baseline,lora_r16_stage2,0.040000000000000036,0.0,0.12000000000000002,25
+idioms_test,idiom_correct,baseline,lora_r4_stage2,0.0,0.0,0.0,25
+idioms_test,idiom_correct,baseline,lora_r8_stage2,0.040000000000000036,0.0,0.12000000000000002,25
+idioms_test,idiom_correct,flan_t5_small_prompt_0shot,idiom_only_v1,-0.28,-0.48,-0.12,25
+idioms_test,idiom_correct,flan_t5_small_prompt_0shot,lora_r16_stage2,-0.24,-0.4,-0.08,25
+idioms_test,idiom_correct,flan_t5_small_prompt_0shot,lora_r4_stage2,-0.28,-0.48,-0.12,25
+idioms_test,idiom_correct,flan_t5_small_prompt_0shot,lora_r8_stage2,-0.24,-0.44,-0.08,25
+idioms_test,idiom_correct,idiom_only_v1,lora_r16_stage2,0.040000000000000036,-0.12000000000000002,0.2,25
+idioms_test,idiom_correct,idiom_only_v1,lora_r4_stage2,0.0,-0.16,0.16,25
+idioms_test,idiom_correct,idiom_only_v1,lora_r8_stage2,0.040000000000000036,-0.12000000000000002,0.2,25
+idioms_test,idiom_correct,lora_r16_stage2,lora_r4_stage2,-0.040000000000000036,-0.12000000000000002,0.0,25
+idioms_test,idiom_correct,lora_r16_stage2,lora_r8_stage2,0.0,0.0,0.0,25
+idioms_test,idiom_correct,lora_r4_stage2,lora_r8_stage2,0.040000000000000036,0.0,0.12000000000000002,25

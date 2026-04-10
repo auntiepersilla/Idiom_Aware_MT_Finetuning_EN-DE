@@ -1,0 +1,13 @@
+group,model_label,comet_mean,human_rank,comet_rank,unique_best_count,unique_best_rate,selected_as_best_count,selected_as_best_rate,split,model
+idioms_test,baseline,0.7325509977340698,1,3,0.0,0.0,19.0,0.76,Idioms,Baseline
+idioms_test,idiom_only_v1,0.7627165985107421,1,1,6.0,0.24,20.0,0.8,Idioms,Idiom-only FT
+idioms_test,lora_r4_stage2,0.7285794162750244,1,5,0.0,0.0,19.0,0.76,Idioms,LoRA r=4
+idioms_test,lora_r8_stage2,0.7320339667797089,3,4,0.0,0.0,18.0,0.72,Idioms,LoRA r=8
+idioms_test,lora_r16_stage2,0.7326505565643311,2,2,0.0,0.0,19.0,0.76,Idioms,LoRA r=16
+idioms_test,flan_t5_small_prompt_0shot,0.3810179555416107,4,6,0.0,0.0,1.0,0.04,Idioms,FLAN 0-shot
+wmt_test,baseline,0.8331669282913208,5,5,0.0,0.0,17.0,0.68,WMT,Baseline
+wmt_test,idiom_only_v1,0.8630717396736145,4,1,4.0,0.16,19.0,0.76,WMT,Idiom-only FT
+wmt_test,lora_r4_stage2,0.8332906699180603,3,4,2.0,0.08,21.0,0.84,WMT,LoRA r=4
+wmt_test,lora_r8_stage2,0.8422953557968139,1,3,0.0,0.0,23.0,0.92,WMT,LoRA r=8
+wmt_test,lora_r16_stage2,0.8468754220008851,2,2,0.0,0.0,22.0,0.88,WMT,LoRA r=16
+wmt_test,flan_t5_small_prompt_0shot,0.4735755670070648,6,6,0.0,0.0,0.0,0.0,WMT,FLAN 0-shot

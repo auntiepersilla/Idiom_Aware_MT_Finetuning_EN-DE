@@ -1,0 +1,13 @@
+split,group,model,model_label,adequacy_mean,fluency_mean,mean_quality,idiom_correct_rate,idiom_correct_display,best_output_rate
+Idioms,idioms_test,Baseline,baseline,1.52,1.76,1.64,0.28,0.28,0.6
+Idioms,idioms_test,Idiom-only FT,idiom_only_v1,1.48,1.8,1.64,0.28,0.28,0.72
+Idioms,idioms_test,LoRA r=4,lora_r4_stage2,1.48,1.8,1.64,0.28,0.28,0.6
+Idioms,idioms_test,LoRA r=8,lora_r8_stage2,1.48,1.72,1.6,0.24,0.24,0.6
+Idioms,idioms_test,LoRA r=16,lora_r16_stage2,1.48,1.76,1.62,0.24,0.24,0.56
+Idioms,idioms_test,FLAN 0-shot,flan_t5_small_prompt_0shot,0.28,0.52,0.4,0.0,0.0,0.04
+WMT,wmt_test,Baseline,baseline,1.52,1.8,1.66,,N/A,0.28
+WMT,wmt_test,Idiom-only FT,idiom_only_v1,1.6,1.84,1.72,,N/A,0.36
+WMT,wmt_test,LoRA r=4,lora_r4_stage2,1.6,1.88,1.74,,N/A,0.52
+WMT,wmt_test,LoRA r=8,lora_r8_stage2,1.68,1.88,1.78,,N/A,0.56
+WMT,wmt_test,LoRA r=16,lora_r16_stage2,1.68,1.84,1.76,,N/A,0.52
+WMT,wmt_test,FLAN 0-shot,flan_t5_small_prompt_0shot,0.6,0.84,0.72,,N/A,0.0

@@ -1,0 +1,13 @@
+group,model_label,n_examples,best_output_count,best_output_rate
+idioms_test,idiom_only_v1,25,18,0.72
+idioms_test,baseline,25,15,0.6
+idioms_test,lora_r4_stage2,25,15,0.6
+idioms_test,lora_r8_stage2,25,15,0.6
+idioms_test,lora_r16_stage2,25,14,0.56
+idioms_test,flan_t5_small_prompt_0shot,25,1,0.04
+wmt_test,lora_r8_stage2,25,14,0.56
+wmt_test,lora_r16_stage2,25,13,0.52
+wmt_test,lora_r4_stage2,25,13,0.52
+wmt_test,idiom_only_v1,25,9,0.36
+wmt_test,baseline,25,7,0.28
+wmt_test,flan_t5_small_prompt_0shot,25,0,0.0

@@ -1,0 +1,13 @@
+group,n_best_selected,n_examples
+idioms_test,0,2
+idioms_test,1,6
+idioms_test,2,1
+idioms_test,3,2
+idioms_test,4,6
+idioms_test,5,8
+wmt_test,0,5
+wmt_test,1,6
+wmt_test,2,3
+wmt_test,3,3
+wmt_test,4,5
+wmt_test,5,3

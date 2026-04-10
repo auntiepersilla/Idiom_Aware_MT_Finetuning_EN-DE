@@ -1,0 +1,51 @@
+example_id,group,n_best_selected,unique_human_winner,comet_top_models,human_unique_matches_comet_top
+0,idioms_test,3,,idiom_only_v1,
+1,idioms_test,0,,"baseline, lora_r4_stage2",
+2,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+3,idioms_test,5,,baseline,
+4,idioms_test,4,,lora_r4_stage2,
+5,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+6,idioms_test,5,,idiom_only_v1,
+7,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+8,idioms_test,4,,"baseline, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+9,idioms_test,5,,lora_r8_stage2,
+10,idioms_test,2,,idiom_only_v1,
+11,idioms_test,5,,"baseline, idiom_only_v1, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+12,idioms_test,3,,lora_r16_stage2,
+13,idioms_test,4,,baseline,
+14,idioms_test,0,,"baseline, lora_r4_stage2",
+15,idioms_test,4,,"baseline, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+16,idioms_test,4,,idiom_only_v1,
+17,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+18,idioms_test,5,,"baseline, idiom_only_v1, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+19,idioms_test,4,,idiom_only_v1,
+20,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+21,idioms_test,5,,idiom_only_v1,
+22,idioms_test,5,,"lora_r16_stage2, lora_r8_stage2",
+23,idioms_test,5,,"idiom_only_v1, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+24,idioms_test,1,idiom_only_v1,idiom_only_v1,True
+25,wmt_test,5,,lora_r16_stage2,
+26,wmt_test,0,,"baseline, idiom_only_v1, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+27,wmt_test,3,,"lora_r16_stage2, lora_r8_stage2",
+28,wmt_test,5,,"baseline, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+29,wmt_test,5,,"baseline, lora_r4_stage2",
+30,wmt_test,4,,"lora_r4_stage2, lora_r8_stage2",
+31,wmt_test,1,idiom_only_v1,idiom_only_v1,True
+32,wmt_test,4,,lora_r16_stage2,
+33,wmt_test,0,,"baseline, idiom_only_v1, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+34,wmt_test,1,idiom_only_v1,idiom_only_v1,True
+35,wmt_test,0,,idiom_only_v1,
+36,wmt_test,1,idiom_only_v1,"baseline, lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",False
+37,wmt_test,3,,"lora_r16_stage2, lora_r8_stage2",
+38,wmt_test,2,,lora_r16_stage2,
+39,wmt_test,1,lora_r4_stage2,baseline,False
+40,wmt_test,4,,"lora_r16_stage2, lora_r4_stage2, lora_r8_stage2",
+41,wmt_test,0,,idiom_only_v1,
+42,wmt_test,4,,"baseline, lora_r4_stage2",
+43,wmt_test,1,idiom_only_v1,idiom_only_v1,True
+44,wmt_test,3,,idiom_only_v1,
+45,wmt_test,1,lora_r4_stage2,"baseline, lora_r4_stage2",True
+46,wmt_test,2,,baseline,
+47,wmt_test,2,,idiom_only_v1,
+48,wmt_test,4,,idiom_only_v1,
+49,wmt_test,0,,lora_r8_stage2,

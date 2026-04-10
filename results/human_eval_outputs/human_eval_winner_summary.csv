@@ -1,0 +1,12 @@
+group,model_label,winner_count,n_examples,total_examples,winner_rate
+idioms_test,baseline,19,19,25,0.76
+idioms_test,flan_t5_small_prompt_0shot,1,1,25,0.04
+idioms_test,idiom_only_v1,20,20,25,0.8
+idioms_test,lora_r16_stage2,19,19,25,0.76
+idioms_test,lora_r4_stage2,19,19,25,0.76
+idioms_test,lora_r8_stage2,18,18,25,0.72
+wmt_test,baseline,17,17,25,0.68
+wmt_test,idiom_only_v1,19,19,25,0.76
+wmt_test,lora_r16_stage2,22,22,25,0.88
+wmt_test,lora_r4_stage2,21,21,25,0.84
+wmt_test,lora_r8_stage2,23,23,25,0.92

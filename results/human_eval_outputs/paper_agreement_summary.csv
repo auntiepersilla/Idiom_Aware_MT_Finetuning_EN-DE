@@ -1,0 +1,4 @@
+group,unique_human_cases,matches_comet_top,agreement_rate,split
+idioms_test,6,6,1.0,Idioms
+wmt_test,6,4,0.6666666666666666,WMT
+overall,12,10,0.8333333333333334,Overall

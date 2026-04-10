@@ -1,0 +1,7 @@
+model_label,idioms_test,wmt_test
+baseline,1.76,1.8
+flan_t5_small_prompt_0shot,0.52,0.84
+idiom_only_v1,1.8,1.84
+lora_r16_stage2,1.76,1.84
+lora_r4_stage2,1.8,1.88
+lora_r8_stage2,1.72,1.88

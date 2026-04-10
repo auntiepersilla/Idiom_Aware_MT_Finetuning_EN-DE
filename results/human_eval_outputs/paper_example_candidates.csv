@@ -1,0 +1,7 @@
+example_id,group,n_best_selected,unique_human_winner,comet_top_models,human_unique_matches_comet_top,source,reference,notes,comet_range,group_label
+2,idioms_test,1,idiom_only_v1,idiom_only_v1,True,"Bend the knee, peasant! Admit that I am your rightful king!","Beuge das Knie, Bauer! Gib zu, dass ich dein rechtmäßiger König bin!",All but B forgot the idiom. F is a desaster.,0.6351076364517212,Idioms
+5,idioms_test,1,idiom_only_v1,idiom_only_v1,True,,,,,Idioms
+7,idioms_test,1,idiom_only_v1,idiom_only_v1,True,,,,,Idioms
+17,idioms_test,1,idiom_only_v1,idiom_only_v1,True,I need to finish my MBA to find a better job. It's like a millstone around my neck.,"Ich muss meinen MBA abschließen, um einen besseren Job zu finden. Das ist wie ein Mühlstein um meinen Hals.",D is the only one that didn’t forget to translate the idiom,0.294772744178772,Idioms
+20,idioms_test,1,idiom_only_v1,idiom_only_v1,True,,,,,Idioms
+24,idioms_test,1,idiom_only_v1,idiom_only_v1,True,,,,,Idioms

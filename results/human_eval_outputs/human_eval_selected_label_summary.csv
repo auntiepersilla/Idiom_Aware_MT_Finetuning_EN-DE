@@ -1,0 +1,12 @@
+group,model_label,selected_label_count,selected_label_share
+idioms_test,baseline,15,0.19230769230769232
+idioms_test,flan_t5_small_prompt_0shot,1,0.01282051282051282
+idioms_test,idiom_only_v1,18,0.23076923076923078
+idioms_test,lora_r16_stage2,14,0.1794871794871795
+idioms_test,lora_r4_stage2,15,0.19230769230769232
+idioms_test,lora_r8_stage2,15,0.19230769230769232
+wmt_test,baseline,7,0.125
+wmt_test,idiom_only_v1,9,0.16071428571428573
+wmt_test,lora_r16_stage2,13,0.23214285714285715
+wmt_test,lora_r4_stage2,13,0.23214285714285715
+wmt_test,lora_r8_stage2,14,0.25

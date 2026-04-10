@@ -1,0 +1,4 @@
+group,model_label,unique_best_count,unique_best_rate
+idioms_test,idiom_only_v1,6,0.24
+wmt_test,idiom_only_v1,4,0.16
+wmt_test,lora_r4_stage2,2,0.08
