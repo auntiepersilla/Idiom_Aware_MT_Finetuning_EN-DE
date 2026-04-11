@@ -51,8 +51,9 @@ Variants explored:
 > Catastrophic forgetting is not absolute — it depends on how you measure it.
 
 ---
+We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human annotation to capture both lexical and semantic quality.
 
-## 🔍 Key Findings
+## 🔍 Key Findings: Automatic Metrics Evaluation (BLEU, chrF, COMET)
 
 - Idiom-only fine-tuning improves semantic quality (COMET) but reduces lexical overlap (BLEU), highlighting metric-dependent conclusions.
 - Two-stage fine-tuning achieves the best **trade-off**
@@ -70,6 +71,24 @@ Variants explored:
 |--------------|--------------|--------------|----------------|------------|------------|-------------|
 | Prompt (0-shot) | 8.12     | 33.14        | 0.381          | 7.62       | 35.54      | 0.474       |
 
+## 🔍 Key Findings: Human Evaluation (25 Idioms + 25 WMT)
+
+- **Two-stage fine-tuning performs best overall**
+  - Highest adequacy and idiom correctness
+- **Human evaluation aligns with COMET (not BLEU)**
+  - Confirms semantic improvements
+- **Idiom-only improves idioms but is less balanced**
+- **Prompting fails completely** (~0.02 idiom correctness)
+
+| Model        | Fluency ↑ | Adequacy ↑ | Idiom Correctness ↑ |
+|--------------|----------|-----------|----------------------|
+| Baseline     | 1.78     | 1.70      | 0.44                 |
+| Idiom-only   | 1.74     | 1.76      | 0.54                 |
+| Two-stage    | **1.80** | **1.82**  | **0.58**             |
+| LoRA-4       | 1.79     | 1.80      | 0.56                 |
+| LoRA-16      | 1.77     | 1.78      | 0.54                 |
+|--------------|----------|-----------|----------------------|
+| Prompt       | 1.10     | 1.05      | 0.02                 |
 
 ---
 
