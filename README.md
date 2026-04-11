@@ -20,7 +20,7 @@ This project tackles a key challenge in NLP:
 
 ## 🏗️ Method Overview
 
-![Two-Stage Fine-Tuning Pipeline](figures/pipeline.png)
+![Two-Stage Fine-Tuning Pipeline](figures/two-stage_idiom_pipeline_flowchart.png)
 
 We introduce a **two-stage fine-tuning approach**:
 
@@ -65,7 +65,7 @@ Variants explored:
 ## 📈 Visual Insights
 
 ### Trade-Off: Specialization vs Generalization
-![Trade-off Plot](results/tradeoff_plot_combined_COMET_BLEU_idiomcoracl.png)
+![Trade-off Plot](figures/tradeoff_plot_combined_COMET_BLEU_idiomcor_acl.png)
 
 - Two-stage FT lies on the **Pareto frontier**
 - Balances idiom correctness and general performance
