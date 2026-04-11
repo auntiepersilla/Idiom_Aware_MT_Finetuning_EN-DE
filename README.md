@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 Why This Project Matters
+## Why This Research Matters
 
 Modern machine translation systems are highly fluent — but often fail on **idiomatic expressions** like:
 
@@ -19,11 +19,11 @@ Modern machine translation systems are highly fluent — but often fail on **idi
 
 This project tackles a key challenge in NLP:
 
-👉 **How do we improve specialized capabilities (idioms) without breaking general performance?**
+**How do we improve specialized capabilities (idioms) without breaking general performance?**
 
 ---
 
-## 🏗️ Method Overview
+## Method Overview
 
 ![Two-Stage Fine-Tuning Pipeline](figures/two-stage_idiom_pipeline_flowchart.png)
 
@@ -40,25 +40,25 @@ Variants explored:
 
 ---
 
-## 📊 Results (High-Level)
+## Results (High-Level)
 
-### 🎯 Idiom Performance
+### Idiom Performance
 - **+14 percentage point improvement** in idiom correctness (human evaluation)
 
-### ⚖️ Metric-Dependent Findings
+### Metric-Dependent Findings
 | Metric | Conclusion |
 |--------|------------|
 | BLEU   | Suggests degradation |
 | COMET  | Shows improvement |
 | Human Eval | Confirms COMET |
 
-👉 **Key Insight:**  
+**Key Insight:**  
 > Catastrophic forgetting is not absolute — it depends on how you measure it.
 
 ---
 We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human annotation to capture both lexical and semantic quality.
 
-## 🔍 Key Findings: Automatic Metrics Evaluation (BLEU, chrF, COMET)
+## Key Findings: Automatic Metrics Evaluation (BLEU, chrF, COMET)
 
 - Idiom-only fine-tuning improves semantic quality (COMET) but reduces lexical overlap (BLEU), highlighting metric-dependent conclusions.
 - Two-stage fine-tuning achieves the best **trade-off**
@@ -76,7 +76,7 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
 |--------------|--------------|--------------|----------------|------------|------------|-------------|
 | Prompt (0-shot) | 8.12     | 33.14        | 0.381          | 7.62       | 35.54      | 0.474       |
 
-## 🔍 Key Findings: Human Evaluation (25 Idioms + 25 WMT)
+## Key Findings: Human Evaluation (25 Idioms + 25 WMT)
 
 - **Two-stage fine-tuning performs best overall**
   - Highest adequacy and idiom correctness
@@ -97,7 +97,7 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
 
 ---
 
-## 📈 Visual Insights
+## Visual Insights
 
 ### Trade-Off: Specialization vs Generalization
 ![Trade-off Plot](figures/tradeoff_plot_combined_COMET_BLEU_idiomcor_acl.png)
@@ -112,7 +112,7 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
 
 ---
 
-## 🧪 Technical Stack
+## Technical Stack
 
 - PyTorch
 - HuggingFace Transformers
@@ -122,7 +122,7 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 .
