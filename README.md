@@ -54,11 +54,22 @@ Variants explored:
 
 ## 🔍 Key Findings
 
-- Idiom-only fine-tuning strongly improves idioms
+- Idiom-only fine-tuning improves semantic quality (COMET) but reduces lexical overlap (BLEU), highlighting metric-dependent conclusions.
 - Two-stage fine-tuning achieves the best **trade-off**
 - BLEU and COMET can give **opposite conclusions**
 - Prompt-based methods fail on idioms (~0.02 correctness)
 - LoRA achieves competitive results with **~0.3% parameters**
+
+| Model        | BLEU (Idioms) | chrF (Idioms) | COMET (Idioms) | BLEU (WMT) | chrF (WMT) | COMET (WMT) |
+|--------------|--------------|--------------|----------------|------------|------------|-------------|
+| Baseline     | 39.65        | 60.79        | 0.733          | **27.57**  | 58.43      | 0.833       |
+| Idiom-only   | **44.16**    | **64.44**    | **0.763**      | 26.54      | 58.23      | **0.863**   |
+| Two-stage    | 43.16        | 63.34        | 0.761          | 27.18      | 58.34      | 0.847       |
+| Mixed-data   | 43.49        | 62.92        | 0.741          | 26.92      | 58.10      | 0.852       |
+| LoRA-8       | 42.18        | 61.76        | 0.732          | 27.48      | **58.46**  | 0.842       |
+|--------------|--------------|--------------|----------------|------------|------------|-------------|
+| Prompt (0-shot) | 8.12     | 33.14        | 0.381          | 7.62       | 35.54      | 0.474       |
+
 
 ---
 
