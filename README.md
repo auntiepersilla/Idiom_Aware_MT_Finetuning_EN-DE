@@ -1,4 +1,4 @@
-# 🧠 Idiom-Aware Machine Translation (EN → DE)
+# Idiom-Aware Machine Translation (EN → DE)
 ### Mitigating Catastrophic Forgetting in EN-DE Idiom Translation via Two-Stage Fine-Tuning and Metric-Aware Evaluation
 
 > **TL;DR**  
@@ -10,7 +10,12 @@
 
 Modern machine translation systems are highly fluent — but often fail on **idiomatic expressions** like:
 
-> “kick the bucket” → ❌ literal translation → incorrect meaning
+| EN Idiomatic Expression | DE Literal Translation ❌ | DE Semantic Translation ✅ |
+|---------------------|----------------------|------------------------|
+| kick the bucket     | *den Eimer treten*   | *ins Gras beißen*      |
+| spill the beans     | *die Bohnen verschütten* | *das Geheimnis verraten* |
+| break a leg         | *ein Bein brechen*   | *Hals- und Beinbruch*  |
+
 
 This project tackles a key challenge in NLP:
 
@@ -119,6 +124,8 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
 
 ## 📁 Project Structure
 
+```bash
+.
 ├── config/                       # Config to run on M4 Apple Silicone
 ├── notebooks/                    # Experiments
 ├── qual_preds/                   # DE Sentence Predictions
@@ -129,3 +136,4 @@ We evaluate models using both automatic metrics (BLEU, chrF, COMET) and human an
     ├── prompting/                # Sentence predictions of Prompt-tuning models (*not OPUS)
 ├── figures/                      # Plots and diagrams
 └── README.md
+
