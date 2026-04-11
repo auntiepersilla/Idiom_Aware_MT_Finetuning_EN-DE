@@ -16,6 +16,13 @@ Modern machine translation systems are highly fluent — but often fail on **idi
 | spill the beans     | *die Bohnen verschütten* | *das Geheimnis verraten* |
 | break a leg         | *ein Bein brechen*   | *Hals- und Beinbruch*  |
 
+This works both ways, also from German Idioms to English:
+
+| DE Idiomatic Expression | EN Literal Translation ❌ | EN Semantic Translation ✅ |
+|---------------------|----------------------|------------------------|
+| Ich glaube ich spinne     | *I think I spider*   | *I can't believe it*      |
+| Es ist mir Wurst     | *That's me sausage* | *I couldn't care less* |
+| Ich verstehe nur Bahnhof       | *I understand train station*   | *No clue what's going on*  |
 
 This project tackles a key challenge in NLP:
 
